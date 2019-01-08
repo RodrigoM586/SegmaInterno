@@ -1,21 +1,20 @@
 .. include:: Readme.rst
 
 SEGMA | Documentação de Processos
-================================
-
-Contents:
+==================================
 
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Suporte
+   :caption: Sumário
 
-   SapSuporte.rst
+   Readme.rst
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   :caption: Processos Suporte
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-	
+   SapPEP.rst
+   SapPedidos.rst
+   SapRelatorios.rst
