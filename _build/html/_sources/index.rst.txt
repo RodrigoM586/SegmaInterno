@@ -1,12 +1,17 @@
-**************************
-Documentação SEGMA: Processos Internos
-**************************
+SEGMA | Documentação de Processos
+================================
+
+Contents:
 
 .. toctree::
-   :caption: Documentation
    :maxdepth: 2
 
-   criarpep
+   pep.rst
 
- 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 	
