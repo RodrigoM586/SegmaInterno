@@ -8,24 +8,19 @@ Esta secção pretende documentar a extração dos diversos relatórios de custo
 
 
 Workflow OS
-=================
-
-Ordens de Serviço
-=================
-
-Just a place holder...
+============================
 
 Criar OS
----------------------------
+============================
 
 Just a place holder...
 
 Criar OS da Proposta
----------------------------
+============================
 
 Just a place holder...
 
 Associar OS
----------------------------
+============================
 
 Just a place holder...
