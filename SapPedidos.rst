@@ -1,39 +1,36 @@
-***************
-Processos PEP's
-***************
+******************
+Pedidos de Compra
+******************
 
 .. contents:: Tabela de Conteudos
 
-Esta secção pretende documentar todos os processos e respetivas estrutura em SAP.
+Esta secção pretende documentar todos os processos na realização de um Pedido de Compra.
 
 
-PEP's
+Pedido de Compra 
 =================
 
 Just a place holder...
 
-Estrutura PEP
---------------
+Campos obrigatórios
+----------------------
 
 Just a place holder...
 
-Criar PEP
---------------
+Percentagens por PEP
+----------------------
 
 Just a place holder...
 
 
-Liberar PEP
---------------
+Novo Fornecedor
+----------------------
 
 Just a place holder...
 
-Encerrar PEP
---------------
+
+Estratégia de Liberação 
+------------------------
 
 Just a place holder...
 
-Transções FUT
---------------
-
-Just a place holder...

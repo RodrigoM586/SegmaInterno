@@ -1,5 +1,5 @@
 ***************
-Processos PEP's
+Projetos (PEP)
 ***************
 
 .. contents:: Tabela de Conteudos

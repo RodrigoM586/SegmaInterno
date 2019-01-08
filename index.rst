@@ -5,7 +5,6 @@ SEGMA | Documentação de Processos
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
    :caption: Sumário
 
    Readme.rst
@@ -13,7 +12,7 @@ SEGMA | Documentação de Processos
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Processos Suporte
+   :caption: Depart. Suporte
 
    SapPEP.rst
    SapPedidos.rst

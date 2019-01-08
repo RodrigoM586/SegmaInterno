@@ -1,39 +1,38 @@
 ***************
-Processos PEP's
+Relatórios
 ***************
 
 .. contents:: Tabela de Conteudos
 
-Esta secção pretende documentar todos os processos e respetivas estrutura em SAP.
+Esta secção pretende documentar a extração dos diversos relatórios de custos e upload de informação para o sevidor SQL.
 
 
-PEP's
+SAP -> SQL Server
 =================
 
 Just a place holder...
 
-Estrutura PEP
---------------
+CJI3 - Faturas Pagas
+---------------------------
 
 Just a place holder...
 
-Criar PEP
---------------
+CJI5 - Compromissos
+---------------------------
 
 Just a place holder...
 
-
-Liberar PEP
---------------
-
-Just a place holder...
-
-Encerrar PEP
---------------
+MKVZ - Lista Fornecedores
+---------------------------
 
 Just a place holder...
 
-Transções FUT
---------------
+ME2J - Pedidos p/ projeto
+---------------------------
+
+Just a place holder...
+
+SQLTools - Importar Dados
+---------------------------
 
 Just a place holder...
