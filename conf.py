@@ -97,6 +97,17 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+html_theme_options = {
+    'logo_only': True
+}
+
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+html_logo = "_static/logo_horiz.png"
 
 # -- Options for HTMLHelp output ---------------------------------------------
 

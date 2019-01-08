@@ -1,6 +1,6 @@
 
 ********************************************
-Documentação SEGMA: Processos Internos
+Resumo
 ********************************************
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
