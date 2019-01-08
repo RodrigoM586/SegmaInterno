@@ -1,7 +1,9 @@
-
+**************************
+Documentação SEGMA: Processos Internos
+**************************
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: Documentation
    :maxdepth: 2
 
    criarpep
