@@ -7,8 +7,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
+   :caption: Suporte
 
-   pep.rst
+   SapSuporte.rst
 
 Indices and tables
 ==================
