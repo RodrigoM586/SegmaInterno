@@ -1,3 +1,5 @@
+.. include:: Readme.rst
+
 SEGMA | Documentação de Processos
 ================================
 
