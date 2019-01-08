@@ -1,9 +1,10 @@
-.. include:: Readme.rst
 
-Contents:
 
 .. toctree::
+   :caption: Theme Documentation
    :maxdepth: 2
-   :caption: Contents:
 
-   example
+   criarpep
+
+ 
+	
