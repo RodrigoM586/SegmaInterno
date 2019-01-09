@@ -127,5 +127,12 @@ Transações normalmente utilizadas na gestão de Projetos/PEP's.
 :CJI3: Custos reais.
 :CJ02: Modificação em massa de projetos.
 
+-a            command-line option "a"
+-b file       options can have arguments
+              and long descriptions
+--long        options can be long also
+--input=file  long options can also have
+              arguments
+			  
 
 		
