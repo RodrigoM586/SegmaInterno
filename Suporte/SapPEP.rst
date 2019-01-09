@@ -76,10 +76,20 @@ Estrutura utilizada na criação de projetos do tipo Venda:
 	
 	- O 4º nível deverá sempre, sem exceção, ser associado ao ano corrente;
 	
+Criar Projeto
+=======================	
+
+Através da transação ``CJ20N`` é possível criar um novo Projeto, conforme demonstrado infra. A criação de um Projeto deverá respeitar as normas identificadas supra. 
+
+.. image:: img/criarProjeto.PNG
+
+.. Note:: Deverão ainda ser preenchidos os campos no separador "Dados Básicos", respetivos ao centro, 
+			localização e centro de lucro.
+
 Criar PEP
 =======================
 
-Através da transação ``CJ20N`` é possível criar um novo projeto/pep, conforme demonstrado infra. A criação de um projeto deverá respeitar as normas identificadas supra. 
+Através da transação ``CJ20N`` é possível criar um novo PEP, conforme demonstrado infra. A criação de um PEP deverá respeitar as normas identificadas supra. 
 
 .. image:: img/cj20n.PNG
 
@@ -103,7 +113,7 @@ Encerrar PEP
 
 .. image:: img/encerrarPEP.PNG
 
-Transções FUT
+Transções Frequentes
 =======================
 
 Just a place holder...
