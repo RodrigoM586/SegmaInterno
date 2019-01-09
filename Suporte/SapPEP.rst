@@ -81,7 +81,7 @@ Criar PEP
 
 Através da transação ``CJ20N`` é possível criar um novo projeto/pep, conforme demonstrado infra. A criação de um projeto deverá respeitar as normas identificadas supra. 
 
-.. image:: img/cj20n.png
+.. image:: img/cj20n.PNG
 
 .. Note:: Campos obrigatórios de preenchimento:
 
@@ -96,12 +96,12 @@ Através da transação ``CJ20N`` é possível criar um novo projeto/pep, confor
 Liberar PEP
 =======================
 
-.. image:: img/liberarPEP.png
+.. image:: img/liberarPEP.PNG
 
 Encerrar PEP
 =======================
 
-.. image:: img/encerrarPEP.png
+.. image:: img/encerrarPEP.PNG
 
 Transções FUT
 =======================
