@@ -2,10 +2,7 @@
 Projetos (PEP)
 ***************
 
-.. contents:: Tabela de Conteúdos
-
 Esta secção pretende documentar a estrutura, bem como os processos utilizados em SAP, no âmbito da criação e gestão de projetos (PEP).
-
 
 Estrutura PEP
 =======================
@@ -122,9 +119,11 @@ Transções Frequentes
 
 Transações normalmente utilizadas na gestão de Projetos/PEP's.
 
-CN43N 			Exibir todos os PEP's.
-CN41			Exibir hierarquicamente todos os PEP's
-CJI5 			Compromissos (pedidos por faturar).
-CJI3 			Custos reais.
-CJ02			Modificação em massa de projetos.
+CN43N   Exibir todos os PEP's.
+CN41	Exibir hierarquicamente todos os PEP's
+CJI5	Compromissos (pedidos por faturar).
+CJI3	Custos reais.
+CJ02	Modificação em massa de projetos.
+
+
 		
