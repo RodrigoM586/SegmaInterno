@@ -18,7 +18,6 @@ import os
 sys.path.append(os.path.abspath('./Navia/'))
 sys.path.append(os.path.abspath('./Suporte/'))
 sys.path.append(os.path.abspath('./Tecnica/'))
-sys.path.append(os.path.abspath('./Navia/'))
 
 # -- Project information -----------------------------------------------------
 

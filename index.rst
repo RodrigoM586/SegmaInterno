@@ -27,3 +27,10 @@ SEGMA | Documentação de Processos
    Tecnica/Obras.rst
    Tecnica/Armazem.rst
    Tecnica/Manutencao.rst
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: NAVIA
+
+   Navia/Navia.rst
+
