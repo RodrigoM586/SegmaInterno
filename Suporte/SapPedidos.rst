@@ -51,8 +51,8 @@ Novo Fornecedor/Cliente
 Para a abertura de um novo Fornecedor ou Cliente, para além do preenchimento obrigatório do devido documento, deverá ser 
 reencamihado um email para um dos seguintes contatos, para abertura do registo em SAP: 
 
-Abertura de Fornecedores: `enviar email <laguiar@eda.pt>`__.  
-Abertura de Clientes: `enviar email <anpastor@eda.pt>`__.
+>>> Abertura de Fornecedores: `enviar email <laguiar@eda.pt>`__.  
+>>> Abertura de Clientes: `enviar email <anpastor@eda.pt>`__.
 
 Estratégia de Liberação 
 =======================
