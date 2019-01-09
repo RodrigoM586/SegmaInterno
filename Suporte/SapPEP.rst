@@ -80,7 +80,7 @@ Através da transação ``CJ20N`` é possível criar um novo Projeto, conforme d
 
 .. image:: img/criarProjeto.PNG
 
-.. Note:: Deverão ainda ser preenchidos os campos no separador "Dados Básicos", respetivos ao centro, 
+.. Note:: Deverão ainda ser preenchidos os campos no separador :strong:`Dados Básicos`, respetivos ao centro, 
 			localização e centro de lucro.
 
 Criar PEP
@@ -119,11 +119,13 @@ Transções Frequentes
 
 Transações normalmente utilizadas na gestão de Projetos/PEP's.
 
-CN43N   Exibir todos os PEP's.
-CN41	Exibir hierarquicamente todos os PEP's
-CJI5	Compromissos (pedidos por faturar).
-CJI3	Custos reais.
-CJ02	Modificação em massa de projetos.
+.. bibliographic fields (which also require a transform):
+
+:CN43N: Exibir todos os PEP's.
+:CN41: Exibir hierarquicamente todos os PEP's
+:CJI5: Compromissos (pedidos por faturar).
+:CJI3: Custos reais.
+:CJ02: Modificação em massa de projetos.
 
 
 		
