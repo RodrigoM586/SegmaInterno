@@ -51,8 +51,11 @@ Estrutura utilizada na criação de projetos do tipo Obra:
 .. note::
 
 	Na criação de um projeto de ``Intervenções Pontuais`` é fundamental seguir a seguinte lógica: 
-	- AVAC: ''Interv. Pontuais AVAC 2018'', consoante o ano atual; 
-	- Eletricidade: ''Interv. Pontuais Eletricidade 2018'', consoante o ano atual; 
+	
+		- AVAC: ``Interv. Pontuais AVAC 2018``, consoante o ano atual; 
+	
+		- Eletricidade: ``Interv. Pontuais Eletricidade 2018``, consoante o ano atual; 
+	
 	
 Vendas
 -----------
@@ -76,7 +79,9 @@ Estrutura utilizada na criação de projetos do tipo Venda:
 .. note::
 
 	Na criação de um projeto de ``Vendas`` é fundamental seguir a seguinte lógica: 
-	- O 4º nível deverá sempre, sem exceção, ser associado ao ano corrente;
+	
+		- O 4º nível deverá sempre, sem exceção, ser associado ao ano corrente;
+	
 
 Criar PEP
 =======================
