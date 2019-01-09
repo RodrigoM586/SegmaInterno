@@ -14,15 +14,16 @@ SEGMA | Documentação de Processos
    :numbered:
    :caption: Depart. Suporte
 
-   SapPEP.rst
-   SapPedidos.rst
-   SapRelatorios.rst
+   Suporte/SapPEP.rst
+   Suporte/SapPedidos.rst
+   Suporte/SapRelatorios.rst
    
 .. toctree::
    :maxdepth: 2
    :caption: Depart. Técnico
 
-   OrdemServico.rst
-   ReqCompra.rst
-   Obras.rst
-   Armazem.rst
+   Tecnica/OrdemServico.rst
+   Tecnica/ReqCompra.rst
+   Tecnica/Obras.rst
+   Tecnica/Manutencao.rst
+   Tecnica/Armazem.rst

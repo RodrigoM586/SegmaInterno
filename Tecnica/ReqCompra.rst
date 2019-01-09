@@ -8,17 +8,17 @@ Esta secção pretende documentar a extração dos diversos relatórios de custo
 
 
 Workflow
-==========================
+=============================
 
 Just a place holder...
 
 Criar Requisição
-==========================
+=============================
 
 Just a place holder...
 
 Material p/stock ou C.Custo
-==========================
+=============================
 
 Just a place holder...
 
