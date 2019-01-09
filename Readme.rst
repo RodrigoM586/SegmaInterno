@@ -10,7 +10,7 @@ O objetivo desta página é documentar todos os processos do dia-a-dia utilizamo
 Estrutura
 ==========
 
-Este documento foi esstruturado da seguinte forma ::
+Este documento foi estruturado da seguinte forma ::
 
   Suporte
   
