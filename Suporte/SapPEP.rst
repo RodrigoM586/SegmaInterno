@@ -89,7 +89,7 @@ Através da transação ``CJ20N`` é possível criar um novo Projeto, conforme d
 Criar PEP
 =======================
 
-Através da transação ``CJ20N`` é possível criar um novo PEP, conforme demonstrado infra. A criação de um PEP deverá respeitar as normas identificadas supra. 
+Após criação do Projeto e através da transação ``CJ20N`` é possível criar um novo PEP, conforme demonstrado infra. A criação de um PEP deverá respeitar as normas identificadas supra. 
 
 .. image:: img/cj20n.PNG
 
@@ -108,12 +108,23 @@ Liberar PEP
 
 .. image:: img/liberarPEP.PNG
 
+.. Attention:: Apenas após a liberação é possível a criação de pedidos de compra e/ou imputação de custos.
+
 Encerrar PEP
 =======================
 
 .. image:: img/encerrarPEP.PNG
 
+.. Caution:: Após o encerramento técnico não será possível imputar nenhuma informação. 
+
 Transções Frequentes
 =======================
 
-Just a place holder...
+Transações normalmente utilizadas na gestão de Projetos/PEP's.
+
+CN43N 			Exibir todos os PEP's.
+CN41			Exibir hierarquicamente todos os PEP's
+CJI5 			Compromissos (pedidos por faturar).
+CJI3 			Custos reais.
+CJ02			Modificação em massa de projetos.
+		
