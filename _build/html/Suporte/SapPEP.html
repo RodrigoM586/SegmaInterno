@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Índice" href="../genindex.html" />
     <link rel="search" title="Pesquisar" href="../search.html" />
-    <link rel="next" title="2. Pedidos de Compra" href="SapPedidos.html" />
+    <link rel="next" title="Pedidos de Compra" href="SapPedidos.html" />
     <link rel="prev" title="Resumo" href="../Readme.html" /> 
 
   
@@ -101,7 +101,7 @@
 <li class="toctree-l2"><a class="reference internal" href="#transcoes-frequentes">Transções Frequentes</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="SapPedidos.html">2. Pedidos de Compra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SapPedidos.html">Pedidos de Compra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SapRelatorios.html">3. Relatórios</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Depart. Técnico</span></p>
@@ -180,32 +180,13 @@
            <div itemprop="articleBody">
             
   <div class="section" id="projetos-pep">
-<h1><a class="toc-backref" href="#id1">Projetos (PEP)</a><a class="headerlink" href="#projetos-pep" title="Link permanente para este título">¶</a></h1>
-<div class="contents topic" id="tabela-de-conteudos">
-<p class="topic-title first">Tabela de Conteúdos</p>
-<ul class="simple">
-<li><a class="reference internal" href="#projetos-pep" id="id1">Projetos (PEP)</a><ul>
-<li><a class="reference internal" href="#estrutura-pep" id="id2">Estrutura PEP</a><ul>
-<li><a class="reference internal" href="#contratos" id="id3">Contratos</a></li>
-<li><a class="reference internal" href="#obras" id="id4">Obras</a></li>
-<li><a class="reference internal" href="#vendas" id="id5">Vendas</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#criar-projeto" id="id6">Criar Projeto</a></li>
-<li><a class="reference internal" href="#criar-pep" id="id7">Criar PEP</a></li>
-<li><a class="reference internal" href="#liberar-pep" id="id8">Liberar PEP</a></li>
-<li><a class="reference internal" href="#encerrar-pep" id="id9">Encerrar PEP</a></li>
-<li><a class="reference internal" href="#transcoes-frequentes" id="id10">Transções Frequentes</a></li>
-</ul>
-</li>
-</ul>
-</div>
+<h1>Projetos (PEP)<a class="headerlink" href="#projetos-pep" title="Link permanente para este título">¶</a></h1>
 <p>Esta secção pretende documentar a estrutura, bem como os processos utilizados em SAP, no âmbito da criação e gestão de projetos (PEP).</p>
 <div class="section" id="estrutura-pep">
-<h2><a class="toc-backref" href="#id2">Estrutura PEP</a><a class="headerlink" href="#estrutura-pep" title="Link permanente para este título">¶</a></h2>
+<h2>Estrutura PEP<a class="headerlink" href="#estrutura-pep" title="Link permanente para este título">¶</a></h2>
 <p>Na criação de projetos existem estruturas diferentes consoante o tipo de projeto, seja uma Obra, Contrato ou Vendas. Nas próximas tabelas são apresentadas as diferentes estruturas implmentadas.</p>
 <div class="section" id="contratos">
-<h3><a class="toc-backref" href="#id3">Contratos</a><a class="headerlink" href="#contratos" title="Link permanente para este título">¶</a></h3>
+<h3>Contratos<a class="headerlink" href="#contratos" title="Link permanente para este título">¶</a></h3>
 <p>Estrutura utilizada na criação de projetos do tipo Contrato:</p>
 <table border="1" class="docutils">
 <colgroup>
@@ -246,7 +227,7 @@
 </table>
 </div>
 <div class="section" id="obras">
-<h3><a class="toc-backref" href="#id4">Obras</a><a class="headerlink" href="#obras" title="Link permanente para este título">¶</a></h3>
+<h3>Obras<a class="headerlink" href="#obras" title="Link permanente para este título">¶</a></h3>
 <p>Estrutura utilizada na criação de projetos do tipo Obra:</p>
 <table border="1" class="docutils">
 <colgroup>
@@ -300,7 +281,7 @@
 </div>
 </div>
 <div class="section" id="vendas">
-<h3><a class="toc-backref" href="#id5">Vendas</a><a class="headerlink" href="#vendas" title="Link permanente para este título">¶</a></h3>
+<h3>Vendas<a class="headerlink" href="#vendas" title="Link permanente para este título">¶</a></h3>
 <p>Estrutura utilizada na criação de projetos do tipo Venda:</p>
 <table border="1" class="docutils">
 <colgroup>
@@ -335,12 +316,12 @@
 <tr class="row-odd"><td>4º Nível</td>
 <td>S.EDAXXXXXX.VD.0001</td>
 <td>4</td>
-<td>Nº da Venda (Sequêncial)</td>
+<td>Agrupador Anual (Sequêncial)</td>
 </tr>
 <tr class="row-even"><td>5º Nível</td>
 <td>S.EDAXXXXXX.VD.0001.01</td>
 <td>2</td>
-<td>Nº da sub-projeto (Sequêncial)</td>
+<td>Registo Venda (Sequêncial)</td>
 </tr>
 </tbody>
 </table>
@@ -354,18 +335,18 @@
 </div>
 </div>
 <div class="section" id="criar-projeto">
-<h2><a class="toc-backref" href="#id6">Criar Projeto</a><a class="headerlink" href="#criar-projeto" title="Link permanente para este título">¶</a></h2>
+<h2>Criar Projeto<a class="headerlink" href="#criar-projeto" title="Link permanente para este título">¶</a></h2>
 <p>Através da transação <code class="docutils literal notranslate"><span class="pre">CJ20N</span></code> é possível criar um novo Projeto, conforme demonstrado infra. A criação de um Projeto deverá respeitar as normas identificadas supra.</p>
 <img alt="../_images/criarProjeto.PNG" src="../_images/criarProjeto.PNG" />
 <div class="admonition note">
 <p class="first admonition-title">Nota</p>
-<p class="last">Deverão ainda ser preenchidos os campos no separador «Dados Básicos», respetivos ao centro,
+<p class="last">Deverão ainda ser preenchidos os campos no separador <strong>Dados Básicos</strong>, respetivos ao centro,
 localização e centro de lucro.</p>
 </div>
 </div>
 <div class="section" id="criar-pep">
-<h2><a class="toc-backref" href="#id7">Criar PEP</a><a class="headerlink" href="#criar-pep" title="Link permanente para este título">¶</a></h2>
-<p>Através da transação <code class="docutils literal notranslate"><span class="pre">CJ20N</span></code> é possível criar um novo PEP, conforme demonstrado infra. A criação de um PEP deverá respeitar as normas identificadas supra.</p>
+<h2>Criar PEP<a class="headerlink" href="#criar-pep" title="Link permanente para este título">¶</a></h2>
+<p>Após criação do Projeto e através da transação <code class="docutils literal notranslate"><span class="pre">CJ20N</span></code> é possível criar um novo PEP, conforme demonstrado infra. A criação de um PEP deverá respeitar as normas identificadas supra.</p>
 <img alt="../_images/cj20n.PNG" src="../_images/cj20n.PNG" />
 <div class="admonition note">
 <p class="first admonition-title">Nota</p>
@@ -382,16 +363,52 @@ localização e centro de lucro.</p>
 </div>
 </div>
 <div class="section" id="liberar-pep">
-<h2><a class="toc-backref" href="#id8">Liberar PEP</a><a class="headerlink" href="#liberar-pep" title="Link permanente para este título">¶</a></h2>
+<h2>Liberar PEP<a class="headerlink" href="#liberar-pep" title="Link permanente para este título">¶</a></h2>
 <img alt="../_images/liberarPEP.PNG" src="../_images/liberarPEP.PNG" />
+<div class="admonition attention">
+<p class="first admonition-title">Atenção</p>
+<p class="last">Apenas após a liberação é possível a criação de pedidos de compra e/ou imputação de custos.</p>
+</div>
 </div>
 <div class="section" id="encerrar-pep">
-<h2><a class="toc-backref" href="#id9">Encerrar PEP</a><a class="headerlink" href="#encerrar-pep" title="Link permanente para este título">¶</a></h2>
+<h2>Encerrar PEP<a class="headerlink" href="#encerrar-pep" title="Link permanente para este título">¶</a></h2>
 <img alt="../_images/encerrarPEP.PNG" src="../_images/encerrarPEP.PNG" />
+<div class="admonition caution">
+<p class="first admonition-title">Cuidado</p>
+<p class="last">Após o encerramento técnico não será possível imputar nenhuma informação.</p>
+</div>
 </div>
 <div class="section" id="transcoes-frequentes">
-<h2><a class="toc-backref" href="#id10">Transções Frequentes</a><a class="headerlink" href="#transcoes-frequentes" title="Link permanente para este título">¶</a></h2>
-<p>Just a place holder…</p>
+<h2>Transções Frequentes<a class="headerlink" href="#transcoes-frequentes" title="Link permanente para este título">¶</a></h2>
+<p>Transações normalmente utilizadas na gestão de Projetos/PEP’s.</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Transaç.</th>
+<th class="head">Descrição</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>CN43N</td>
+<td>Exibir todos os PEP’s.</td>
+</tr>
+<tr class="row-odd"><td>CN41</td>
+<td>Exibir hierarquicamente todos os PEP’s</td>
+</tr>
+<tr class="row-even"><td>CJI5</td>
+<td>Compromissos (pedidos por faturar).</td>
+</tr>
+<tr class="row-odd"><td>CJI3</td>
+<td>Custos reais.</td>
+</tr>
+<tr class="row-even"><td>CJ02</td>
+<td>Modificação em massa de projetos.</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 
@@ -403,7 +420,7 @@ localização e centro de lucro.</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="SapPedidos.html" class="btn btn-neutral float-right" title="2. Pedidos de Compra" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="SapPedidos.html" class="btn btn-neutral float-right" title="Pedidos de Compra" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../Readme.html" class="btn btn-neutral" title="Resumo" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>

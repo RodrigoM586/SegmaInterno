@@ -64,9 +64,9 @@ Estrutura utilizada na criação de projetos do tipo Venda:
 +------------+-------------------------+----------+--------------------------------+
 | 3º Nível   | S.EDAXXXXXX.VD          | 2        | Tipo Objeto (OB)               |
 +------------+-------------------------+----------+--------------------------------+
-| 4º Nível   | S.EDAXXXXXX.VD.0001     | 4        | Nº da Venda (Sequêncial)       |
+| 4º Nível   | S.EDAXXXXXX.VD.0001     | 4        | Agrupador Anual (Sequêncial)   |
 +------------+-------------------------+----------+--------------------------------+
-| 5º Nível   | S.EDAXXXXXX.VD.0001.01  | 2        | Nº da sub-projeto (Sequêncial) |
+| 5º Nível   | S.EDAXXXXXX.VD.0001.01  | 2        | Registo Venda (Sequêncial)     |
 +------------+-------------------------+----------+--------------------------------+
 
 .. Important:: Na criação de um projeto de ``Vendas`` é fundamental seguir a seguinte lógica. 
@@ -119,20 +119,18 @@ Transções Frequentes
 
 Transações normalmente utilizadas na gestão de Projetos/PEP's.
 
-.. bibliographic fields (which also require a transform):
++-----------+--------------------------------------------+
+| Transaç.  | Descrição                                  |
++===========+============================================+
+| CN43N     | Exibir todos os PEP's.                     |
++-----------+--------------------------------------------+
+| CN41      | Exibir hierarquicamente todos os PEP's     |
++-----------+--------------------------------------------+
+| CJI5      | Compromissos (pedidos por faturar).        |
++-----------+--------------------------------------------+
+| CJI3      | Custos reais.                              |
++-----------+--------------------------------------------+
+| CJ02      | Modificação em massa de projetos.          |	  
++-----------+--------------------------------------------+
 
-:CN43N: Exibir todos os PEP's.
-:CN41: Exibir hierarquicamente todos os PEP's
-:CJI5: Compromissos (pedidos por faturar).
-:CJI3: Custos reais.
-:CJ02: Modificação em massa de projetos.
 
--a            command-line option "a"
--b file       options can have arguments
-              and long descriptions
---long        options can be long also
---input=file  long options can also have
-              arguments
-			  
-
-		
