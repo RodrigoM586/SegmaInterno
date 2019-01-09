@@ -29,19 +29,26 @@ Através da transação ``ME21N`` é possível criar um novo Pedido de Compra, c
 
 			
 Percentagens por PEP
+-----------------------
+
+Para criar um Pedido de Compra com percentagem do valor distribuída por PEP's, é necessário selecionar ``2 - Distrubição percentual``, no separador :guilabel:`Clc - > Distribuição`.
+
+.. image:: img/PedidoPercentagem.PNG
+
+Novo Fornecedor/Cliente
 =======================
 
-Just a place holder...
+Para a abertura de um novo Fornecedor ou Cliente, para além do preenchimento obrigatório do devido documento, deverá ser 
+reencamihado um email para um dos seguintes contatos, para abertura do registo em SAP: 
 
-
-Novo Fornecedor
-=======================
-
-Just a place holder...
-
+Abertura de Fornecedores: `enviar email <laguiar@eda.pt>`__.  
+Abertura de Clientes: `enviar email <anpastor@eda.pt>`__.
 
 Estratégia de Liberação 
 =======================
 
-Just a place holder...
+Para efeitos de estratégia de aprovação, está definido os seguintes critérios:
+
+- Quando o Pedido de Compra ``<= 5000 €``, a aprovação da mesma será feita pelo **Marco Silveira**. 
+- Quando o Pedido de Compra ``>= 5000 €``, a aprovação da mesma será feita pelo **Carlos Pereira**. 
 
