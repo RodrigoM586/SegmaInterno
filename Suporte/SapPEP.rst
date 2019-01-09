@@ -48,7 +48,8 @@ Estrutura utilizada na criação de projetos do tipo Obra:
 | 5º Nível   | S.EDAXXXXXX.OB.0001.01  | 2        | Nº da sub-projeto (Sequêncial) |
 +------------+-------------------------+----------+--------------------------------+
 
-.. note:: Na criação de um projeto de ``Intervenções Pontuais`` é fundamental seguir a seguinte lógica. 
+.. Important:: Na criação de um projeto de ``Intervenções Pontuais`` é fundamental seguir a seguinte lógica. 
+	
 	- AVAC: ``Interv. Pontuais AVAC 2018``, consoante o ano corrente; 
 	- Eletricidade: ``Interv. Pontuais Eletricidade 2018``, consoante o ano corrente; 
 	
@@ -71,24 +72,36 @@ Estrutura utilizada na criação de projetos do tipo Venda:
 | 5º Nível   | S.EDAXXXXXX.VD.0001.01  | 2        | Nº da sub-projeto (Sequêncial) |
 +------------+-------------------------+----------+--------------------------------+
 
-.. note:: Na criação de um projeto de ``Vendas`` é fundamental seguir a seguinte lógica. 
+.. Important:: Na criação de um projeto de ``Vendas`` é fundamental seguir a seguinte lógica. 
+	
 	- O 4º nível deverá sempre, sem exceção, ser associado ao ano corrente;
 	
 Criar PEP
 =======================
 
-Just a place holder...
+Através da transação ``CJ20N`` é possível criar um novo projeto/pep, conforme demonstrado infra. A criação de um projeto deverá respeitar as normas identificadas supra. 
 
+.. image:: img/cj20n.png
+
+.. Note:: Campos obrigatórios de preenchimento:
+
+		- :strong:`Tip. Projeto`: variável
+		- :strong:`Centro Custo Responsável`: variável
+		- :strong:`Centro Custo Solicitante`: variável
+		- :strong:`Empresa Solicit`: 1005
+		- :strong:`Localização`: variável
+		- :strong:`Resp. SEGMA`: variável
+		- :strong:`Tipo Atividade`: variável
 
 Liberar PEP
 =======================
 
-Just a place holder...
+.. image:: img/liberarPEP.png
 
 Encerrar PEP
 =======================
 
-Just a place holder...
+.. image:: img/encerrarPEP.png
 
 Transções FUT
 =======================

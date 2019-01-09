@@ -3,16 +3,9 @@
 Resumo
 ********************************************
 
-.. image:: https://readthedocs.org/projects/sphinx-rtd-theme/badge/?version=latest
-  :target: http://sphinx-rtd-theme.readthedocs.io/en/latest/?badge=latest
-  :alt: Documentation Status
-
-O objetivo desta página é a agregar e documentar todos os processos do dia-a-dia utilizamos na SEGMA.
-
-Com o príncipal intuito de normalizar, uniformizar e agilizar o processo de gestão e criação de novos objetos.
+O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, sendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
 
 .. _readthedocs.org: http://www.readthedocs.org
-
 
 Estrutura
 ==========
@@ -25,7 +18,7 @@ Pretende documentar todas as operações realizadas, pelo departamento de Suport
 
   Técnica
   
-Pretende documentar e explicar os vários processos utilizados nas diversas operações realizadas na Base de Dados 
+Pretende documentar e explicar os vários processos e operações realizadas pelo departamento técnico. 
 
 
 Contribuição
