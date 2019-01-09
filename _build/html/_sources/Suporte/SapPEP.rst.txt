@@ -20,7 +20,7 @@ Estrutura utilizada na criação de projetos do tipo Contrato:
 +------------+-------------------------+----------+-----------------------------+
 | Nível      | Máscara                 | Caract.  | Denominação                 |
 +============+=========================+==========+=============================+
-| 1º Nível   | S.                      | 1        | Segma                       |
+| 1º Nível   | S.                      | 1        | SEGMA                       |
 +------------+-------------------------+----------+-----------------------------+
 | 2º Nível   | S.EDAXXXXXX             | 9        | Nome Cliente                |
 +------------+-------------------------+----------+-----------------------------+
@@ -37,7 +37,7 @@ Estrutura utilizada na criação de projetos do tipo Obra:
 +------------+-------------------------+----------+--------------------------------+
 | Nível      | Máscara                 | Caract.  | Denominação                    |
 +============+=========================+==========+================================+
-| 1º Nível   | S.                      | 1        | Segma                          |
+| 1º Nível   | S.                      | 1        | SEGMA                          |
 +------------+-------------------------+----------+--------------------------------+
 | 2º Nível   | S.EDAXXXXXX             | 9        | Nome Cliente                   |
 +------------+-------------------------+----------+--------------------------------+
@@ -51,8 +51,8 @@ Estrutura utilizada na criação de projetos do tipo Obra:
 .. note::
 
 	Na criação de um projeto de ``Intervenções Pontuais`` é fundamental seguir a seguinte lógica: 
-		- AVAC: ``Interv. Pontuais AVAC 2018``, consoante o ano atual; 
-		- Eletricidade: ``Interv. Pontuais Eletricidade 2018``, consoante o ano atual; 
+		- AVAC: ``Interv. Pontuais AVAC 2018``, consoante o ano corrente; 
+		- Eletricidade: ``Interv. Pontuais Eletricidade 2018``, consoante o ano corrente; 
 	
 Vendas
 -----------
@@ -62,7 +62,7 @@ Estrutura utilizada na criação de projetos do tipo Venda:
 +------------+-------------------------+----------+--------------------------------+
 | Nível      | Máscara                 | Caract.  | Denominação                    |
 +============+=========================+==========+================================+
-| 1º Nível   | S.                      | 1        | Segma                          |
+| 1º Nível   | S.                      | 1        | SEGMA                          |
 +------------+-------------------------+----------+--------------------------------+
 | 2º Nível   | S.EDAXXXXXX             | 9        | Nome Cliente                   |
 +------------+-------------------------+----------+--------------------------------+
