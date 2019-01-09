@@ -25,5 +25,5 @@ SEGMA | Documentação de Processos
    Tecnica/OrdemServico.rst
    Tecnica/ReqCompra.rst
    Tecnica/Obras.rst
-   Tecnica/Manutencao.rst
    Tecnica/Armazem.rst
+   Tecnica/Manutencao.rst
