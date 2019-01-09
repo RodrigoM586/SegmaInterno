@@ -9,7 +9,7 @@ Workflow Compras
 
 .. image:: img/Diagrama_PedidoCompra.PNG
 
-Pedido de Compra
+Criar Pedido de Compra
 =======================
 
 Através da transação ``ME21N`` é possível criar um novo Pedido de Compra, conforme demonstrado infra. 
@@ -26,14 +26,24 @@ Através da transação ``ME21N`` é possível criar um novo Pedido de Compra, c
 				Também deverá ser preenchido o campo ``Nossa Referência``, no separador :guilabel:`Comunicação`, 
 				com o respetivo Nº da Requisição de Compra (interno).
 
-
-			
 Percentagens por PEP
 -----------------------
 
 Para criar um Pedido de Compra com percentagem do valor distribuída por PEP's, é necessário selecionar ``2 - Distrubição percentual``, no separador :guilabel:`Clc - > Distribuição`.
 
 .. image:: img/PedidoPercentagem.PNG
+
+Contas do Razão
+-----------------------
+
+Deverá ser selecionada uma das seguintes Contas do Razaão consoante o tipo de material/serviço:
+
+.. csv-table::
+   :file: ContasRazao.csv
+   :header-rows: 1 
+   :class: longtable
+   :widths: 1 1
+   
 
 Novo Fornecedor/Cliente
 =======================

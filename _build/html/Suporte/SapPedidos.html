@@ -90,8 +90,9 @@
 <li class="toctree-l1"><a class="reference internal" href="SapPEP.html">Projetos (PEP)</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Pedidos de Compra</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#workflow-compras">Workflow Compras</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#pedido-de-compra">Pedido de Compra</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#criar-pedido-de-compra">Criar Pedido de Compra</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#percentagens-por-pep">Percentagens por PEP</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#contas-do-razao">Contas do Razão</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#novo-fornecedor-cliente">Novo Fornecedor/Cliente</a></li>
@@ -182,8 +183,8 @@
 <h2>Workflow Compras<a class="headerlink" href="#workflow-compras" title="Link permanente para este título">¶</a></h2>
 <img alt="../_images/Diagrama_PedidoCompra.PNG" src="../_images/Diagrama_PedidoCompra.PNG" />
 </div>
-<div class="section" id="pedido-de-compra">
-<h2>Pedido de Compra<a class="headerlink" href="#pedido-de-compra" title="Link permanente para este título">¶</a></h2>
+<div class="section" id="criar-pedido-de-compra">
+<h2>Criar Pedido de Compra<a class="headerlink" href="#criar-pedido-de-compra" title="Link permanente para este título">¶</a></h2>
 <p>Através da transação <code class="docutils literal notranslate"><span class="pre">ME21N</span></code> é possível criar um novo Pedido de Compra, conforme demonstrado infra.</p>
 <img alt="../_images/PedidoCompra.PNG" src="../_images/PedidoCompra.PNG" />
 <div class="admonition note">
@@ -202,6 +203,215 @@ com o respetivo Nº da Requisição de Compra (interno).</p>
 <h3>Percentagens por PEP<a class="headerlink" href="#percentagens-por-pep" title="Link permanente para este título">¶</a></h3>
 <p>Para criar um Pedido de Compra com percentagem do valor distribuída por PEP’s, é necessário selecionar <code class="docutils literal notranslate"><span class="pre">2</span> <span class="pre">-</span> <span class="pre">Distrubição</span> <span class="pre">percentual</span></code>, no separador <span class="guilabel">Clc - &gt; Distribuição</span>.</p>
 <img alt="../_images/PedidoPercentagem.PNG" src="../_images/PedidoPercentagem.PNG" />
+</div>
+<div class="section" id="contas-do-razao">
+<h3>Contas do Razão<a class="headerlink" href="#contas-do-razao" title="Link permanente para este título">¶</a></h3>
+<p>Deverá ser selecionada uma das seguintes Contas do Razaão consoante o tipo de material/serviço:</p>
+<table border="1" class="colwidths-given longtable docutils">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Conta</th>
+<th class="head">Descrição</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>6211000000</td>
+<td>Subcontratos-Materi.</td>
+</tr>
+<tr class="row-odd"><td>6212000000</td>
+<td>Subcontratos-Serviç.</td>
+</tr>
+<tr class="row-even"><td>6221010000</td>
+<td>Trab.Esp-Ser.Inform.</td>
+</tr>
+<tr class="row-odd"><td>6221020000</td>
+<td>Trab.Esp-Cont/Finan.</td>
+</tr>
+<tr class="row-even"><td>6221030000</td>
+<td>Trab.Esp.-Outros</td>
+</tr>
+<tr class="row-odd"><td>6222010000</td>
+<td>Pub.Pro-Méd.Imprensa</td>
+</tr>
+<tr class="row-even"><td>6222020000</td>
+<td>Pub.Prop-Patrocínios</td>
+</tr>
+<tr class="row-odd"><td>6223000000</td>
+<td>Vigilân.e Segurança</td>
+</tr>
+<tr class="row-even"><td>6224000000</td>
+<td>Honorários - ReCibos Verdes</td>
+</tr>
+<tr class="row-odd"><td>6225000000</td>
+<td>Comissões</td>
+</tr>
+<tr class="row-even"><td>6226010000</td>
+<td>Cons. e Rep-EOConst.</td>
+</tr>
+<tr class="row-odd"><td>6226020000</td>
+<td>Cons. e Rep-E.Básico</td>
+</tr>
+<tr class="row-even"><td>6226030000</td>
+<td>Cons. e Rep-E.Trans.</td>
+</tr>
+<tr class="row-odd"><td>6226040000</td>
+<td>Cons. e Rep-E.Admin.</td>
+</tr>
+<tr class="row-even"><td>6226050000</td>
+<td>Cons. e Rep-Eq.Info.</td>
+</tr>
+<tr class="row-odd"><td>6226060000</td>
+<td>Cons.Rep-O.Ac.F.Tang</td>
+</tr>
+<tr class="row-even"><td>6231000000</td>
+<td>Fer.Uten.Desg.Rápido</td>
+</tr>
+<tr class="row-odd"><td>6232000000</td>
+<td>Livros e Doc.Técnica</td>
+</tr>
+<tr class="row-even"><td>6233000000</td>
+<td>Material Escritório</td>
+</tr>
+<tr class="row-odd"><td>6234000000</td>
+<td>Artigos para Oferta</td>
+</tr>
+<tr class="row-even"><td>6241000000</td>
+<td>Electricidade</td>
+</tr>
+<tr class="row-odd"><td>6242010000</td>
+<td>Gasóleo</td>
+</tr>
+<tr class="row-even"><td>6242010000</td>
+<td>Gasóleo</td>
+</tr>
+<tr class="row-odd"><td>6242020000</td>
+<td>Gasolina</td>
+</tr>
+<tr class="row-even"><td>6242020000</td>
+<td>Gasolina</td>
+</tr>
+<tr class="row-odd"><td>6242030000</td>
+<td>Gaz</td>
+</tr>
+<tr class="row-even"><td>6242050000</td>
+<td>Oxigénio Acitilénio</td>
+</tr>
+<tr class="row-odd"><td>6242060000</td>
+<td>Outros Combustíveis</td>
+</tr>
+<tr class="row-even"><td>6243000000</td>
+<td>Água</td>
+</tr>
+<tr class="row-odd"><td>6248000000</td>
+<td>Outros fluidos</td>
+</tr>
+<tr class="row-even"><td>6251010000</td>
+<td>Deslocaç. e Estadas</td>
+</tr>
+<tr class="row-odd"><td>6251010000</td>
+<td>Deslocaç. e Estadas</td>
+</tr>
+<tr class="row-even"><td>6252010000</td>
+<td>Transp.Pes-Terrestre</td>
+</tr>
+<tr class="row-odd"><td>6252020000</td>
+<td>Transp.Pes-Viat.Pro.</td>
+</tr>
+<tr class="row-even"><td>6253010000</td>
+<td>Transp. Mercadorias</td>
+</tr>
+<tr class="row-odd"><td>6253010000</td>
+<td>Transp. Mercadorias</td>
+</tr>
+<tr class="row-even"><td>6261010000</td>
+<td>Rendas-Ed.Out.Const.</td>
+</tr>
+<tr class="row-odd"><td>6261020000</td>
+<td>Rendas-Equipamento</td>
+</tr>
+<tr class="row-even"><td>6261030000</td>
+<td>Rendas-Terrenos</td>
+</tr>
+<tr class="row-odd"><td>6261040000</td>
+<td>Aluguer-Viaturas</td>
+</tr>
+<tr class="row-even"><td>6261090000</td>
+<td>Outros Alugueres</td>
+</tr>
+<tr class="row-odd"><td>6262010000</td>
+<td>Franq.Selos Postais</td>
+</tr>
+<tr class="row-even"><td>6262020000</td>
+<td>Telefones</td>
+</tr>
+<tr class="row-odd"><td>6262030000</td>
+<td>Expresso Mail</td>
+</tr>
+<tr class="row-even"><td>6262040000</td>
+<td>Telemóveis</td>
+</tr>
+<tr class="row-odd"><td>6262050000</td>
+<td>Circuitos</td>
+</tr>
+<tr class="row-even"><td>6262080000</td>
+<td>Comunic.-O. Despesas</td>
+</tr>
+<tr class="row-odd"><td>6263010000</td>
+<td>Seguro Multiriscos</td>
+</tr>
+<tr class="row-even"><td>6263020000</td>
+<td>Seguro Automóvel</td>
+</tr>
+<tr class="row-odd"><td>6263030000</td>
+<td>Seguro R.Civil-Geral</td>
+</tr>
+<tr class="row-even"><td>6263040000</td>
+<td>Seguro R.Civil-D&amp;O</td>
+</tr>
+<tr class="row-odd"><td>6263050000</td>
+<td>Seg. R.Civil -Outros</td>
+</tr>
+<tr class="row-even"><td>6263060000</td>
+<td>Seg.Aciden. Pessoais</td>
+</tr>
+<tr class="row-odd"><td>6263070000</td>
+<td>Seguro Transporte</td>
+</tr>
+<tr class="row-even"><td>6263080000</td>
+<td>Seguro-Outros</td>
+</tr>
+<tr class="row-odd"><td>6265000000</td>
+<td>Contenc. e notariado</td>
+</tr>
+<tr class="row-even"><td>6266000000</td>
+<td>Desp. Representação</td>
+</tr>
+<tr class="row-odd"><td>6267000000</td>
+<td>Limp  hig.e conforto</td>
+</tr>
+<tr class="row-even"><td>6268010000</td>
+<td>Prestadores de Serv.</td>
+</tr>
+<tr class="row-odd"><td>6268020000</td>
+<td>Curso Formação Prof.</td>
+</tr>
+<tr class="row-even"><td>6268030000</td>
+<td>Sem Cong.e Conferên.</td>
+</tr>
+<tr class="row-odd"><td>6268040000</td>
+<td>Fardamento e Calçado</td>
+</tr>
+<tr class="row-even"><td>6268050000</td>
+<td>Jornais e Revistas</td>
+</tr>
+<tr class="row-odd"><td>6268090000</td>
+<td>Serv.Diversos-Outros</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 <div class="section" id="novo-fornecedor-cliente">
