@@ -7,7 +7,7 @@ Esta secção pretende documentar a extração dos diversos relatórios de custo
 Requisitos
 ====================================
 
-.. figure:: img/VisualStudioIcon.PNG 
+.. figure:: img/VisualStudioIcon.png 
     :align: right
     :figwidth: 200px
 	
@@ -25,7 +25,7 @@ Local dos ficheiros::
 Importar Resultado Líquido de Obras
 ====================================
 
-Este ficheiro importa os diferentes dados referentes à atualização do resultado líquido de todos os PEP's criados, em Access.
+Este ficheiro exporta os diferentes dados referentes à atualização do resultado líquido de todos os PEP's criados, de SAP para SQL Server.
 
 Nome e Local dos ficheiro::
 
@@ -116,27 +116,99 @@ O nome do ficheiro deverá ser ``cji5.xls``.
 MKVZ - Lista Fornecedores
 ---------------------------
 
-Just a place holder...
+.. sidebar:: Colunas obrigatórias
+
+	Fornecedor | 
+	Nome do fornecedor 
+
+Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório, 
+transferir o mesmo para a pasta do programa e guardar o ficheiro como ``Folha de Cálculo do Microsoft Excel 97-2003``.
+
+O nome do ficheiro deverá ser ``fornecedores.xls``.
+
+.. Note:: Esta lista apenas recolhe o nº e nome do Fornecedor para posterior relação com o relatório dos Pedidos de Compra. 
 
 ME2J - Pedidos p/ projeto
 ---------------------------
 
-Just a place holder...
+.. sidebar:: Colunas obrigatórias
 
-SQLTools - Importar Dados
----------------------------
+	Documento de compras |
+	Nome do fornecedor 
 
-Just a place holder...
+	
+Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório, 
+transferir o mesmo para a pasta do programa e guardar o ficheiro como ``Folha de Cálculo do Microsoft Excel 97-2003``.
+
+O nome do ficheiro deverá ser ``pedidos.xls``.
+
+.. Important:: Antes de executar a transação:
+
+ - Selecionar separador :guilabel:`Projeto` e inserir ``S.*``.
+ 
+ - Selecionar separador :guilabel:`Organização de Compras` e inserir ``5000 e 5001``.
+ 
+ - Selecionar separador :guilabel:`Abrangência da Lista`, e selecionar o máximo de ``Best_ALV.``.
 
 ---------
 
 Importar Dados de Stock 
 ====================================
 
-Just a place holder...
+Este ficheiro exporta os dados dos materiais e quantidades em stock, conforme o depósito, de SAP para SQL Server.
+
+Nome e Local dos ficheiro::
+
+>>Importação Materiais SAP SQL
+>\\smgctpdfs\areas\segma\SEGMA - SUPORTE\13 - BASE DADOS\07 - Relatórios\Importação Materiais SAP SQL\
+
+.. image:: img/sqltools2.PNG
+
+.. Attention:: Para correr com sucesso este ficheiro é fundamental a exportação atualizada das transações infra identificadas.			
+
 
 MB52 - Stocks pode depósito
 ----------------------------
 
-Just a place holder...
+.. sidebar:: Colunas obrigatórias
 
+	Material | 
+	Texto breve de material | 
+	Depósito | 
+	Utilização livre | 
+	UM básica | 
+	Val.utiliz.livre | 
+	Grupo de mercadorias
+
+Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório, 
+transferir o mesmo para a pasta do programa e guardar o ficheiro como ``Folha de Cálculo do Microsoft Excel 97-2003``
+
+O nome do ficheiro deverá ser ``stocks.xls``.
+
+.. image:: img/sapstocks.PNG	
+
+.. Important:: Antes de executar a transação:
+
+ - Selecionar separador :guilabel:`Centro` e inserir ``5000``.
+ 
+ - Selecionar separador :guilabel:`Depósito` e inserir ``5200``.
+ 
+ - Selecionar :guilabel:`Sem linhas estoque zero`.
+ 
+ - Selecionar :guilabel:`Representação não hierárquica`.
+
+SQLTools - Importar Dados
+====================================
+
+Só após executar o programa ``Importação Dados SAP SQL`` e/ou ``Importação Materiais SAP SQL`` e pressionar  :guilabel:`Start` os dados serão descarregados no servidor, com a respetiva indicação de sucesso.
+
+.. figure:: img/SqlDataTools.PNG
+   :align: center
+
+   Importação Dados SAP SQL - **Atualização Resultado Líquido**
+
+   
+.. figure:: img/SqlDataTools2.PNG
+   :align: center
+
+   Importação Materiais SAP SQL - **Atualização de Stocks**

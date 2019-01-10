@@ -87,7 +87,7 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../Readme.html">Resumo</a></li>
 </ul>
-<p class="caption"><span class="caption-text">Depart. Suporte</span></p>
+<p class="caption"><span class="caption-text">Departamento Suporte</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="SapPEP.html">1. Projetos (PEP)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SapPedidos.html">2. Pedidos de Compra</a></li>
@@ -99,28 +99,25 @@
 <li class="toctree-l3"><a class="reference internal" href="#cji5-compromissos">4.2.2. CJI5 - Compromissos</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#mkvz-lista-fornecedores">4.2.3. MKVZ - Lista Fornecedores</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#me2j-pedidos-p-projeto">4.2.4. ME2J - Pedidos p/ projeto</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#sqltools-importar-dados">4.2.5. SQLTools - Importar Dados</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#importar-dados-de-stock">4.3. Importar Dados de Stock</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#mb52-stocks-pode-deposito">4.3.1. MB52 - Stocks pode depósito</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="#sqltools-importar-dados">4.4. SQLTools - Importar Dados</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="SapRelatorios.html">5. Relatórios</a></li>
 </ul>
-<p class="caption"><span class="caption-text">Depart. Técnico</span></p>
+<p class="caption"><span class="caption-text">Departamento Técnico</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/OrdemServico.html">Ordens de Serviço</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/ReqCompra.html">Requisições de Compra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/Obras.html">Obras/Contratos</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Armazem.html">Armazem</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Armazem.html">Armazém</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/Manutencao.html">Manutenção</a></li>
-</ul>
-<p class="caption"><span class="caption-text">NAVIA</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../Navia/Navia.html">NAVIA</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Navia.html">NAVIA</a></li>
 </ul>
 
             
@@ -191,7 +188,7 @@
 <div class="section" id="requisitos">
 <h2>4.1. Requisitos<a class="headerlink" href="#requisitos" title="Link permanente para este título">¶</a></h2>
 <div class="figure align-right" style="width: 200px">
-<img alt="../_images/VisualStudioIcon.PNG" src="../_images/VisualStudioIcon.PNG" />
+<img alt="../_images/VisualStudioIcon.png" src="../_images/VisualStudioIcon.png" />
 </div>
 <p>Para a execução da ferramenta de exportação de dados para o Servidor SQL é necessário realizar o download do programa
 <code class="docutils literal notranslate"><span class="pre">SQL</span> <span class="pre">Server</span> <span class="pre">Data</span> <span class="pre">Tools</span></code>.</p>
@@ -204,7 +201,7 @@
 <hr class="docutils" />
 <div class="section" id="importar-resultado-liquido-de-obras">
 <h2>4.2. Importar Resultado Líquido de Obras<a class="headerlink" href="#importar-resultado-liquido-de-obras" title="Link permanente para este título">¶</a></h2>
-<p>Este ficheiro importa os diferentes dados referentes à atualização do resultado líquido de todos os PEP’s criados, em Access.</p>
+<p>Este ficheiro exporta os diferentes dados referentes à atualização do resultado líquido de todos os PEP’s criados, de SAP para SQL Server.</p>
 <p>Nome e Local dos ficheiro:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&gt;&gt;</span><span class="n">Importação</span> <span class="n">Dados</span> <span class="n">SAP</span> <span class="n">SQL</span><span class="o">.</span><span class="n">sln</span>
 <span class="o">&gt;</span>\\<span class="n">smgctpdfs</span>\<span class="n">areas</span>\<span class="n">segma</span>\<span class="n">SEGMA</span> <span class="o">-</span> <span class="n">SUPORTE</span>\<span class="mi">13</span> <span class="o">-</span> <span class="n">BASE</span> <span class="n">DADOS</span>\<span class="mi">07</span> <span class="o">-</span> <span class="n">Relatórios</span>\<span class="n">Importação</span> <span class="n">Dados</span> <span class="n">SAP</span> <span class="n">SQL</span>
@@ -288,24 +285,92 @@ transferir o mesmo para a pasta do programa e guardar o ficheiro como <code clas
 </div>
 <div class="section" id="mkvz-lista-fornecedores">
 <h3>4.2.3. MKVZ - Lista Fornecedores<a class="headerlink" href="#mkvz-lista-fornecedores" title="Link permanente para este título">¶</a></h3>
-<p>Just a place holder…</p>
+<div class="sidebar">
+<p class="first sidebar-title">Colunas obrigatórias</p>
+<p class="last">Fornecedor |
+Nome do fornecedor</p>
+</div>
+<p>Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório,
+transferir o mesmo para a pasta do programa e guardar o ficheiro como <code class="docutils literal notranslate"><span class="pre">Folha</span> <span class="pre">de</span> <span class="pre">Cálculo</span> <span class="pre">do</span> <span class="pre">Microsoft</span> <span class="pre">Excel</span> <span class="pre">97-2003</span></code>.</p>
+<p>O nome do ficheiro deverá ser <code class="docutils literal notranslate"><span class="pre">fornecedores.xls</span></code>.</p>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Esta lista apenas recolhe o nº e nome do Fornecedor para posterior relação com o relatório dos Pedidos de Compra.</p>
+</div>
 </div>
 <div class="section" id="me2j-pedidos-p-projeto">
 <h3>4.2.4. ME2J - Pedidos p/ projeto<a class="headerlink" href="#me2j-pedidos-p-projeto" title="Link permanente para este título">¶</a></h3>
-<p>Just a place holder…</p>
+<div class="sidebar">
+<p class="first sidebar-title">Colunas obrigatórias</p>
+<p class="last">Documento de compras |
+Nome do fornecedor</p>
 </div>
-<div class="section" id="sqltools-importar-dados">
-<h3>4.2.5. SQLTools - Importar Dados<a class="headerlink" href="#sqltools-importar-dados" title="Link permanente para este título">¶</a></h3>
-<p>Just a place holder…</p>
+<p>Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório,
+transferir o mesmo para a pasta do programa e guardar o ficheiro como <code class="docutils literal notranslate"><span class="pre">Folha</span> <span class="pre">de</span> <span class="pre">Cálculo</span> <span class="pre">do</span> <span class="pre">Microsoft</span> <span class="pre">Excel</span> <span class="pre">97-2003</span></code>.</p>
+<p>O nome do ficheiro deverá ser <code class="docutils literal notranslate"><span class="pre">pedidos.xls</span></code>.</p>
+<div class="admonition important">
+<p class="first admonition-title">Importante</p>
+<p>Antes de executar a transação:</p>
+<ul class="last simple">
+<li>Selecionar separador <span class="guilabel">Projeto</span> e inserir <code class="docutils literal notranslate"><span class="pre">S.*</span></code>.</li>
+<li>Selecionar separador <span class="guilabel">Organização de Compras</span> e inserir <code class="docutils literal notranslate"><span class="pre">5000</span> <span class="pre">e</span> <span class="pre">5001</span></code>.</li>
+<li>Selecionar separador <span class="guilabel">Abrangência da Lista</span>, e selecionar o máximo de <code class="docutils literal notranslate"><span class="pre">Best_ALV.</span></code>.</li>
+</ul>
+</div>
 </div>
 </div>
 <hr class="docutils" />
 <div class="section" id="importar-dados-de-stock">
 <h2>4.3. Importar Dados de Stock<a class="headerlink" href="#importar-dados-de-stock" title="Link permanente para este título">¶</a></h2>
-<p>Just a place holder…</p>
+<p>Este ficheiro exporta os dados dos materiais e quantidades em stock, conforme o depósito, de SAP para SQL Server.</p>
+<p>Nome e Local dos ficheiro:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&gt;&gt;</span><span class="n">Importação</span> <span class="n">Materiais</span> <span class="n">SAP</span> <span class="n">SQL</span>
+<span class="o">&gt;</span>\\<span class="n">smgctpdfs</span>\<span class="n">areas</span>\<span class="n">segma</span>\<span class="n">SEGMA</span> <span class="o">-</span> <span class="n">SUPORTE</span>\<span class="mi">13</span> <span class="o">-</span> <span class="n">BASE</span> <span class="n">DADOS</span>\<span class="mi">07</span> <span class="o">-</span> <span class="n">Relatórios</span>\<span class="n">Importação</span> <span class="n">Materiais</span> <span class="n">SAP</span> <span class="n">SQL</span>\
+</pre></div>
+</div>
+<img alt="../_images/sqltools2.PNG" src="../_images/sqltools2.PNG" />
+<div class="admonition attention">
+<p class="first admonition-title">Atenção</p>
+<p class="last">Para correr com sucesso este ficheiro é fundamental a exportação atualizada das transações infra identificadas.</p>
+</div>
 <div class="section" id="mb52-stocks-pode-deposito">
 <h3>4.3.1. MB52 - Stocks pode depósito<a class="headerlink" href="#mb52-stocks-pode-deposito" title="Link permanente para este título">¶</a></h3>
-<p>Just a place holder…</p>
+<div class="sidebar">
+<p class="first sidebar-title">Colunas obrigatórias</p>
+<p class="last">Material |
+Texto breve de material |
+Depósito |
+Utilização livre |
+UM básica |
+Val.utiliz.livre |
+Grupo de mercadorias</p>
+</div>
+<p>Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório,
+transferir o mesmo para a pasta do programa e guardar o ficheiro como <code class="docutils literal notranslate"><span class="pre">Folha</span> <span class="pre">de</span> <span class="pre">Cálculo</span> <span class="pre">do</span> <span class="pre">Microsoft</span> <span class="pre">Excel</span> <span class="pre">97-2003</span></code></p>
+<p>O nome do ficheiro deverá ser <code class="docutils literal notranslate"><span class="pre">stocks.xls</span></code>.</p>
+<img alt="../_images/sapstocks.PNG" src="../_images/sapstocks.PNG" />
+<div class="admonition important">
+<p class="first admonition-title">Importante</p>
+<p>Antes de executar a transação:</p>
+<ul class="last simple">
+<li>Selecionar separador <span class="guilabel">Centro</span> e inserir <code class="docutils literal notranslate"><span class="pre">5000</span></code>.</li>
+<li>Selecionar separador <span class="guilabel">Depósito</span> e inserir <code class="docutils literal notranslate"><span class="pre">5200</span></code>.</li>
+<li>Selecionar <span class="guilabel">Sem linhas estoque zero</span>.</li>
+<li>Selecionar <span class="guilabel">Representação não hierárquica</span>.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section" id="sqltools-importar-dados">
+<h2>4.4. SQLTools - Importar Dados<a class="headerlink" href="#sqltools-importar-dados" title="Link permanente para este título">¶</a></h2>
+<p>Só após executar o programa <code class="docutils literal notranslate"><span class="pre">Importação</span> <span class="pre">Dados</span> <span class="pre">SAP</span> <span class="pre">SQL</span></code> e/ou <code class="docutils literal notranslate"><span class="pre">Importação</span> <span class="pre">Materiais</span> <span class="pre">SAP</span> <span class="pre">SQL</span></code> e pressionar  <span class="guilabel">Start</span> os dados serão descarregados no servidor, com a respetiva indicação de sucesso.</p>
+<div class="figure align-center" id="id1">
+<img alt="../_images/SqlDataTools.PNG" src="../_images/SqlDataTools.PNG" />
+<p class="caption"><span class="caption-text">Importação Dados SAP SQL - <strong>Atualização Resultado Líquido</strong></span></p>
+</div>
+<div class="figure align-center" id="id2">
+<img alt="../_images/SqlDataTools2.PNG" src="../_images/SqlDataTools2.PNG" />
+<p class="caption"><span class="caption-text">Importação Materiais SAP SQL - <strong>Atualização de Stocks</strong></span></p>
 </div>
 </div>
 </div>
