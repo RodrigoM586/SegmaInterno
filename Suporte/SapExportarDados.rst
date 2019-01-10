@@ -116,17 +116,46 @@ O nome do ficheiro deverá ser ``cji5.xls``.
 MKVZ - Lista Fornecedores
 ---------------------------
 
-Just a place holder...
+.. sidebar:: Colunas obrigatórias
+
+	Fornecedor | 
+	Nome do fornecedor 
+
+Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório, 
+transferir o mesmo para a pasta do programa e guardar o ficheiro como ``Folha de Cálculo do Microsoft Excel 97-2003``.
+
+O nome do ficheiro deverá ser ``fornecedores.xls``.
+
+.. Note:: Esta lista apenas recolhe o nº e nome do Fornecedor para posterior relação com o relatório dos Pedidos de Compra. 
 
 ME2J - Pedidos p/ projeto
 ---------------------------
 
-Just a place holder...
+.. sidebar:: Colunas obrigatórias
+
+	Documento de compras |
+	Nome do fornecedor 
+
+	
+Para a correta execução desta transação deverão ser selecionadas apenas as colunas identificadas no separador à direita. Após execução do relatório, 
+transferir o mesmo para a pasta do programa e guardar o ficheiro como ``Folha de Cálculo do Microsoft Excel 97-2003``.
+
+O nome do ficheiro deverá ser ``pedidos.xls``.
+
+.. Important:: Antes de executar a transação:
+
+ - Selecionar separador :guilabel:`Projeto` e inserir ``S.*``.
+ 
+ - Selecionar separador :guilabel:`Organização de Compras` e inserir ``5000 e 5001``.
+ 
+ - Selecionar separador :guilabel:`Abrangência da Lista`, e selecionar o máximo de ``Best_ALV.``.
 
 SQLTools - Importar Dados
 ---------------------------
 
-Just a place holder...
+Só após executar o programa ``Importação Dados SAP SQL`` e pressionar  :guilabel:`Start` os dados serão descarregados no servidor, com a respetiva indicação de sucesso.
+
+.. image:: img/SqlDataTools.PNG
 
 ---------
 
