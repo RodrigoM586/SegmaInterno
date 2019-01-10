@@ -50,6 +50,23 @@ Estrutura utilizada na criação de projetos do tipo Obra:
 	- AVAC: ``Interv. Pontuais AVAC 2018``, consoante o ano corrente; 
 	- Eletricidade: ``Interv. Pontuais Eletricidade 2018``, consoante o ano corrente; 
 	
+Obras - Outros
+^^^^^^^^^^^^^^^^^^^^^^
+
+O projeto ``Obras Outros`` corresponde a Clientes em que o volume de negócios é esporádico. Estrutura utilizada na criação de projetos do tipo Obra:
+
++------------+-------------------------+----------+--------------------------------+
+| Nível      | Máscara                 | Caract.  | Denominação                    |
++============+=========================+==========+================================+
+| 1º Nível   | S                       | 1        | Segma                          |
++------------+-------------------------+----------+--------------------------------+
+| 2º Nível   | S.OUTRO2018             | 9        | Agrupador anual                |
++------------+-------------------------+----------+--------------------------------+
+| 3º Nível   | S.OUTRO2018.PRTEXTEI    | 8        | Nome do Cliente                |
++------------+-------------------------+----------+--------------------------------+
+| 4º Nível   | S.OUTRO2018.PRTEXTEI.01 | 2        | Nº da Obra (Sequêncial)        |
++------------+-------------------------+----------+--------------------------------+
+	
 Vendas
 -----------
 
