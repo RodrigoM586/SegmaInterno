@@ -1,0 +1,541 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="pt" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>4. Docum. Contábil &mdash; Documentação SegmaDocumentacao beta 0.1</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../_static/logoSEGMA_favico.png"/>
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Índice" href="../genindex.html" />
+    <link rel="search" title="Pesquisar" href="../search.html" />
+    <link rel="next" title="Ordens de Serviço" href="../Tecnica/OrdemServico.html" />
+    <link rel="prev" title="3. Relatórios" href="SapRelatorios.html" /> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html">
+          
+
+          
+            
+            <img src="../_static/logo_horiz_small.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Sumário</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Readme.html">Resumo</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Depart. Suporte</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="SapPEP.html">1. Projetos (PEP)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SapPedidos.html">2. Pedidos de Compra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SapRelatorios.html">3. Relatórios</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">4. Docum. Contábil</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#contas-do-razao">4.1. Contas do Razão</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#centros-de-custo">4.2. Centros de Custo</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">Depart. Técnico</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/OrdemServico.html">Ordens de Serviço</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/ReqCompra.html">Requisições de Compra</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Obras.html">Obras/Contratos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Armazem.html">Armazem</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Manutencao.html">Manutenção</a></li>
+</ul>
+<p class="caption"><span class="caption-text">NAVIA</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../Navia/Navia.html">NAVIA</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">SegmaDocumentacao</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>4. Docum. Contábil</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/Suporte/SupContas.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="docum-contabil">
+<h1>4. Docum. Contábil<a class="headerlink" href="#docum-contabil" title="Link permanente para este título">¶</a></h1>
+<p>Esta secção pretende documentar todos os elementos contábeis utilizados na criação de pedidos.</p>
+<div class="section" id="contas-do-razao">
+<h2>4.1. Contas do Razão<a class="headerlink" href="#contas-do-razao" title="Link permanente para este título">¶</a></h2>
+<p>Listagem de Contas do Razão utilizadas:</p>
+<table border="1" class="colwidths-given longtable docutils">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Conta</th>
+<th class="head">Descrição</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>6211000000</td>
+<td>Subcontratos-Materi.</td>
+</tr>
+<tr class="row-odd"><td>6212000000</td>
+<td>Subcontratos-Serviç.</td>
+</tr>
+<tr class="row-even"><td>6221010000</td>
+<td>Trab.Esp-Ser.Inform.</td>
+</tr>
+<tr class="row-odd"><td>6221020000</td>
+<td>Trab.Esp-Cont/Finan.</td>
+</tr>
+<tr class="row-even"><td>6221030000</td>
+<td>Trab.Esp.-Outros</td>
+</tr>
+<tr class="row-odd"><td>6222010000</td>
+<td>Pub.Pro-Méd.Imprensa</td>
+</tr>
+<tr class="row-even"><td>6222020000</td>
+<td>Pub.Prop-Patrocínios</td>
+</tr>
+<tr class="row-odd"><td>6223000000</td>
+<td>Vigilân.e Segurança</td>
+</tr>
+<tr class="row-even"><td>6224000000</td>
+<td>Honorários - ReCibos Verdes</td>
+</tr>
+<tr class="row-odd"><td>6225000000</td>
+<td>Comissões</td>
+</tr>
+<tr class="row-even"><td>6226010000</td>
+<td>Cons. e Rep-EOConst.</td>
+</tr>
+<tr class="row-odd"><td>6226020000</td>
+<td>Cons. e Rep-E.Básico</td>
+</tr>
+<tr class="row-even"><td>6226030000</td>
+<td>Cons. e Rep-E.Trans.</td>
+</tr>
+<tr class="row-odd"><td>6226040000</td>
+<td>Cons. e Rep-E.Admin.</td>
+</tr>
+<tr class="row-even"><td>6226050000</td>
+<td>Cons. e Rep-Eq.Info.</td>
+</tr>
+<tr class="row-odd"><td>6226060000</td>
+<td>Cons.Rep-O.Ac.F.Tang</td>
+</tr>
+<tr class="row-even"><td>6231000000</td>
+<td>Fer.Uten.Desg.Rápido</td>
+</tr>
+<tr class="row-odd"><td>6232000000</td>
+<td>Livros e Doc.Técnica</td>
+</tr>
+<tr class="row-even"><td>6233000000</td>
+<td>Material Escritório</td>
+</tr>
+<tr class="row-odd"><td>6234000000</td>
+<td>Artigos para Oferta</td>
+</tr>
+<tr class="row-even"><td>6241000000</td>
+<td>Electricidade</td>
+</tr>
+<tr class="row-odd"><td>6242010000</td>
+<td>Gasóleo</td>
+</tr>
+<tr class="row-even"><td>6242010000</td>
+<td>Gasóleo</td>
+</tr>
+<tr class="row-odd"><td>6242020000</td>
+<td>Gasolina</td>
+</tr>
+<tr class="row-even"><td>6242020000</td>
+<td>Gasolina</td>
+</tr>
+<tr class="row-odd"><td>6242030000</td>
+<td>Gaz</td>
+</tr>
+<tr class="row-even"><td>6242050000</td>
+<td>Oxigénio Acitilénio</td>
+</tr>
+<tr class="row-odd"><td>6242060000</td>
+<td>Outros Combustíveis</td>
+</tr>
+<tr class="row-even"><td>6243000000</td>
+<td>Água</td>
+</tr>
+<tr class="row-odd"><td>6248000000</td>
+<td>Outros fluidos</td>
+</tr>
+<tr class="row-even"><td>6251010000</td>
+<td>Deslocaç. e Estadas</td>
+</tr>
+<tr class="row-odd"><td>6251010000</td>
+<td>Deslocaç. e Estadas</td>
+</tr>
+<tr class="row-even"><td>6252010000</td>
+<td>Transp.Pes-Terrestre</td>
+</tr>
+<tr class="row-odd"><td>6252020000</td>
+<td>Transp.Pes-Viat.Pro.</td>
+</tr>
+<tr class="row-even"><td>6253010000</td>
+<td>Transp. Mercadorias</td>
+</tr>
+<tr class="row-odd"><td>6253010000</td>
+<td>Transp. Mercadorias</td>
+</tr>
+<tr class="row-even"><td>6261010000</td>
+<td>Rendas-Ed.Out.Const.</td>
+</tr>
+<tr class="row-odd"><td>6261020000</td>
+<td>Rendas-Equipamento</td>
+</tr>
+<tr class="row-even"><td>6261030000</td>
+<td>Rendas-Terrenos</td>
+</tr>
+<tr class="row-odd"><td>6261040000</td>
+<td>Aluguer-Viaturas</td>
+</tr>
+<tr class="row-even"><td>6261090000</td>
+<td>Outros Alugueres</td>
+</tr>
+<tr class="row-odd"><td>6262010000</td>
+<td>Franq.Selos Postais</td>
+</tr>
+<tr class="row-even"><td>6262020000</td>
+<td>Telefones</td>
+</tr>
+<tr class="row-odd"><td>6262030000</td>
+<td>Expresso Mail</td>
+</tr>
+<tr class="row-even"><td>6262040000</td>
+<td>Telemóveis</td>
+</tr>
+<tr class="row-odd"><td>6262050000</td>
+<td>Circuitos</td>
+</tr>
+<tr class="row-even"><td>6262080000</td>
+<td>Comunic.-O. Despesas</td>
+</tr>
+<tr class="row-odd"><td>6263010000</td>
+<td>Seguro Multiriscos</td>
+</tr>
+<tr class="row-even"><td>6263020000</td>
+<td>Seguro Automóvel</td>
+</tr>
+<tr class="row-odd"><td>6263030000</td>
+<td>Seguro R.Civil-Geral</td>
+</tr>
+<tr class="row-even"><td>6263040000</td>
+<td>Seguro R.Civil-D&amp;O</td>
+</tr>
+<tr class="row-odd"><td>6263050000</td>
+<td>Seg. R.Civil -Outros</td>
+</tr>
+<tr class="row-even"><td>6263060000</td>
+<td>Seg.Aciden. Pessoais</td>
+</tr>
+<tr class="row-odd"><td>6263070000</td>
+<td>Seguro Transporte</td>
+</tr>
+<tr class="row-even"><td>6263080000</td>
+<td>Seguro-Outros</td>
+</tr>
+<tr class="row-odd"><td>6265000000</td>
+<td>Contenc. e notariado</td>
+</tr>
+<tr class="row-even"><td>6266000000</td>
+<td>Desp. Representação</td>
+</tr>
+<tr class="row-odd"><td>6267000000</td>
+<td>Limp  hig.e conforto</td>
+</tr>
+<tr class="row-even"><td>6268010000</td>
+<td>Prestadores de Serv.</td>
+</tr>
+<tr class="row-odd"><td>6268020000</td>
+<td>Curso Formação Prof.</td>
+</tr>
+<tr class="row-even"><td>6268030000</td>
+<td>Sem Cong.e Conferên.</td>
+</tr>
+<tr class="row-odd"><td>6268040000</td>
+<td>Fardamento e Calçado</td>
+</tr>
+<tr class="row-even"><td>6268050000</td>
+<td>Jornais e Revistas</td>
+</tr>
+<tr class="row-odd"><td>6268090000</td>
+<td>Serv.Diversos-Outros</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Para Pedidos de Compra referentes a <span class="guilabel">Serviços</span> deverá ser utilizada a conta <code class="docutils literal notranslate"><span class="pre">6212000000</span></code>.</p>
+</div>
+</div>
+<div class="section" id="centros-de-custo">
+<h2>4.2. Centros de Custo<a class="headerlink" href="#centros-de-custo" title="Link permanente para este título">¶</a></h2>
+<p>Listagem de Centros de Trabalho utilizados:</p>
+<table border="1" class="colwidths-given longtable docutils">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">CC</th>
+<th class="head">Departamento</th>
+<th class="head">Descrição</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>E100000000</td>
+<td>Administração</td>
+<td>CONSELHO DE GERÊNCIA</td>
+</tr>
+<tr class="row-odd"><td>E100000000</td>
+<td>Administração</td>
+<td>CONSELHO DE GERÊNCIA</td>
+</tr>
+<tr class="row-even"><td>E110000000</td>
+<td>Suporte</td>
+<td>NÚCLEO DE SUPORTE</td>
+</tr>
+<tr class="row-odd"><td>E121000000</td>
+<td>Suporte</td>
+<td>NÚCLEO SMA/SMG</td>
+</tr>
+<tr class="row-even"><td>E121100000</td>
+<td>Suporte</td>
+<td>NÚCLEO TER/GRA/SJG</td>
+</tr>
+<tr class="row-odd"><td>E121200000</td>
+<td>Suporte</td>
+<td>NÚCL PIC/FAI/FLO/COR</td>
+</tr>
+<tr class="row-even"><td>E121300000</td>
+<td>Suporte</td>
+<td>GABINETE PROJECTOS</td>
+</tr>
+<tr class="row-odd"><td>E130100000</td>
+<td>Eletricidade</td>
+<td>SERVIÇOS EDA</td>
+</tr>
+<tr class="row-even"><td>E130200000</td>
+<td>Eletricidade</td>
+<td>MANUTENÇÃO</td>
+</tr>
+<tr class="row-odd"><td>E130300000</td>
+<td>Eletricidade</td>
+<td>SERVIÇOS TÉCNICOS</td>
+</tr>
+<tr class="row-even"><td>E130400000</td>
+<td>Eletricidade</td>
+<td>CONSULTORIA</td>
+</tr>
+<tr class="row-odd"><td>E130500000</td>
+<td>Eletricidade</td>
+<td>VENDAS</td>
+</tr>
+<tr class="row-even"><td>E140100000</td>
+<td>AVAC</td>
+<td>SERVIÇOS EDA</td>
+</tr>
+<tr class="row-odd"><td>E140200000</td>
+<td>AVAC</td>
+<td>MANUTENÇÃO</td>
+</tr>
+<tr class="row-even"><td>E140300000</td>
+<td>AVAC</td>
+<td>SERVIÇOS TÉCNICOS</td>
+</tr>
+<tr class="row-odd"><td>E140400000</td>
+<td>AVAC</td>
+<td>CONSULTORIA</td>
+</tr>
+<tr class="row-even"><td>E140500000</td>
+<td>AVAC</td>
+<td>VENDAS</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../Tecnica/OrdemServico.html" class="btn btn-neutral float-right" title="Ordens de Serviço" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="SapRelatorios.html" class="btn btn-neutral" title="3. Relatórios" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2019, Rodrigo Rocha
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../_static/jquery.js"></script>
+        <script type="text/javascript" src="../_static/underscore.js"></script>
+        <script type="text/javascript" src="../_static/doctools.js"></script>
+        <script type="text/javascript" src="../_static/language_data.js"></script>
+        <script type="text/javascript" src="../_static/translations.js"></script>
+    
+
+  
+
+  <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

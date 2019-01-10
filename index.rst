@@ -17,6 +17,7 @@ SEGMA | Documentação de Processos
    Suporte/SapPEP.rst
    Suporte/SapPedidos.rst
    Suporte/SapRelatorios.rst
+   Suporte/SupContas.rst
    
 .. toctree::
    :maxdepth: 2
