@@ -2,40 +2,24 @@
 Relatórios
 ***************
 
-.. contents:: Tabela de Conteudos
-
-Esta secção pretende documentar a extração dos diversos relatórios de custos e upload de informação para o sevidor SQL.
+Esta secção pretende documentar as transações frequentemente utilizadas para visualização de relatórios.
 
 
-SAP -> SQL Server
+Relatórios
 =================
 
-Just a place holder...
+Transações normalmente utilizadas para visualização de relatórios.
 
-CJI3 - Faturas Pagas
----------------------------
-
-Just a place holder...
-
-CJI5 - Compromissos
----------------------------
-
-Just a place holder...
-
-MKVZ - Lista Fornecedores
----------------------------
-
-Just a place holder...
-
-ME2J - Pedidos p/ projeto
----------------------------
-
-Just a place holder...
-
-SQLTools - Importar Dados
----------------------------
-
-Just a place holder...
-
-Relatórios Utilizados
-=======================
++-----------+--------------------------------------------+
+| Transaç.  | Descrição                                  |
++===========+============================================+
+| CN43N     | Exibir todos os PEP's.                     |
++-----------+--------------------------------------------+
+| CN41      | Exibir hierarquicamente todos os PEP's     |
++-----------+--------------------------------------------+
+| CJI5      | Compromissos (pedidos por faturar).        |
++-----------+--------------------------------------------+
+| CJI3      | Custos reais.                              |
++-----------+--------------------------------------------+
+| CJ02      | Modificação em massa de projetos.          |	  
++-----------+--------------------------------------------+

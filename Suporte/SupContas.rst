@@ -1,6 +1,6 @@
-******************
+*********************
 Documtação Contábil
-******************
+*********************
 
 Esta secção pretende documentar todos os elementos contábeis utilizados na criação de pedidos.
 

@@ -33,18 +33,6 @@ Para criar um Pedido de Compra com percentagem do valor distribuída por PEP's, 
 
 .. image:: img/PedidoPercentagem.PNG
 
-Contas do Razão
------------------------
-
-Deverá ser selecionada uma das seguintes Contas do Razaão consoante o tipo de material/serviço:
-
-.. csv-table::
-   :file: ContasRazao.csv
-   :header-rows: 1 
-   :class: longtable
-   :widths: 1 1
-   
-
 Novo Fornecedor/Cliente
 =======================
 
