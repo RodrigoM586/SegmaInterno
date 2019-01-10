@@ -21,8 +21,6 @@
 6234000000,Artigos para Oferta
 6241000000,Electricidade
 6242010000,Gasóleo
-6242010000,Gasóleo
-6242020000,Gasolina
 6242020000,Gasolina
 6242030000,Gaz
 6242050000,Oxigénio Acitilénio
@@ -30,10 +28,8 @@
 6243000000,Água
 6248000000,Outros fluidos
 6251010000,Deslocaç. e Estadas
-6251010000,Deslocaç. e Estadas
 6252010000,Transp.Pes-Terrestre
 6252020000,Transp.Pes-Viat.Pro.
-6253010000,Transp. Mercadorias
 6253010000,Transp. Mercadorias
 6261010000,Rendas-Ed.Out.Const.
 6261020000,Rendas-Equipamento

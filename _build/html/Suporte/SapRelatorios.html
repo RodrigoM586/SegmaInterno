@@ -87,28 +87,25 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../Readme.html">Resumo</a></li>
 </ul>
-<p class="caption"><span class="caption-text">Depart. Suporte</span></p>
+<p class="caption"><span class="caption-text">Departamento Suporte</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="SapPEP.html">1. Projetos (PEP)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SapPedidos.html">2. Pedidos de Compra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SupContas.html">3. Documtação Contábil</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SapExportarDados.html">4. Exportação de Dados SAP</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">5. Relatórios</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#id1">5.1. Relatórios</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#transacoes">5.1. Transações</a></li>
 </ul>
 </li>
 </ul>
-<p class="caption"><span class="caption-text">Depart. Técnico</span></p>
+<p class="caption"><span class="caption-text">Departamento Técnico</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/OrdemServico.html">Ordens de Serviço</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/ReqCompra.html">Requisições de Compra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/Obras.html">Obras/Contratos</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Armazem.html">Armazem</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Armazem.html">Armazém</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Tecnica/Manutencao.html">Manutenção</a></li>
-</ul>
-<p class="caption"><span class="caption-text">NAVIA</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../Navia/Navia.html">NAVIA</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Tecnica/Navia.html">NAVIA</a></li>
 </ul>
 
             
@@ -176,13 +173,13 @@
   <div class="section" id="relatorios">
 <h1>5. Relatórios<a class="headerlink" href="#relatorios" title="Link permanente para este título">¶</a></h1>
 <p>Esta secção pretende documentar as transações frequentemente utilizadas para visualização de relatórios.</p>
-<div class="section" id="id1">
-<h2>5.1. Relatórios<a class="headerlink" href="#id1" title="Link permanente para este título">¶</a></h2>
+<div class="section" id="transacoes">
+<h2>5.1. Transações<a class="headerlink" href="#transacoes" title="Link permanente para este título">¶</a></h2>
 <p>Transações normalmente utilizadas para visualização de relatórios.</p>
 <table border="1" class="docutils">
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="18%" />
+<col width="82%" />
 </colgroup>
 <thead valign="bottom">
 <tr class="row-odd"><th class="head">Transaç.</th>
@@ -190,20 +187,58 @@
 </tr>
 </thead>
 <tbody valign="top">
-<tr class="row-even"><td>CN43N</td>
-<td>Exibir todos os PEP’s.</td>
+<tr class="row-even"><td colspan="2"><strong>Pedidos de Compra</strong></td>
 </tr>
-<tr class="row-odd"><td>CN41</td>
-<td>Exibir hierarquicamente todos os PEP’s</td>
+<tr class="row-odd"><td>ME2N</td>
+<td>Procurar Pedidos por Nº do Pedido ou Fornecedor</td>
 </tr>
-<tr class="row-even"><td>CJI5</td>
-<td>Compromissos (pedidos por faturar).</td>
+<tr class="row-even"><td>ME2M</td>
+<td>Procurar Pedidos por código de material</td>
 </tr>
-<tr class="row-odd"><td>CJI3</td>
-<td>Custos reais.</td>
+<tr class="row-odd"><td>ME2J</td>
+<td>Procurar Pedidos por Fornecedor</td>
 </tr>
-<tr class="row-even"><td>CJ02</td>
+<tr class="row-even"><td>ME2L</td>
 <td>Modificação em massa de projetos.</td>
+</tr>
+<tr class="row-odd"><td>ME29</td>
+<td>Liberar pedido</td>
+</tr>
+<tr class="row-even"><td colspan="2"><strong>Gestão de Materiais</strong></td>
+</tr>
+<tr class="row-odd"><td>MM60</td>
+<td>Visão Geral de todos os materiais</td>
+</tr>
+<tr class="row-even"><td>ME12</td>
+<td>Registo Info (problema dos textos nos pedidos)</td>
+</tr>
+<tr class="row-odd"><td>MB51</td>
+<td>Movimentos de materiais</td>
+</tr>
+<tr class="row-even"><td colspan="2"><strong>Gestão Stocks</strong></td>
+</tr>
+<tr class="row-odd"><td>MB52</td>
+<td>Visão Geral de Stocks por depósito</td>
+</tr>
+<tr class="row-even"><td>MMBE</td>
+<td>Visão Hierárquica do movimento de materiais</td>
+</tr>
+<tr class="row-odd"><td>MB5T</td>
+<td>Material em trânsito</td>
+</tr>
+<tr class="row-even"><td colspan="2"><strong>Fornecedores</strong></td>
+</tr>
+<tr class="row-odd"><td>MK03</td>
+<td>Exibir Fornecedor (compras)</td>
+</tr>
+<tr class="row-even"><td>XK03</td>
+<td>Exibir Fornecedor (central)</td>
+</tr>
+<tr class="row-odd"><td>FK10N</td>
+<td>Exibir Saldos de Fornecedor</td>
+</tr>
+<tr class="row-even"><td>MKVZ</td>
+<td>Exibir Lista de Fornecedores Total</td>
 </tr>
 </tbody>
 </table>

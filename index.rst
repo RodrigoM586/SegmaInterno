@@ -12,7 +12,7 @@ SEGMA | Documentação de Processos
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Depart. Suporte
+   :caption: Departamento Suporte
 
    Suporte/SapPEP.rst
    Suporte/SapPedidos.rst
@@ -23,17 +23,13 @@ SEGMA | Documentação de Processos
    
 .. toctree::
    :maxdepth: 2
-   :caption: Depart. Técnico
+   :caption: Departamento Técnico
 
    Tecnica/OrdemServico.rst
    Tecnica/ReqCompra.rst
    Tecnica/Obras.rst
    Tecnica/Armazem.rst
    Tecnica/Manutencao.rst
+   Tecnica/Navia.rst
    
-.. toctree::
-   :maxdepth: 2
-   :caption: NAVIA
-
-   Navia/Navia.rst
 

@@ -4,8 +4,7 @@ Ordens de Serviço
 
 .. contents:: Tabela de Conteudos
 
-Esta secção pretende documentar a extração dos diversos relatórios de custos e upload de informação para o sevidor SQL.
-
+Em desenvolvimento...
 
 Workflow OS
 ============================
@@ -13,14 +12,14 @@ Workflow OS
 Criar OS
 ============================
 
-Just a place holder...
+Em desenvolvimento...
 
 Criar OS da Proposta
 ============================
 
-Just a place holder...
+Em desenvolvimento...
 
 Associar OS
 ============================
 
-Just a place holder...
+Em desenvolvimento...

@@ -3,20 +3,20 @@
 Resumo
 ********************************************
 
-O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, sendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
+O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
 
 .. _readthedocs.org: http://www.readthedocs.org
 
 Estrutura
 ==========
 
-Este documento foi estruturado da seguinte forma ::
+Este documento foi estruturado por departamentos:
 
-  Suporte
+	- Departamento de Suporte;
   
-Pretende documentar todas as operações realizadas, pelo departamento de Suporte, em SAP: ERP, desde a criação de PEP's, de pedidos de compra e download de custos para upload em SQL. ::
+Pretende documentar todas as operações realizadas, pelo departamento de Suporte, em SAP: ERP, desde a criação de PEP's, de pedidos de compra e download de custos para upload em SQL. 
 
-  Técnica
+	- Departamento Técnico;
   
 Pretende documentar e explicar os vários processos e operações realizadas pelo departamento técnico. 
 
