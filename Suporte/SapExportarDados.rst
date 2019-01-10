@@ -7,7 +7,7 @@ Esta secção pretende documentar a extração dos diversos relatórios de custo
 Requisitos
 ====================================
 
-.. figure:: img/VisualStudioIcon.PNG 
+.. figure:: img/VisualStudioIcon.png 
     :align: right
     :figwidth: 200px
 	
