@@ -13,7 +13,7 @@
 
   
   
-    <link rel="shortcut icon" href="../_static/logo_horiz_small.png"/>
+    <link rel="shortcut icon" href="../_static/logoSEGMA_favico.png"/>
   
   
   
@@ -92,7 +92,10 @@
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Projetos (PEP)</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#estrutura-pep">Estrutura PEP</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#contratos">Contratos</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#obras">Obras</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#obras">Obras</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#obras-outros">Obras - Outros</a></li>
+</ul>
+</li>
 <li class="toctree-l3"><a class="reference internal" href="#vendas">Vendas</a></li>
 </ul>
 </li>
@@ -280,6 +283,47 @@
 <li>AVAC: <code class="docutils literal notranslate"><span class="pre">Interv.</span> <span class="pre">Pontuais</span> <span class="pre">AVAC</span> <span class="pre">2018</span></code>, consoante o ano corrente;</li>
 <li>Eletricidade: <code class="docutils literal notranslate"><span class="pre">Interv.</span> <span class="pre">Pontuais</span> <span class="pre">Eletricidade</span> <span class="pre">2018</span></code>, consoante o ano corrente;</li>
 </ul>
+</div>
+<div class="section" id="obras-outros">
+<h4>Obras - Outros<a class="headerlink" href="#obras-outros" title="Link permanente para este título">¶</a></h4>
+<p>O projeto <code class="docutils literal notranslate"><span class="pre">Obras</span> <span class="pre">Outros</span></code> corresponde a Clientes em que o volume de negócios é esporádico. Estrutura utilizada na criação de projetos do tipo Obra:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="15%" />
+<col width="32%" />
+<col width="13%" />
+<col width="41%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Nível</th>
+<th class="head">Máscara</th>
+<th class="head">Caract.</th>
+<th class="head">Denominação</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>1º Nível</td>
+<td>S</td>
+<td>1</td>
+<td>Segma</td>
+</tr>
+<tr class="row-odd"><td>2º Nível</td>
+<td>S.OUTRO2018</td>
+<td>9</td>
+<td>Agrupador anual</td>
+</tr>
+<tr class="row-even"><td>3º Nível</td>
+<td>S.OUTRO2018.PRTEXTEI</td>
+<td>8</td>
+<td>Nome do Cliente</td>
+</tr>
+<tr class="row-odd"><td>4º Nível</td>
+<td>S.OUTRO2018.PRTEXTEI.01</td>
+<td>2</td>
+<td>Nº da Obra (Sequêncial)</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 <div class="section" id="vendas">
