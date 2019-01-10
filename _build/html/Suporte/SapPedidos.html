@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Pedidos de Compra &mdash; Documentação SegmaDocumentacao beta 0.1</title>
+  <title>2. Pedidos de Compra &mdash; Documentação SegmaDocumentacao beta 0.1</title>
   
 
   
@@ -31,7 +31,7 @@
     <link rel="index" title="Índice" href="../genindex.html" />
     <link rel="search" title="Pesquisar" href="../search.html" />
     <link rel="next" title="3. Relatórios" href="SapRelatorios.html" />
-    <link rel="prev" title="Projetos (PEP)" href="SapPEP.html" /> 
+    <link rel="prev" title="1. Projetos (PEP)" href="SapPEP.html" /> 
 
   
   <script src="../_static/js/modernizr.min.js"></script>
@@ -89,19 +89,20 @@
 </ul>
 <p class="caption"><span class="caption-text">Depart. Suporte</span></p>
 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="SapPEP.html">Projetos (PEP)</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Pedidos de Compra</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#workflow-compras">Workflow Compras</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#criar-pedido-de-compra">Criar Pedido de Compra</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#percentagens-por-pep">Percentagens por PEP</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#contas-do-razao">Contas do Razão</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SapPEP.html">1. Projetos (PEP)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">2. Pedidos de Compra</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#workflow-compras">2.1. Workflow Compras</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#criar-pedido-de-compra">2.2. Criar Pedido de Compra</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#percentagens-por-pep">2.2.1. Percentagens por PEP</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#contas-do-razao">2.2.2. Contas do Razão</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="#novo-fornecedor-cliente">Novo Fornecedor/Cliente</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#estrategia-de-liberacao">Estratégia de Liberação</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#novo-fornecedor-cliente">2.3. Novo Fornecedor/Cliente</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#estrategia-de-liberacao">2.4. Estratégia de Liberação</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="SapRelatorios.html">3. Relatórios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SupContas.html">4. Docum. Contábil</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Depart. Técnico</span></p>
 <ul>
@@ -159,7 +160,7 @@
     
       <li><a href="../index.html">Docs</a> &raquo;</li>
         
-      <li>Pedidos de Compra</li>
+      <li>2. Pedidos de Compra</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -179,14 +180,14 @@
            <div itemprop="articleBody">
             
   <div class="section" id="pedidos-de-compra">
-<h1>Pedidos de Compra<a class="headerlink" href="#pedidos-de-compra" title="Link permanente para este título">¶</a></h1>
+<h1>2. Pedidos de Compra<a class="headerlink" href="#pedidos-de-compra" title="Link permanente para este título">¶</a></h1>
 <p>Esta secção pretende documentar todos os processos na realização de um Pedido de Compra.</p>
 <div class="section" id="workflow-compras">
-<h2>Workflow Compras<a class="headerlink" href="#workflow-compras" title="Link permanente para este título">¶</a></h2>
+<h2>2.1. Workflow Compras<a class="headerlink" href="#workflow-compras" title="Link permanente para este título">¶</a></h2>
 <img alt="../_images/Diagrama_PedidoCompra.PNG" src="../_images/Diagrama_PedidoCompra.PNG" />
 </div>
 <div class="section" id="criar-pedido-de-compra">
-<h2>Criar Pedido de Compra<a class="headerlink" href="#criar-pedido-de-compra" title="Link permanente para este título">¶</a></h2>
+<h2>2.2. Criar Pedido de Compra<a class="headerlink" href="#criar-pedido-de-compra" title="Link permanente para este título">¶</a></h2>
 <p>Através da transação <code class="docutils literal notranslate"><span class="pre">ME21N</span></code> é possível criar um novo Pedido de Compra, conforme demonstrado infra.</p>
 <img alt="../_images/PedidoCompra.PNG" src="../_images/PedidoCompra.PNG" />
 <div class="admonition note">
@@ -202,12 +203,12 @@ com o respetivo Nº de documento do Fornecedor.</p>
 com o respetivo Nº da Requisição de Compra (interno).</p>
 </div>
 <div class="section" id="percentagens-por-pep">
-<h3>Percentagens por PEP<a class="headerlink" href="#percentagens-por-pep" title="Link permanente para este título">¶</a></h3>
+<h3>2.2.1. Percentagens por PEP<a class="headerlink" href="#percentagens-por-pep" title="Link permanente para este título">¶</a></h3>
 <p>Para criar um Pedido de Compra com percentagem do valor distribuída por PEP’s, é necessário selecionar <code class="docutils literal notranslate"><span class="pre">2</span> <span class="pre">-</span> <span class="pre">Distrubição</span> <span class="pre">percentual</span></code>, no separador <span class="guilabel">Clc - &gt; Distribuição</span>.</p>
 <img alt="../_images/PedidoPercentagem.PNG" src="../_images/PedidoPercentagem.PNG" />
 </div>
 <div class="section" id="contas-do-razao">
-<h3>Contas do Razão<a class="headerlink" href="#contas-do-razao" title="Link permanente para este título">¶</a></h3>
+<h3>2.2.2. Contas do Razão<a class="headerlink" href="#contas-do-razao" title="Link permanente para este título">¶</a></h3>
 <p>Deverá ser selecionada uma das seguintes Contas do Razaão consoante o tipo de material/serviço:</p>
 <table border="1" class="colwidths-given longtable docutils">
 <colgroup>
@@ -417,14 +418,14 @@ com o respetivo Nº da Requisição de Compra (interno).</p>
 </div>
 </div>
 <div class="section" id="novo-fornecedor-cliente">
-<h2>Novo Fornecedor/Cliente<a class="headerlink" href="#novo-fornecedor-cliente" title="Link permanente para este título">¶</a></h2>
+<h2>2.3. Novo Fornecedor/Cliente<a class="headerlink" href="#novo-fornecedor-cliente" title="Link permanente para este título">¶</a></h2>
 <p>Para a abertura de um novo Fornecedor ou Cliente, para além do preenchimento obrigatório do devido documento, deverá ser
 reencamihado um email para um dos seguintes contatos, para abertura do registo em SAP:</p>
 <p>Abertura de Fornecedores: <a class="reference external" href="mailto:laguiar&#37;&#52;&#48;eda&#46;pt">enviar email</a>.</p>
 <p>Abertura de Clientes: <a class="reference external" href="mailto:anpastor&#37;&#52;&#48;eda&#46;pt">enviar email</a>.</p>
 </div>
 <div class="section" id="estrategia-de-liberacao">
-<h2>Estratégia de Liberação<a class="headerlink" href="#estrategia-de-liberacao" title="Link permanente para este título">¶</a></h2>
+<h2>2.4. Estratégia de Liberação<a class="headerlink" href="#estrategia-de-liberacao" title="Link permanente para este título">¶</a></h2>
 <p>Para efeitos de estratégia de aprovação, está definido os seguintes critérios:</p>
 <ul class="simple">
 <li>Quando o Pedido de Compra <code class="docutils literal notranslate"><span class="pre">&lt;=</span> <span class="pre">5000</span> <span class="pre">€</span></code>, a aprovação da mesma será feita pelo <strong>Marco Silveira</strong>.</li>
@@ -444,7 +445,7 @@ reencamihado um email para um dos seguintes contatos, para abertura do registo e
         <a href="SapRelatorios.html" class="btn btn-neutral float-right" title="3. Relatórios" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="SapPEP.html" class="btn btn-neutral" title="Projetos (PEP)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="SapPEP.html" class="btn btn-neutral" title="1. Projetos (PEP)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
