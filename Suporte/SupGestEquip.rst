@@ -2,17 +2,18 @@
 Gestão de Equipamentos
 *********************
 
-Esta secção pretende documentar todos os elementos contábeis utilizados na criação de pedidos.
+Esta secção pretende documentar o processo de gestão de equipamentos e respetiva sala de equipamentos.
 
-Fluxograma 
-=======================
+Workflow Sala Equipamentos
+==============================
 
-Listagem de Contas do Razão utilizadas:
+Todo o movimento de equipamentos, da Sala de Equipamentos, deverá seguir o seguinte workflow procedimental, sendo registado sempre através da base de dados.
 
-TESTE2
+.. image:: img/Diagrama_SalaEquipamentos.JPEG	
+
 
 Base de Dados
-=======================
+==============================
 
 Teste1
 
