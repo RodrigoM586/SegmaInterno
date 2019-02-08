@@ -4,8 +4,6 @@ Ordens de Serviço
 
 .. contents:: Tabela de Conteudos
 
-Em desenvolvimento...
-
 Workflow OS
 ============================
 
