@@ -9,4 +9,4 @@ Em desenvolvimento...
 Workflow
 =================
 
-.. image:: img/diagrama_compras.jpeg
+.. image:: img/diagrama_compras.JPEG
