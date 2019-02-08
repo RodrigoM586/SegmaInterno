@@ -9,6 +9,10 @@ Em desenvolvimento...
 Workflow OS
 ============================
 
+Os seguintes diagramas pretendem demonstrar as duas alternativas possíveis para criação de uma OS, seja através de uma proposta ou diretamente atravês do registo da OS. 
+
+.. image:: img/Diagrama_OrdemServico.jpg
+
 Criar OS
 ============================
 
@@ -27,19 +31,14 @@ Em desenvolvimento...
 Casos Práticos Ordens Serv.
 ============================
 
-Em desenvolvimento...
+Intervenções Pontuais / Avarias
+-------------------------------------
 
-Caso Prático #1
-------------------
+O seguinte worflow demonstra duas alternativas, a primeira através da execução de um trabalho (tipicamente uma avaria) diretamente através da criação de uma OS, enquanto que o outro apenas é executado após adjudicação de um Proposta, com a possibilidade de criação de uma 2ª OS para faturação de trabalhos adicionais.
 
-Em desenvolvimento...
+.. image:: img/Diagrama_OS_CasoPratico1.jpg
 
-Caso Prático #2
-------------------
+Faturação c/ autos de medição 
+-------------------------------------
 
-Em desenvolvimento...
-
-Caso Prático #3
-------------------
-
-Em desenvolvimento...
+.. image:: img/Diagrama_OS_CasoPratico2.jpg
