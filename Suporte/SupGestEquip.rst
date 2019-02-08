@@ -17,12 +17,12 @@ Base de Dados
 Teste1
 
 Registo novo equipamento
------------------------
+---------------------------
 
 Teste1
 
 Movimentação
------------------------
+---------------------------
 
 Teste1
 
