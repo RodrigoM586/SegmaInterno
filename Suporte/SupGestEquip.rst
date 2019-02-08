@@ -9,7 +9,7 @@ Workflow Sala Equipamentos
 
 Todo o movimento de equipamentos, da Sala de Equipamentos, deverá seguir o seguinte workflow procedimental, sendo registado sempre através da base de dados.
 
-.. image:: img/Diagrama_SalaEquipamentos.JPEG	
+.. image:: img/Diagrama_SalaEquipamentos.jpeg	
 
 
 Base de Dados
