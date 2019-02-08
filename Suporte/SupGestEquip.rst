@@ -4,16 +4,29 @@ Gestão de Equipamentos
 
 Esta secção pretende documentar todos os elementos contábeis utilizados na criação de pedidos.
 
-Contas do Razão
+Fluxograma 
 =======================
 
 Listagem de Contas do Razão utilizadas:
 
 TESTE2
 
-Centros de Custo
+Base de Dados
 =======================
 
-TESTE1
+Teste1
+
+Registo novo equipamento
+-----------------------
+
+Teste1
+
+Movimentação
+-----------------------
+
+Teste1
+
+
+
 
 
