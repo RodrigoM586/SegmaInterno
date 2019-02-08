@@ -50,9 +50,9 @@ Através do separador ``Encomendas`` é possível visualizar todas as encomendas
 
 .. Note:: Qualquer encomenda que seja efetuada para a Obra, a mesma estará vísivel neste separador, independentemente de ter sido criada em Access ou SAP. 
 
-		Se clicar na coluna "P. Compra" poderá consultar todos os itens encomendados de forma discriminada. 
+		Se clicar na coluna ``P. Compra`` poderá consultar todos os itens encomendados de forma discriminada. 
 
-.. Important:: A atualização de todos os registos de SAP para Acccess é realizado de forma manual e tipicamente no final de cada dia útil.
+.. Important:: A atualização de todos os registos de SAP para Acccess é realizado de forma manual e tipicamente no fím de cada dia útil.
 
 Manutenção (SAP)
 ===========================
@@ -71,11 +71,48 @@ Esta secção pretende explicar como é consultada toda a informação relativa 
 Faturas Clientes
 -----------------------
 
+Esta secção mostra todas as faturas que foram, ou vão, ser faturadas ao Cliente, bem como notas de crédito. 
+
+.. image:: img/frm_obra_fatCliente.PNG
+
+.. Important:: Se o campo ``Data`` e ``Nº Fatura`` estiverem em branco, significa que a fatura ainda não foi enviada para o Cliente.
+
 Faturas Fornecedores
 -----------------------
+
+Esta secção mostra todas as fatura de Fornecedores. Sendo que cada linha corresponde a um item, já faturado, do pedido de compra enviado ao Fornecedor. 
+
+.. image:: img/frm_obra_fatFornec.PNG
+
+.. Note:: Todas as linhas aqui apresentadas significa que o item já foi rececionado.
 
 Movimentos Stock
 -----------------------
 
+No separador ``Mov. Stock`` é apresentado todo o movimento de stocks entre o armazém e a obra. 
+
+.. image:: img/frm_obra_stock.PNG
+
+Compromissos
+-----------------------
+
+O separador ``Compromissos`` é mostrado todos os itens, de Pedidos de Compra, que foram realizados para a Obra mas ainda não foram rececionados/faturados.
+
+.. image:: img/frm_obra_compromissos.PNG
+
 Mão de Obra
 -----------------------
+
+Atravês desta secção é possível visualizar toda a mão de obra que foi imputada à Obra.
+
+.. image:: img/frm_obra_MO.PNG
+
+Notificações
+===========================
+
+O separador ``Notificações`` pretende agrupar todas as notas, criadas pelos utilizadores, associadas à Obra. 
+
+Estas notificações têm como principal objetivo reunir a informação para renovação de contrato ou outras informações necessárias.
+
+.. image:: img/frm_obra_notif.PNG
+
