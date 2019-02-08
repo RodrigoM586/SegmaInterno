@@ -20,7 +20,7 @@ A seguinte secção pretende documentar o registo e gestão de equipamentos na b
 Registo novo equipamento
 ---------------------------
 
-Para registar um novo equipamento deverá aceder ao separador "Equipamentos" e clicar em :guilabel:`Adic. Novo Equip.` sendo necessário o preenchimento do seguinte formulário:
+Para registar um novo equipamento deverá aceder ao separador :guilabel:`Equipamentos`, na base de dados de suporte, e clicar em :guilabel:`Adic. Novo Equip.` sendo necessário o preenchimento do seguinte formulário:
 
 .. image:: img/novoEquipamento.PNG
 
