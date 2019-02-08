@@ -26,9 +26,9 @@ Para registar um novo equipamento deverá aceder ao separador "Equipamentos" e c
 
 .. Note:: Os equipamentos são classicados através de dois tipos, ``EMM`` ou ``ESEG``. 
 
-``EMM``: Equipamentos de Medição e Monitorização.
+		``EMM``: Equipamentos de Medição e Monitorização.
 
-``ESEG``: Equipamentos Controlador pela sua afetação.
+		``ESEG``: Equipamentos Controlador pela sua afetação.
 
 Movimentação
 ---------------------------
@@ -39,7 +39,7 @@ Qualquer saída ou entrada de um equipamento, na Sala de Equipamentos, deverá t
 
 .. Note:: A primeira linha corresponde sempre ao último movimento do equipamento. 
 
-As colunas :guilabel:`Entrada` e :guilabel:`Saída` deverão estar sempre preenchidas, quando o registo daquele movimento está concluído.
+			As colunas :guilabel:`Entrada` e :guilabel:`Saída` deverão estar sempre preenchidas, quando o registo daquele movimento está concluído.
 
 
 
