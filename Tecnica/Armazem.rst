@@ -9,4 +9,4 @@ Em desenvolvimento...
 Workflow
 =================
 
-teste 
+.. image:: img/Diagrama_GERAL_Compras.jpeg

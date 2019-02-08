@@ -63,7 +63,7 @@ Neste separador poderá consultar todos os registos existentes em SAP, associado
 
 .. Important:: Qualquer alteração necessária terá de ser efetuada exclusivamente em SAP. 
 
-Resultados Finançeiros
+Resultados Financeiros
 ===========================
 
 Esta secção pretende explicar como é consultada toda a informação relativa com custos e proveitos da Obra/Contrato.
@@ -96,14 +96,14 @@ No separador ``Mov. Stock`` é apresentado todo o movimento de stocks entre o ar
 Compromissos
 -----------------------
 
-O separador ``Compromissos`` é mostrado todos os itens, de Pedidos de Compra, que foram realizados para a Obra mas ainda não foram rececionados/faturados.
+No separador ``Compromissos`` são mostrados todos os itens, de Pedidos de Compra, que foram realizados para a Obra mas ainda não foram rececionados/faturados.
 
 .. image:: img/frm_obra_compromissos.PNG
 
 Mão de Obra
 -----------------------
 
-Atravês desta secção é possível visualizar toda a mão de obra que foi imputada à Obra.
+Atravês desta secção é possível visualizar toda a mão de obra imputada à Obra.
 
 .. image:: img/frm_obra_MO.PNG
 
