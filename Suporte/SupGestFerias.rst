@@ -1,5 +1,5 @@
 *********************
-Gestão de Equipamentos
+Gestão de Férias
 *********************
 
 Esta secção pretende documentar o processo de gestão de equipamentos e respetiva sala de equipamentos.
