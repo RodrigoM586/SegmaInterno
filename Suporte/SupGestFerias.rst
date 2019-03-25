@@ -2,45 +2,33 @@
 Gestão de Férias
 *********************
 
-Esta secção pretende documentar o processo de gestão de equipamentos e respetiva sala de equipamentos.
+Esta secção pretende documentar o processo da gestão de férias. 
 
-Workflow Sala Equipamentos
+Workflow Gestão Férias
 ==============================
 
-Todo o movimento de material na Sala de Equipamentos, deverá seguir o seguinte workflow procedimental, sendo registado através da base de dados.
+O registo e autorização de férias, deverá seguir o seguinte workflow procedimental, sendo registado através da base de dados.
 
-.. image:: img/Diagrama_SalaEquipamentos.jpeg	
+"em desenvolvimento..."	
 
 
-Base de Dados
+Registo Férias
 ==============================
 
-A seguinte secção pretende documentar o registo e gestão de equipamentos na base de dados. 
+A seguinte secção pretende documentar o registo de férias na base de dados, existindo duas opções, através do painel do Colaborador ou através do painel administrativo. 
 
-Registo novo equipamento
+Colaborador
 ---------------------------
 
-Para registar um novo equipamento deverá aceder ao separador :guilabel:`Equipamentos`, na base de dados de suporte, e clicar em :guilabel:`Adic. Novo Equip.` sendo necessário o preenchimento do seguinte formulário:
+Para o registo de férias através do painel do Colaborador, deverá aceder ao separador :guilabel:`Colaboradores`, na base de dados de suporte, selecionar o colaborador e clicar no separador :guilabel:`Férias` sendo necessário o preenchimento do seguinte formulário:
 
-.. image:: img/novoEquipamento.PNG
+.. image:: img/selectColab.PNG
 
-.. Note:: Os equipamentos são classicados através de dois tipos, ``EMM`` ou ``ESEG``. 
+.. image:: img/formColabFerias.PNG
 
-		``EMM``: Equipamentos de Medição e Monitorização.
-
-		``ESEG``: Equipamentos Controlador pela sua afetação.
-
-Movimentação
+.. Note:: Todas as férias incialmente introduzidas, por defeito, estão por validar pelo respetivo superior. 
+			Caso o superior responsável, já tenha validado as férias, deverá ser selecionado "validado superior" na respetiva data. 
+	
+Listagem Geral
 ---------------------------
-
-Qualquer saída ou entrada de um equipamento, na Sala de Equipamentos, deverá ter um registo na base de dados. Para tal, deverá ser preenchida a tabela de ``Atribuições`` do respetivo equipamento, conforme exemplificado na imagem em anexo.
-
-.. image:: img/movimentoEquip.PNG	
-
-.. Note:: A primeira linha corresponde sempre ao último movimento do equipamento. 
-
-			As colunas :guilabel:`Entrada` e :guilabel:`Saída` deverão estar sempre preenchidas, quando o registo daquele movimento está concluído.
-
-
-
 
