@@ -66,7 +66,7 @@ Através deste Excel é possível visualizar todas as férias marcadas, conforme
 
 Local do ficheiro:
 
- \\smgctpdfs\areas\segma\SEGMA - TÉCNICA\3 - RECURSOS HUMANOS\111 - 2019\1 - MAPA DE FÉRIAS\
+>>\\smgctpdfs\areas\segma\SEGMA - TÉCNICA\3 - RECURSOS HUMANOS\111 - 2019\1 - MAPA DE FÉRIAS
 
 .. Important:: É fundamental atualizar os dados aquando da abertura do ficheiro. 
 
@@ -78,5 +78,17 @@ Local do ficheiro:
 	
 	- Azul: Dia por validar superiormente;
 
-Relatórios Férisa/Colaborador
+Relatórios Mapa de Férias
 ----------------------------------
+
+Para retirar a folha de registo de férias, por Colaborador, deverá clicar no  painel :guilabel:`Administrativo - > Férias` e selecionar :guilabel:`Relatórios Férias/Colaborador`, este será o mapa de férias. 
+
+.. image:: img/frmAdminFeriasMapa.PNG
+
+.. Note:: Deverá selecionar o ano antes da extração do mapa de férias. 
+
+Após selecionado o ano ``2019`` é gerado o seguinte mapa de férias: 
+
+.. image:: img/frmAdminFeriasMapaF.PNG
+
+É possível imprimir este documento. 
