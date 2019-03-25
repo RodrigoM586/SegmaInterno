@@ -11,7 +11,9 @@ O registo e autorização de férias, deverá seguir o seguinte workflow procedi
 
 "em desenvolvimento..."	
 
-
+.. Note:: Todas as férias incialmente introduzidas, por defeito, estão por validar pelo respetivo superior. 
+			Caso o superior já tenha validado as férias (folha assinada), deverá ser selecionado o campo "Validado superior" na respetiva data. 
+	
 Registo Férias
 ==============================
 
@@ -28,9 +30,6 @@ De seguida poderá começar imediatamente o registo de férias, ou através da t
 
 .. image:: img/formColabFerias.PNG
 
-.. Note:: Todas as férias incialmente introduzidas, por defeito, estão por validar pelo respetivo superior. 
-			Caso o superior já tenha validado as férias (folha assinada), deverá ser selecionado o campo "Validado superior" na respetiva data. 
-	
 Registo Mensal
 ---------------------------
 
@@ -41,6 +40,8 @@ Uma outra alternativa ao registo de férias é através da visão calendarizada 
 Irá surgir uma janela com o mês selecionado, através deste formulário é possível inserir férias apenas com um clique no dia escolhido:
 
 .. image:: img/formColabFeriasCalend2.PNG
+		
+.. Note:: Deverá ser preenchido o campo :guilabel:`Inserido Por`, pela pessoa responsável pelo registo na base de dados de Suporte.
 		
 Listagem Geral
 ---------------------------
