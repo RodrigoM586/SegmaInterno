@@ -34,15 +34,14 @@ De seguida poderá começar imediatamente o registo de férias, ou através da t
 Registo Mensal
 ---------------------------
 
-Para o registo de férias através do painel do Colaborador, deverá aceder ao separador :guilabel:`Colaboradores`, na base de dados de suporte, selecionar o colaborador e clicar no separador :guilabel:`Férias` sendo necessário o preenchimento do seguinte formulário:
+Uma outra alternativa ao registo de férias é através da visão calendarizada mensalmente, para tal, deverá clicar em m :guilabel:`Inserir Férias` com o icon de Calendário.
 
-.. image:: img/selectColab.PNG
+.. image:: img/formColabFeriasCalend.PNG
 
-.. image:: img/formColabFerias.PNG
+Irá surgir uma janela com o mês selecionado, através deste formulário é possível inserir férias apenas com um clique no dia escolhido:
 
-.. Note:: Todas as férias incialmente introduzidas, por defeito, estão por validar pelo respetivo superior. 
-			Caso o superior responsável, já tenha validado as férias, deverá ser selecionado "validado superior" na respetiva data. 
-			
+.. image:: img/formColabFeriasCalend2.PNG
+		
 Listagem Geral
 ---------------------------
 
