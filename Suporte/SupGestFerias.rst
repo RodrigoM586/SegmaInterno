@@ -12,7 +12,7 @@ O registo e autorização de férias, deverá seguir o seguinte workflow procedi
 "em desenvolvimento..."	
 
 .. Note:: Todas as férias incialmente introduzidas, por defeito, estão por validar pelo respetivo superior. 
-			Caso o superior já tenha validado as férias (folha assinada), deverá ser selecionado o campo "Validado superior" na respetiva data. 
+			Caso o superior já tenha validado as férias (folha assinada), deverá ser selecionado o campo :guilabel:`Validado superior` na respetiva data. 
 	
 Registo Férias
 ==============================
@@ -22,22 +22,22 @@ A seguinte secção pretende documentar o registo de férias na base de dados, e
 Registo diário
 ---------------------------
 
-Para o registo de férias através do painel do Colaborador, deverá aceder ao separador :guilabel:`Colaboradores`, na base de dados de suporte, selecionar o colaborador e clicar no separador :guilabel:`Férias`:
+Para o registo de férias através do painel do Colaborador, deverá aceder ao separador :guilabel:`Colaboradores` na base de dados de suporte, selecionar o colaborador e clicar no separador :guilabel:`Férias`:
 
 .. image:: img/selectColab.PNG
 
-De seguida poderá começar imediatamente o registo de férias, ou através da tabela (última linha) ou clicando em :guilabel:`Inserir Férias`
+De seguida poderá começar imediatamente o registo de férias, ou através da tabela (última linha) ou clicando em :guilabel:`Inserir Férias`:
 
 .. image:: img/formColabFerias.PNG
 
-Registo Mensal
+Registo Calendarizado
 ---------------------------
 
-Uma outra alternativa ao registo de férias é através da visão calendarizada mensalmente, para tal, deverá clicar em m :guilabel:`Inserir Férias` com o icon de Calendário.
+Uma outra alternativa ao registo de férias é através da visão calendarizada mensalmente. Para tal, deverá clicar em :guilabel:`Inserir Férias` com o icon de Calendário.
 
 .. image:: img/formColabFeriasCalend.PNG
 
-Irá surgir uma janela com o mês selecionado, através deste formulário é possível inserir férias apenas com um clique no dia escolhido:
+Irá surgir uma janela com o mês selecionado, sendo possível através deste formulário inserir férias apenas com um clique no dia escolhido:
 
 .. image:: img/formColabFeriasCalend2.PNG
 		
@@ -48,28 +48,35 @@ Irá surgir uma janela com o mês selecionado, através deste formulário é pos
 Listagem Geral
 ---------------------------
 
+É possível também inserir férias através do painel :guilabel:`Administrativo`, sendo que o registo é identifco ao documentado no ponto  ``7.2.1``.
 
+.. image:: img/frmAdminFerias.PNG
 
-
-Gestão de Férias
+Relatórios de Férias Marcadas
 ==============================
 
-A seguinte secção pretende documentar a gestão de férias na base de dados, existindo duas opções, através do painel do Colaborador ou através do painel administrativo. 
+Para a exportação/visualização de férias por Colaborador é possível extrair um relatório através da base de dados (painel :guilabel:`Administrativo`) ou através do Excel automatizado de férias.
 
-Colaborador
----------------------------
+Excel Calendarizado
+----------------------------------
 
-Para o registo de férias através do painel do Colaborador, deverá aceder ao separador :guilabel:`Colaboradores`, na base de dados de suporte, selecionar o Colaborador: 
+Através deste Excel é possível visualizar todas as férias marcadas, conforme os registos na Base de Dados. 
 
-.. image:: img/selectColab.PNG
+.. image:: img/excelFerias.PNG
 
-De seguida deverá clicar no separador :guilabel:`Férias` onde irá surgir a seguinte janela que contêm toda a informação de marcação de férias do Colaborador:
+Local do ficheiro:
 
-.. image:: img/formColabFerias.PNG
+ \\smgctpdfs\areas\segma\SEGMA - TÉCNICA\3 - RECURSOS HUMANOS\111 - 2019\1 - MAPA DE FÉRIAS\
 
-.. Note:: Todas as férias incialmente introduzidas, por defeito, estão por validar pelo respetivo superior. 
-			Caso o superior responsável, já tenha validado as férias, deverá ser selecionado "validado superior" na respetiva data. 
+.. Important:: É fundamental atualizar os dados aquando da abertura do ficheiro. 
+
+.. Note:: As cores identificadas no excel têm a seguinte representação: 
 	
-Listagem Geral
----------------------------
+	- Vermelho: Dia completo marcado Validado Superiormente);
+	
+	- Amarelo: Dia parcial marcado Validado Superiormente);
+	
+	- Azul: Dia por validar superiormente;
 
+Relatórios Férisa/Colaborador
+----------------------------------
