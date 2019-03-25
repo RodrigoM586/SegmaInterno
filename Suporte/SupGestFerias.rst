@@ -5,7 +5,7 @@ Gestão de Férias
 Esta secção pretende documentar o processo da gestão de férias. 
 
 Workflow Gestão Férias
-==============================
+================================
 
 O registo e autorização de férias, deverá seguir o seguinte workflow procedimental, sendo registado através da base de dados.
 
@@ -15,7 +15,7 @@ O registo e autorização de férias, deverá seguir o seguinte workflow procedi
 			Caso o superior já tenha validado as férias (folha assinada), deverá ser selecionado o campo :guilabel:`Validado superior` na respetiva data. 
 	
 Registo Férias
-==============================
+================================
 
 A seguinte secção pretende documentar o registo de férias na base de dados, existindo duas opções, através do painel do Colaborador ou através do painel administrativo. 
 
@@ -53,7 +53,7 @@ Listagem Geral
 .. image:: img/frmAdminFerias.PNG
 
 Relatórios de Férias Marcadas
-==============================
+================================
 
 Para a exportação/visualização de férias por Colaborador é possível extrair um relatório através da base de dados (painel :guilabel:`Administrativo`) ou através do Excel automatizado de férias.
 
