@@ -41,6 +41,8 @@ Irá surgir uma janela com o mês selecionado, através deste formulário é pos
 
 .. image:: img/formColabFeriasCalend2.PNG
 		
+.. Note:: É possível a visualização e edição do registo de férias diretamente através desta interface, apenas sendo necessário clicar no dia escolhido. 
+
 .. Note:: Deverá ser preenchido o campo :guilabel:`Inserido Por`, pela pessoa responsável pelo registo na base de dados de Suporte.
 		
 Listagem Geral
