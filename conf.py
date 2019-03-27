@@ -22,8 +22,6 @@ sys.path.append(os.path.abspath('./Tecnica/'))
 sys.path.append(os.path.abspath('./Suporte/img/'))
 # -- Project information -----------------------------------------------------
 
-from sphinx_rtd_theme import __version__
-
 project = 'SegmaDocumentacao'
 copyright = '2019, Rodrigo Rocha'
 author = 'Rodrigo Rocha'
@@ -80,7 +78,7 @@ pygments_style = None
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
-html_theme_path = ["_templates", ]
+html_theme_path = ["themes", ]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
