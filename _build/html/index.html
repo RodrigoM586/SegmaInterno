@@ -19,22 +19,26 @@
   
 
   
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script type="text/javascript" src="_static/translations.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
 
-  
-  
     
 
   
-
   <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="index" title="Índice" href="genindex.html" />
     <link rel="search" title="Pesquisar" href="search.html" />
     <link rel="next" title="Resumo" href="Readme.html" /> 
-
-  
-  <script src="_static/js/modernizr.min.js"></script>
-
 </head>
 
 <body class="wy-body-for-nav">
@@ -93,6 +97,8 @@
 <li class="toctree-l1"><a class="reference internal" href="Suporte/SupContas.html">3. Documtação Contábil</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Suporte/SapExportarDados.html">4. Exportação de Dados SAP</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Suporte/SapRelatorios.html">5. Relatórios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Suporte/SupGestEquip.html">6. Gestão de Equipamentos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Suporte/SupGestFerias.html">7. Gestão de Férias</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Departamento Técnico</span></p>
 <ul>
@@ -236,6 +242,17 @@
 <li class="toctree-l2"><a class="reference internal" href="Suporte/SapRelatorios.html#transacoes">5.1. Transações</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="Suporte/SupGestEquip.html">6. Gestão de Equipamentos</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Suporte/SupGestEquip.html#workflow-sala-equipamentos">6.1. Workflow Sala Equipamentos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Suporte/SupGestEquip.html#base-de-dados">6.2. Base de Dados</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Suporte/SupGestFerias.html">7. Gestão de Férias</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="Suporte/SupGestFerias.html#workflow-gestao-ferias">7.1. Workflow Gestão Férias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Suporte/SupGestFerias.html#registo-ferias">7.2. Registo Férias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Suporte/SupGestFerias.html#relatorios-de-ferias-marcadas">7.3. Relatórios de Férias Marcadas</a></li>
+</ul>
+</li>
 </ul>
 </div>
 <div class="toctree-wrapper compound">
@@ -246,6 +263,7 @@
 <li class="toctree-l2"><a class="reference internal" href="Tecnica/OrdemServico.html#criar-os">Criar OS</a></li>
 <li class="toctree-l2"><a class="reference internal" href="Tecnica/OrdemServico.html#criar-os-da-proposta">Criar OS da Proposta</a></li>
 <li class="toctree-l2"><a class="reference internal" href="Tecnica/OrdemServico.html#associar-os">Associar OS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/OrdemServico.html#casos-praticos-ordens-serv">Casos Práticos Ordens Serv.</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="Tecnica/ReqCompra.html">Requisições de Compra</a><ul>
@@ -255,7 +273,14 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="Tecnica/Obras.html">Obras/Contratos</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#painel-obra">Paínel Obra</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#formulario-obra">Formulário Obra</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#ordens-servico">Ordens Serviço</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#propostas">Propostas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#relatorios">Relatórios</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#encomendas">Encomendas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#manutencao-sap">Manutenção (SAP)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#resultados-financeiros">Resultados Financeiros</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tecnica/Obras.html#notificacoes">Notificações</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="Tecnica/Armazem.html">Armazém</a><ul>
@@ -304,27 +329,16 @@
   
 
 
-  
-
-    
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-        <script type="text/javascript" src="_static/jquery.js"></script>
-        <script type="text/javascript" src="_static/underscore.js"></script>
-        <script type="text/javascript" src="_static/doctools.js"></script>
-        <script type="text/javascript" src="_static/language_data.js"></script>
-        <script type="text/javascript" src="_static/translations.js"></script>
-    
-
-  
-
-  <script type="text/javascript" src="_static/js/theme.js"></script>
-
   <script type="text/javascript">
       jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
-  </script> 
+  </script>
+
+  
+  
+    
+   
 
 </body>
 </html>

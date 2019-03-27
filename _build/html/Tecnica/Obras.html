@@ -19,23 +19,27 @@
   
 
   
+  <script type="text/javascript" src="../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../_static/jquery.js"></script>
+        <script type="text/javascript" src="../_static/underscore.js"></script>
+        <script type="text/javascript" src="../_static/doctools.js"></script>
+        <script type="text/javascript" src="../_static/language_data.js"></script>
+        <script type="text/javascript" src="../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
 
-  
-  
     
 
   
-
   <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Índice" href="../genindex.html" />
     <link rel="search" title="Pesquisar" href="../search.html" />
     <link rel="next" title="Armazém" href="Armazem.html" />
     <link rel="prev" title="Requisições de Compra" href="ReqCompra.html" /> 
-
-  
-  <script src="../_static/js/modernizr.min.js"></script>
-
 </head>
 
 <body class="wy-body-for-nav">
@@ -94,13 +98,29 @@
 <li class="toctree-l1"><a class="reference internal" href="../Suporte/SupContas.html">3. Documtação Contábil</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Suporte/SapExportarDados.html">4. Exportação de Dados SAP</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Suporte/SapRelatorios.html">5. Relatórios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Suporte/SupGestEquip.html">6. Gestão de Equipamentos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Suporte/SupGestFerias.html">7. Gestão de Férias</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Departamento Técnico</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="OrdemServico.html">Ordens de Serviço</a></li>
 <li class="toctree-l1"><a class="reference internal" href="ReqCompra.html">Requisições de Compra</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Obras/Contratos</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#painel-obra">Paínel Obra</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#formulario-obra">Formulário Obra</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ordens-servico">Ordens Serviço</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#propostas">Propostas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#relatorios">Relatórios</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#encomendas">Encomendas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#manutencao-sap">Manutenção (SAP)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#resultados-financeiros">Resultados Financeiros</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#faturas-clientes">Faturas Clientes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#faturas-fornecedores">Faturas Fornecedores</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#movimentos-stock">Movimentos Stock</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#compromissos">Compromissos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#mao-de-obra">Mão de Obra</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#notificacoes">Notificações</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="Armazem.html">Armazém</a></li>
@@ -176,15 +196,120 @@
 <p class="topic-title first">Tabela de Conteudos</p>
 <ul class="simple">
 <li><a class="reference internal" href="#obras-contratos" id="id1">Obras/Contratos</a><ul>
-<li><a class="reference internal" href="#painel-obra" id="id2">Paínel Obra</a></li>
+<li><a class="reference internal" href="#formulario-obra" id="id2">Formulário Obra</a></li>
+<li><a class="reference internal" href="#ordens-servico" id="id3">Ordens Serviço</a></li>
+<li><a class="reference internal" href="#propostas" id="id4">Propostas</a></li>
+<li><a class="reference internal" href="#relatorios" id="id5">Relatórios</a></li>
+<li><a class="reference internal" href="#encomendas" id="id6">Encomendas</a></li>
+<li><a class="reference internal" href="#manutencao-sap" id="id7">Manutenção (SAP)</a></li>
+<li><a class="reference internal" href="#resultados-financeiros" id="id8">Resultados Financeiros</a><ul>
+<li><a class="reference internal" href="#faturas-clientes" id="id9">Faturas Clientes</a></li>
+<li><a class="reference internal" href="#faturas-fornecedores" id="id10">Faturas Fornecedores</a></li>
+<li><a class="reference internal" href="#movimentos-stock" id="id11">Movimentos Stock</a></li>
+<li><a class="reference internal" href="#compromissos" id="id12">Compromissos</a></li>
+<li><a class="reference internal" href="#mao-de-obra" id="id13">Mão de Obra</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#notificacoes" id="id14">Notificações</a></li>
 </ul>
 </li>
 </ul>
 </div>
-<p>Em desenvolvimento…</p>
-<div class="section" id="painel-obra">
-<h2><a class="toc-backref" href="#id2">Paínel Obra</a><a class="headerlink" href="#painel-obra" title="Link permanente para este título">¶</a></h2>
-<p>Just a place holder…</p>
+<p>Esta secção têm como objetivo explicar o formulário de Obras/Contratos da base de dados, bem como informar acerca das suas funcionalidades.</p>
+<div class="section" id="formulario-obra">
+<h2><a class="toc-backref" href="#id2">Formulário Obra</a><a class="headerlink" href="#formulario-obra" title="Link permanente para este título">¶</a></h2>
+<p>O formulário da Obra/Contrato agrega toda a informação que seja imputada a um registo, seja hiperligações para pastas, RCD ou criação de Propostas e/ou Ordens de Serviço.</p>
+<img alt="../_images/frm_obra.PNG" src="../_images/frm_obra.PNG" />
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">A partir da versão 7.00 da base de dados técnica, tornou-se possível a criação de um registo de Obra por qualquer utilizador.</p>
+</div>
+<div class="admonition important">
+<p class="first admonition-title">Importante</p>
+<p>Todo o registo de Obra/Contrato está diretamente associado com um registo em SAP, para alocação de custos e proveitos.</p>
+<p class="last">A criação do registo em SAP é da responsabilidade do departamento de Suporte. Até criação do registo em SAP, a obra ficará temporariamente identificada como <code class="docutils literal notranslate"><span class="pre">Por</span> <span class="pre">Classificar</span></code>.</p>
+</div>
+</div>
+<div class="section" id="ordens-servico">
+<h2><a class="toc-backref" href="#id3">Ordens Serviço</a><a class="headerlink" href="#ordens-servico" title="Link permanente para este título">¶</a></h2>
+<p>Através do separador <code class="docutils literal notranslate"><span class="pre">Ordens</span> <span class="pre">Serv.</span></code> é possível visualizar todas as OS’s associadas a este registo.</p>
+<img alt="../_images/frm_obra_OS.PNG" src="../_images/frm_obra_OS.PNG" />
+</div>
+<div class="section" id="propostas">
+<h2><a class="toc-backref" href="#id4">Propostas</a><a class="headerlink" href="#propostas" title="Link permanente para este título">¶</a></h2>
+<p>Através do separador <code class="docutils literal notranslate"><span class="pre">Propostas</span></code> é possível visualizar todas as Propostas associadas a este registo, sejam através do intermédio de uma Ordem de Serviço ou selecão do registo diretamente na Proposta.</p>
+<img alt="../_images/frm_obra_proposta.PNG" src="../_images/frm_obra_proposta.PNG" />
+</div>
+<div class="section" id="relatorios">
+<h2><a class="toc-backref" href="#id5">Relatórios</a><a class="headerlink" href="#relatorios" title="Link permanente para este título">¶</a></h2>
+<p>Através do separador <code class="docutils literal notranslate"><span class="pre">Relatórios</span></code> é possível visualizar todas os relatórios técnicos associados a este registo, que tenham sido realizados na base de dados.</p>
+<img alt="../_images/frm_obra_relatorios.PNG" src="../_images/frm_obra_relatorios.PNG" />
+</div>
+<div class="section" id="encomendas">
+<h2><a class="toc-backref" href="#id6">Encomendas</a><a class="headerlink" href="#encomendas" title="Link permanente para este título">¶</a></h2>
+<p>Através do separador <code class="docutils literal notranslate"><span class="pre">Encomendas</span></code> é possível visualizar todas as encomendas efetuadas para este registo, sejam através de SAP ou Access.</p>
+<img alt="../_images/frm_obra_compras.PNG" src="../_images/frm_obra_compras.PNG" />
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p>Qualquer encomenda que seja efetuada para a Obra, a mesma estará vísivel neste separador, independentemente de ter sido criada em Access ou SAP.</p>
+<p class="last">Se clicar na coluna <code class="docutils literal notranslate"><span class="pre">P.</span> <span class="pre">Compra</span></code> poderá consultar todos os itens encomendados de forma discriminada.</p>
+</div>
+<div class="admonition important">
+<p class="first admonition-title">Importante</p>
+<p class="last">A atualização de todos os registos de SAP para Acccess é realizado de forma manual e tipicamente no fím de cada dia útil.</p>
+</div>
+</div>
+<div class="section" id="manutencao-sap">
+<h2><a class="toc-backref" href="#id7">Manutenção (SAP)</a><a class="headerlink" href="#manutencao-sap" title="Link permanente para este título">¶</a></h2>
+<p>Neste separador poderá consultar todos os registos existentes em SAP, associados ao Contrato.</p>
+<img alt="../_images/frm_obra_manut.PNG" src="../_images/frm_obra_manut.PNG" />
+<div class="admonition important">
+<p class="first admonition-title">Importante</p>
+<p class="last">Qualquer alteração necessária terá de ser efetuada exclusivamente em SAP.</p>
+</div>
+</div>
+<div class="section" id="resultados-financeiros">
+<h2><a class="toc-backref" href="#id8">Resultados Financeiros</a><a class="headerlink" href="#resultados-financeiros" title="Link permanente para este título">¶</a></h2>
+<p>Esta secção pretende explicar como é consultada toda a informação relativa com custos e proveitos da Obra/Contrato.</p>
+<div class="section" id="faturas-clientes">
+<h3><a class="toc-backref" href="#id9">Faturas Clientes</a><a class="headerlink" href="#faturas-clientes" title="Link permanente para este título">¶</a></h3>
+<p>Esta secção mostra todas as faturas que foram, ou vão, ser faturadas ao Cliente, bem como notas de crédito.</p>
+<img alt="../_images/frm_obra_fatCliente.PNG" src="../_images/frm_obra_fatCliente.PNG" />
+<div class="admonition important">
+<p class="first admonition-title">Importante</p>
+<p class="last">Se o campo <code class="docutils literal notranslate"><span class="pre">Data</span></code> e <code class="docutils literal notranslate"><span class="pre">Nº</span> <span class="pre">Fatura</span></code> estiverem em branco, significa que a fatura ainda não foi enviada para o Cliente.</p>
+</div>
+</div>
+<div class="section" id="faturas-fornecedores">
+<h3><a class="toc-backref" href="#id10">Faturas Fornecedores</a><a class="headerlink" href="#faturas-fornecedores" title="Link permanente para este título">¶</a></h3>
+<p>Esta secção mostra todas as fatura de Fornecedores. Sendo que cada linha corresponde a um item, já faturado, do pedido de compra enviado ao Fornecedor.</p>
+<img alt="../_images/frm_obra_fatFornec.PNG" src="../_images/frm_obra_fatFornec.PNG" />
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Todas as linhas aqui apresentadas significa que o item já foi rececionado.</p>
+</div>
+</div>
+<div class="section" id="movimentos-stock">
+<h3><a class="toc-backref" href="#id11">Movimentos Stock</a><a class="headerlink" href="#movimentos-stock" title="Link permanente para este título">¶</a></h3>
+<p>No separador <code class="docutils literal notranslate"><span class="pre">Mov.</span> <span class="pre">Stock</span></code> é apresentado todo o movimento de stocks entre o armazém e a obra.</p>
+<img alt="../_images/frm_obra_stock.PNG" src="../_images/frm_obra_stock.PNG" />
+</div>
+<div class="section" id="compromissos">
+<h3><a class="toc-backref" href="#id12">Compromissos</a><a class="headerlink" href="#compromissos" title="Link permanente para este título">¶</a></h3>
+<p>No separador <code class="docutils literal notranslate"><span class="pre">Compromissos</span></code> são mostrados todos os itens, de Pedidos de Compra, que foram realizados para a Obra mas ainda não foram rececionados/faturados.</p>
+<img alt="../_images/frm_obra_compromissos.PNG" src="../_images/frm_obra_compromissos.PNG" />
+</div>
+<div class="section" id="mao-de-obra">
+<h3><a class="toc-backref" href="#id13">Mão de Obra</a><a class="headerlink" href="#mao-de-obra" title="Link permanente para este título">¶</a></h3>
+<p>Atravês desta secção é possível visualizar toda a mão de obra imputada à Obra.</p>
+<img alt="../_images/frm_obra_MO.PNG" src="../_images/frm_obra_MO.PNG" />
+</div>
+</div>
+<div class="section" id="notificacoes">
+<h2><a class="toc-backref" href="#id14">Notificações</a><a class="headerlink" href="#notificacoes" title="Link permanente para este título">¶</a></h2>
+<p>O separador <code class="docutils literal notranslate"><span class="pre">Notificações</span></code> pretende agrupar todas as notas, criadas pelos utilizadores, associadas à Obra.</p>
+<p>Estas notificações têm como principal objetivo reunir a informação para renovação de contrato ou outras informações necessárias.</p>
+<img alt="../_images/frm_obra_notif.PNG" src="../_images/frm_obra_notif.PNG" />
 </div>
 </div>
 
@@ -199,7 +324,7 @@
         <a href="Armazem.html" class="btn btn-neutral float-right" title="Armazém" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="ReqCompra.html" class="btn btn-neutral" title="Requisições de Compra" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="ReqCompra.html" class="btn btn-neutral float-left" title="Requisições de Compra" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -225,27 +350,16 @@
   
 
 
-  
-
-    
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
-        <script type="text/javascript" src="../_static/jquery.js"></script>
-        <script type="text/javascript" src="../_static/underscore.js"></script>
-        <script type="text/javascript" src="../_static/doctools.js"></script>
-        <script type="text/javascript" src="../_static/language_data.js"></script>
-        <script type="text/javascript" src="../_static/translations.js"></script>
-    
-
-  
-
-  <script type="text/javascript" src="../_static/js/theme.js"></script>
-
   <script type="text/javascript">
       jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
-  </script> 
+  </script>
+
+  
+  
+    
+   
 
 </body>
 </html>

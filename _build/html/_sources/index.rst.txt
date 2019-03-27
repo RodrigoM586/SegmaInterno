@@ -19,6 +19,8 @@ SEGMA | Documentação de Processos
    Suporte/SupContas.rst
    Suporte/SapExportarDados.rst
    Suporte/SapRelatorios.rst
+   Suporte/SupGestEquip.rst
+   Suporte/SupGestFerias.rst
 
    
 .. toctree::

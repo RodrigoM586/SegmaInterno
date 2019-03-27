@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>5. Relatórios &mdash; Documentação SegmaDocumentacao beta 0.1</title>
+  <title>6. Gestão de Equipamentos &mdash; Documentação SegmaDocumentacao beta 0.1</title>
   
 
   
@@ -38,8 +38,8 @@
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Índice" href="../genindex.html" />
     <link rel="search" title="Pesquisar" href="../search.html" />
-    <link rel="next" title="6. Gestão de Equipamentos" href="SupGestEquip.html" />
-    <link rel="prev" title="4. Exportação de Dados SAP" href="SapExportarDados.html" /> 
+    <link rel="next" title="7. Gestão de Férias" href="SupGestFerias.html" />
+    <link rel="prev" title="5. Relatórios" href="SapRelatorios.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -97,11 +97,16 @@
 <li class="toctree-l1"><a class="reference internal" href="SapPedidos.html">2. Pedidos de Compra</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SupContas.html">3. Documtação Contábil</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SapExportarDados.html">4. Exportação de Dados SAP</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">5. Relatórios</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#transacoes">5.1. Transações</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SapRelatorios.html">5. Relatórios</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">6. Gestão de Equipamentos</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#workflow-sala-equipamentos">6.1. Workflow Sala Equipamentos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#base-de-dados">6.2. Base de Dados</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#registo-novo-equipamento">6.2.1. Registo novo equipamento</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#movimentacao">6.2.2. Movimentação</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="SupGestEquip.html">6. Gestão de Equipamentos</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="SupGestFerias.html">7. Gestão de Férias</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Departamento Técnico</span></p>
@@ -157,13 +162,13 @@
     
       <li><a href="../index.html">Docs</a> &raquo;</li>
         
-      <li>5. Relatórios</li>
+      <li>6. Gestão de Equipamentos</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
-            <a href="../_sources/Suporte/SapRelatorios.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/Suporte/SupGestEquip.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -176,78 +181,38 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="relatorios">
-<h1>5. Relatórios<a class="headerlink" href="#relatorios" title="Link permanente para este título">¶</a></h1>
-<p>Esta secção pretende documentar as transações frequentemente utilizadas para visualização de relatórios.</p>
-<div class="section" id="transacoes">
-<h2>5.1. Transações<a class="headerlink" href="#transacoes" title="Link permanente para este título">¶</a></h2>
-<p>Transações normalmente utilizadas para visualização de relatórios.</p>
-<table border="1" class="docutils">
-<colgroup>
-<col width="18%" />
-<col width="82%" />
-</colgroup>
-<thead valign="bottom">
-<tr class="row-odd"><th class="head">Transaç.</th>
-<th class="head">Descrição</th>
-</tr>
-</thead>
-<tbody valign="top">
-<tr class="row-even"><td colspan="2"><strong>Pedidos de Compra</strong></td>
-</tr>
-<tr class="row-odd"><td>ME2N</td>
-<td>Procurar Pedidos por Nº do Pedido ou Fornecedor</td>
-</tr>
-<tr class="row-even"><td>ME2M</td>
-<td>Procurar Pedidos por código de material</td>
-</tr>
-<tr class="row-odd"><td>ME2J</td>
-<td>Procurar Pedidos por Fornecedor</td>
-</tr>
-<tr class="row-even"><td>ME2L</td>
-<td>Modificação em massa de projetos.</td>
-</tr>
-<tr class="row-odd"><td>ME29</td>
-<td>Liberar pedido</td>
-</tr>
-<tr class="row-even"><td colspan="2"><strong>Gestão de Materiais</strong></td>
-</tr>
-<tr class="row-odd"><td>MM60</td>
-<td>Visão Geral de todos os materiais</td>
-</tr>
-<tr class="row-even"><td>ME12</td>
-<td>Registo Info (problema dos textos nos pedidos)</td>
-</tr>
-<tr class="row-odd"><td>MB51</td>
-<td>Movimentos de materiais</td>
-</tr>
-<tr class="row-even"><td colspan="2"><strong>Gestão Stocks</strong></td>
-</tr>
-<tr class="row-odd"><td>MB52</td>
-<td>Visão Geral de Stocks por depósito</td>
-</tr>
-<tr class="row-even"><td>MMBE</td>
-<td>Visão Hierárquica do movimento de materiais</td>
-</tr>
-<tr class="row-odd"><td>MB5T</td>
-<td>Material em trânsito</td>
-</tr>
-<tr class="row-even"><td colspan="2"><strong>Fornecedores</strong></td>
-</tr>
-<tr class="row-odd"><td>MK03</td>
-<td>Exibir Fornecedor (compras)</td>
-</tr>
-<tr class="row-even"><td>XK03</td>
-<td>Exibir Fornecedor (central)</td>
-</tr>
-<tr class="row-odd"><td>FK10N</td>
-<td>Exibir Saldos de Fornecedor</td>
-</tr>
-<tr class="row-even"><td>MKVZ</td>
-<td>Exibir Lista de Fornecedores Total</td>
-</tr>
-</tbody>
-</table>
+  <div class="section" id="gestao-de-equipamentos">
+<h1>6. Gestão de Equipamentos<a class="headerlink" href="#gestao-de-equipamentos" title="Link permanente para este título">¶</a></h1>
+<p>Esta secção pretende documentar o processo de gestão de equipamentos e respetiva sala de equipamentos.</p>
+<div class="section" id="workflow-sala-equipamentos">
+<h2>6.1. Workflow Sala Equipamentos<a class="headerlink" href="#workflow-sala-equipamentos" title="Link permanente para este título">¶</a></h2>
+<p>Todo o movimento de material na Sala de Equipamentos, deverá seguir o seguinte workflow procedimental, sendo registado através da base de dados.</p>
+<img alt="../_images/Diagrama_SalaEquipamentos.jpeg" src="../_images/Diagrama_SalaEquipamentos.jpeg" />
+</div>
+<div class="section" id="base-de-dados">
+<h2>6.2. Base de Dados<a class="headerlink" href="#base-de-dados" title="Link permanente para este título">¶</a></h2>
+<p>A seguinte secção pretende documentar o registo e gestão de equipamentos na base de dados.</p>
+<div class="section" id="registo-novo-equipamento">
+<h3>6.2.1. Registo novo equipamento<a class="headerlink" href="#registo-novo-equipamento" title="Link permanente para este título">¶</a></h3>
+<p>Para registar um novo equipamento deverá aceder ao separador <span class="guilabel">Equipamentos</span>, na base de dados de suporte, e clicar em <span class="guilabel">Adic. Novo Equip.</span> sendo necessário o preenchimento do seguinte formulário:</p>
+<img alt="../_images/novoEquipamento.PNG" src="../_images/novoEquipamento.PNG" />
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p>Os equipamentos são classicados através de dois tipos, <code class="docutils literal notranslate"><span class="pre">EMM</span></code> ou <code class="docutils literal notranslate"><span class="pre">ESEG</span></code>.</p>
+<p><code class="docutils literal notranslate"><span class="pre">EMM</span></code>: Equipamentos de Medição e Monitorização.</p>
+<p class="last"><code class="docutils literal notranslate"><span class="pre">ESEG</span></code>: Equipamentos Controlador pela sua afetação.</p>
+</div>
+</div>
+<div class="section" id="movimentacao">
+<h3>6.2.2. Movimentação<a class="headerlink" href="#movimentacao" title="Link permanente para este título">¶</a></h3>
+<p>Qualquer saída ou entrada de um equipamento, na Sala de Equipamentos, deverá ter um registo na base de dados. Para tal, deverá ser preenchida a tabela de <code class="docutils literal notranslate"><span class="pre">Atribuições</span></code> do respetivo equipamento, conforme exemplificado na imagem em anexo.</p>
+<img alt="../_images/movimentoEquip.PNG" src="../_images/movimentoEquip.PNG" />
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p>A primeira linha corresponde sempre ao último movimento do equipamento.</p>
+<p class="last">As colunas <span class="guilabel">Entrada</span> e <span class="guilabel">Saída</span> deverão estar sempre preenchidas, quando o registo daquele movimento está concluído.</p>
+</div>
+</div>
 </div>
 </div>
 
@@ -259,10 +224,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="SupGestEquip.html" class="btn btn-neutral float-right" title="6. Gestão de Equipamentos" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="SupGestFerias.html" class="btn btn-neutral float-right" title="7. Gestão de Férias" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="SapExportarDados.html" class="btn btn-neutral float-left" title="4. Exportação de Dados SAP" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="SapRelatorios.html" class="btn btn-neutral float-left" title="5. Relatórios" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
