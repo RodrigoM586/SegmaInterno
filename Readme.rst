@@ -3,7 +3,7 @@
 Resumo
 ********************************************
 
-  .. note:: Através do painel lateral esquerdo é possível procurar, 
+  .. tip:: Através do painel lateral esquerdo é possível procurar, 
 			consoante o departamento e tópico, um assunto específico. 
 			
 O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
