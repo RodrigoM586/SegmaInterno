@@ -2,12 +2,12 @@
 ********************************************
 Resumo
 ********************************************
+	
+O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
 
   .. tip:: Através do painel lateral esquerdo é possível procurar, 
 			consoante o departamento e tópico, um assunto específico. 
-			
-O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
-
+		
 .. _readthedocs.org: http://www.readthedocs.org
 
 Estrutura
@@ -29,3 +29,5 @@ Contribuição
 
 Caso pretenda contribuír no melhoramento deste documento, por favor `envie um email 
 <rodrigo.j.roha@eda.pt>`__.
+
+A principal documentação deste site está organizada através das seguintes seções: 
