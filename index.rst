@@ -5,7 +5,7 @@ SEGMA | Documentação de Processos
 
 .. toctree::
    :maxdepth: 1
-   :caption: Sumário
+   :caption: Geral
 
    Readme.rst
 
