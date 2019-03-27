@@ -105,7 +105,7 @@ html_theme_path = ["_themes", ]
 
 html_theme_options = {
     'logo_only': True,
-	'display_version': True,
+	'display_version': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
