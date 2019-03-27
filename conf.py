@@ -91,10 +91,8 @@ html_theme_path = ["_themes", ]
 
 def setup(app):
     app.add_stylesheet('css/theme.css')
-	app.add_javascript('css/theme.js')
 
-    
-	
+  
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
