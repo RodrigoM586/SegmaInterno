@@ -22,12 +22,7 @@ sys.path.append(os.path.abspath('./Tecnica/'))
 sys.path.append(os.path.abspath('./Suporte/img/'))
 # -- Project information -----------------------------------------------------
 
-needs_sphinx = '1.3'
 
-# Sphinx extension module names and templates location
-sys.path.append(os.path.abspath('extensions'))
-extensions = ['gdscript', 'sphinx_tabs.tabs', 'sphinx.ext.imgmath']
-templates_path = ['_templates']
 
 project = 'SegmaDocumentacao'
 copyright = '2019, Rodrigo Rocha'
@@ -49,21 +44,11 @@ release = 'beta 0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-from gdscript import GDScriptLexer
-from sphinx.highlighting import lexers
-lexers['gdscript'] = GDScriptLexer()
 
-pygments_style = 'sphinx'
-highlight_language = 'gdscript'
 
 # -- Options for HTML output ----------------------------------------------
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
-import sphinx_rtd_theme
-html_theme = 'sphinx_rtd_theme'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 extensions = [
 ]
@@ -113,10 +98,6 @@ html_theme_path = ["_themes", ]
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 
-def setup(app):
-    app.add_stylesheet('css/theme.css')
-
-  
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
