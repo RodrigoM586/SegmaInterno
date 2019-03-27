@@ -1,28 +1,54 @@
 
-********************************************
-Resumo
-********************************************
+**************************
+Read the Docs Sphinx Theme
+**************************
 
-O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
+.. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
+   :target: https://pypi.python.org/pypi/sphinx_rtd_theme
+   :alt: Pypi Version 
+.. image:: https://travis-ci.org/rtfd/sphinx_rtd_theme.svg?branch=master
+   :target: https://travis-ci.org/rtfd/sphinx_rtd_theme
+   :alt: Build Status
+.. image:: https://img.shields.io/pypi/l/sphinx_rtd_theme.svg
+   :target: https://pypi.python.org/pypi/sphinx_rtd_theme/
+   :alt: License
+.. image:: https://readthedocs.org/projects/sphinx-rtd-theme/badge/?version=latest
+  :target: http://sphinx-rtd-theme.readthedocs.io/en/latest/?badge=latest
+  :alt: Documentation Status
 
+The ``sphinx_rtd_theme`` is a sphinx_ theme designed to look modern and be mobile-friendly.
+This theme is primarily focused to be used on readthedocs.org_ but can work with your
+own sphinx projects. To read more and see a working demo_ head over to readthedocs.org_.
+
+.. _sphinx: http://www.sphinx-doc.org
 .. _readthedocs.org: http://www.readthedocs.org
+.. _demo: https://sphinx-rtd-theme.readthedocs.io/en/latest/
 
-Estrutura
+
+Installing
 ==========
 
-Este documento foi estruturado por departamentos:
+The theme is distributed on PyPI_ and can be installed with pip::
 
-	- Departamento de Suporte;
-  
-Pretende documentar todas as operações realizadas, pelo departamento de Suporte, em SAP: ERP, desde a criação de PEP's, de pedidos de compra e download de custos para upload em SQL. 
+   pip install sphinx_rtd_theme
 
-	- Departamento Técnico;
-  
-Pretende documentar e explicar os vários processos e operações realizadas pelo departamento técnico. 
+For more information read the full installing docs
+`here <https://sphinx-rtd-theme.readthedocs.io/en/latest/installing.html>`__.
+
+.. _PyPI: https://pypi.python.org/pypi/sphinx_rtd_theme
 
 
-Contribuição
+Configuration
+=============
+
+The ``sphinx_rtd_theme`` is highly customizable on both the page level and on a global level.
+To see all the possible configuration options read the configuring docs
+`here <https://sphinx-rtd-theme.readthedocs.io/en/latest/configuring.html>`__.
+
+
+Contributing
 ============
 
-Caso pretenda contribuír no melhoramento deste documento, por favor `envie um email 
-<rodrigo.j.roha@eda.pt>`__.
+If you would like to help improve the theme or have more control
+over the theme in case of a fork please read our contributing guide
+`here <https://sphinx-rtd-theme.readthedocs.io/en/latest/contributing.html>`__.
