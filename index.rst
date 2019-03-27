@@ -1,28 +1,38 @@
-.. include:: ../README.rst
+.. include:: Readme.rst
+
+SEGMA | Documentação de Processos
+==================================
 
 .. toctree::
-   :caption: Theme Documentation
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Sumário
 
-   installing
-   configuring
-   changelog
-   contributing
-
+   Readme.rst
 
 .. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Demo Documents
+   :maxdepth: 1
+   :numbered:
+   :caption: Departamento Suporte
 
-    demo/structure
-    demo/demo
-    demo/lists_tables
-    demo/api
+   Suporte/SapPEP.rst
+   Suporte/SapPedidos.rst
+   Suporte/SupContas.rst
+   Suporte/SapExportarDados.rst
+   Suporte/SapRelatorios.rst
+   Suporte/SupGestEquip.rst
+   Suporte/SupGestFerias.rst
 
+   
 .. toctree::
-    :maxdepth: 3
-    :numbered:
-    :caption: This is an incredibly long caption for a long menu
+   :maxdepth: 1
+   :caption: Departamento Técnico
 
-    demo/long
+   Tecnica/OrdemServico.rst
+   Tecnica/ReqCompra.rst
+   Tecnica/Obras.rst
+   Tecnica/Armazem.rst
+   Tecnica/Manutencao.rst
+   Tecnica/Navia.rst
+   
+   
+
