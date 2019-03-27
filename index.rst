@@ -4,13 +4,13 @@ SEGMA | Documentação de Processos
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Sumário
 
    Readme.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
    :caption: Departamento Suporte
 
@@ -24,7 +24,7 @@ SEGMA | Documentação de Processos
 
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Departamento Técnico
 
    Tecnica/OrdemServico.rst
@@ -33,5 +33,6 @@ SEGMA | Documentação de Processos
    Tecnica/Armazem.rst
    Tecnica/Manutencao.rst
    Tecnica/Navia.rst
+   
    
 
