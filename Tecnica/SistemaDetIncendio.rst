@@ -42,7 +42,7 @@ Como a SEGMA não realiza tratamento de dados, o cliente é que é responsável 
 Onde se encontra o alvará? 
 ----------------------------------------------------------------------
 
-Não é necessário a SEGMA possuir um alvará, no entanto, existe um documento alternativo....
+Apenas é obrigatório o registo prévio na PSP. (número a ser disponibilizado brevemente..)
 
 Legislação
 ============================
