@@ -35,7 +35,7 @@ Quem é o responsável pela colocação de aviso/sinalização?
 
 A empresa de segurança privada, quando esta seja responsável pelo tratamento de dados”. 
 
-Como a SEGMA não realiza tratamento de dados, o cliente é que é responsável pela colocação doa aviso e sinalização do sistema de videovigilância. No entanto a SEGMA poderá alertar o cliente para esta necessidade.
+Como a SEGMA não realiza tratamento de dados, o cliente é que é responsável pela colocação do aviso e sinalização do sistema de videovigilância. No entanto a SEGMA poderá alertar o cliente para esta necessidade.
 
 Onde se encontra o alvará? 
 ----------------------------------------------------------------------
@@ -106,6 +106,6 @@ Artigo 113.º - Certificado de instalação
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. O projeto de instalação de um sistema de alarme deve ser elaborado de harmonia com a norma CLC/TS 50131-7 de modo a minimizar a ocorrência de falsos alarmes. 
-2. O instalador autorizado de material e equipamento de segurança deve emitir um ***certificado de instalação*** garantindo a conformidade com a norma CLC/TS 50131-7, nas partes aplicáveis à instalação de alarmes. 
+2. O instalador autorizado de material e equipamento de segurança deve emitir um **certificado de instalação** garantindo a conformidade com a norma CLC/TS 50131-7, nas partes aplicáveis à instalação de alarmes. 
 3. Todas as intervenções de manutenção e assistência técnica de material e equipamento de segurança devem ser anotados no livro de registos relativo ao sistema instalado.
 
