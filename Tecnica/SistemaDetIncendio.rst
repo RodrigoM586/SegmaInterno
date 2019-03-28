@@ -2,24 +2,24 @@
 Sistemas Deteção Intrusão/Videovigilância
 ***************************************************
 
-.. contents:: Tabela de Conteudos
+.. contents:: Tabela de Conteúdos
 
-Workflow OS
-============================
+Objetivo
+=================================
 
-Os seguintes diagramas pretendem demonstrar as duas alternativas possíveis para criação de uma OS, seja através de uma proposta ou diretamente atravês do registo da OS. 
+Esta seção têm como principal objetivo documentar o procedimento para instalação de sistemas de deteção de intrusão e/ou videovigiliância e uma seção de perguntas e respostas. 
+
+
+
+FAQS 
+=================================
+
+Em desenvolvimento...
+
+Worklow - Comunicação de registo
+=================================
 
 .. image:: img/Diagrama_OrdemServico.jpg
-
-Criar OS
-============================
-
-Em desenvolvimento...
-
-Criar OS da Proposta
-============================
-
-Em desenvolvimento...
 
 Associar OS
 ============================
