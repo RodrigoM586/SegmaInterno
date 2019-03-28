@@ -109,3 +109,12 @@ Artigo 113.º - Certificado de instalação
 2. O instalador autorizado de material e equipamento de segurança deve emitir um **certificado de instalação** garantindo a conformidade com a norma CLC/TS 50131-7, nas partes aplicáveis à instalação de alarmes. 
 3. Todas as intervenções de manutenção e assistência técnica de material e equipamento de segurança devem ser anotados no livro de registos relativo ao sistema instalado.
 
+Anexos 
+============================
+
+Aqui encontram-se todos os anexos necessários: 
+
+Comunicação de Instalação de Alarme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Para descarregar o ficheiro PDF, clique em:
+:download:`Comunicaçao de alarmes.pdf <files/Comunicaçao de alarmes.pdf>`.
