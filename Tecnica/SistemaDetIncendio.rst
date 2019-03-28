@@ -26,7 +26,7 @@ Qual a responsabilidade da SEGMA?
 Qual é o procedimento caso ocorra uma deteção no sistema instalado?
 ----------------------------------------------------------------------
 
-Caso ocorra uma deteção no sistema instalado com sirene exterior, em que a PSP seja alertada o cliente poderá solicitar apoio à SEGMA para elaboração de um relatório técnico a ***enviar à PSP no prazo de 10 dias.***
+Caso ocorra uma deteção no sistema instalado com sirene exterior, em que a PSP seja alertada o cliente poderá solicitar apoio à SEGMA para elaboração de um relatório técnico a enviar à PSP no prazo de 10 dias.
 
 .. note:: Apenas caso o sistema esteja instalado com uma sirene exterior. 
 
@@ -35,10 +35,12 @@ Quem é o responsável pela colocação de aviso/sinalização?
 
 A empresa de segurança privada, quando esta seja responsável pelo tratamento de dados”. 
 
-Como a SEGMA não realiza tratamento de dados, ***o cliente é que é responsável pela colocação doa aviso e sinalização do sistema de videovigilância.*** No entanto a SEGMA poderá alertar o cliente para esta necessidade.
+Como a SEGMA não realiza tratamento de dados, o cliente é que é responsável pela colocação doa aviso e sinalização do sistema de videovigilância. No entanto a SEGMA poderá alertar o cliente para esta necessidade.
 
 Onde se encontra o alvará? 
 ----------------------------------------------------------------------
+
+Não é necessário a SEGMA possuir um alvará, no entanto, existe um documento alternativo....
 
 Legislação
 ============================
