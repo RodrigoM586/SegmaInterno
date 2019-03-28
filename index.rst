@@ -33,7 +33,7 @@ SEGMA | Documentação de Processos
    Tecnica/Armazem.rst
    Tecnica/Manutencao.rst
    Tecnica/Navia.rst
-   Tecnica/SistemaDetIncendio.rst
+   Tecnica/SistemasIntrusao.rst
    
    
 
