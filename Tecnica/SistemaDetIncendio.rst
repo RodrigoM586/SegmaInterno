@@ -16,7 +16,7 @@ Procedimento de Registo
 Perguntas mais frequentes
 =================================
 
-####  Qual a responsabilidade da SEGMA? 
+Qual a responsabilidade da SEGMA? 
 -----------------------------------
 
 - A SEGMA não é empresa de segurança privada (ver legislação abaixo).
