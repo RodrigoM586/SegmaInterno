@@ -112,9 +112,22 @@ Artigo 113.º - Certificado de instalação
 Anexos 
 ============================
 
-Aqui encontram-se todos os anexos necessários: 
+Nesta seção encontram-se todos os anexos necessários.  
+
+Na seguinte página da rede estão também disponíveis todos os documentos adicionais que sejam necessários consultar: 
+
+::
+
+	\\smgctpdfs\areas\SEGMA\SEGMA - SUPORTE\10 - REG. ASSOCIAÇÕES E CERTIFICAÇÕES\SIGESP - PSP - INTRUSÃO
 
 Comunicação de Instalação de Alarme
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Para descarregar o ficheiro PDF, clique em:
 :download:`Comunicaçao de alarmes.pdf <files/Comunicaçao de alarmes.pdf>`.
+
+Ceriticado de Instalação
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Para descarregar o ficheiro PDF, clique em:
+:download:`Certificado de Instalação.doc <files/Certificado de Instalação.docx>`.
