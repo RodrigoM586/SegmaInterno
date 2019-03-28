@@ -16,7 +16,12 @@ Procedimento de Registo
 Perguntas mais frequentes
 =================================
 
-Em desenvolvimento...
+####  Qual a responsabilidade da SEGMA? 
+-----------------------------------
+
+- A SEGMA não é empresa de segurança privada (ver legislação abaixo).
+- A SEGMA não realiza exploração de equipamentos de segurança, tratamento de dados e imagens privados ou receção e tratamento de alarmes.
+- A SEGMA realiza de venda, instalação, manutenção e assistência técnica de material e equipamento de segurança ou de centrais de alarme.
 
 Legislação
 ============================
