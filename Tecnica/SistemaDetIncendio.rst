@@ -116,7 +116,9 @@ Nesta seção encontram-se todos os anexos necessários.
 
 Na seguinte pasta da rede estão também disponíveis todos os documentos adicionais que sejam necessários consultar: 
 
-`` \\smgctpdfs\areas\SEGMA\SEGMA - SUPORTE\10 - REG. ASSOCIAÇÕES E CERTIFICAÇÕES\SIGESP - PSP - INTRUSÃO\ ``
+::
+
+	\\smgctpdfs\areas\SEGMA\SEGMA - SUPORTE\10 - REG. ASSOCIAÇÕES E CERTIFICAÇÕES\SIGESP - PSP - INTRUSÃO\ 
 
 Comunicação de Instalação de Alarme
 ---------------------------------------
