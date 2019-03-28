@@ -2,8 +2,6 @@
 Sistemas Deteção Intrusão/Videovigilância
 ***************************************************
 
-.. contents:: Tabela de Conteúdos
-
 Objetivo
 =================================
 
