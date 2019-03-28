@@ -11,7 +11,7 @@ Esta seção têm como principal objetivo documentar e explicar o procedimento p
 Procedimento de Registo
 =================================
 
-.. image:: SistDetIntru/workflow.png
+.. image:: SistDetIntru/workflow_instrucoes.png
 
 Perguntas mais frequentes
 =================================
@@ -23,7 +23,9 @@ Qual a responsabilidade da SEGMA?
 - A SEGMA não realiza exploração de equipamentos de segurança, tratamento de dados e imagens privados ou receção e tratamento de alarmes.
 - A SEGMA realiza de venda, instalação, manutenção e assistência técnica de material e equipamento de segurança ou de centrais de alarme.
 
-Qual é o procedimento caso ocorra uma deteção no sistema instalado?
+	.. important:: É obrigatório o registo prévio na PSP, pois a SEGMA não se enquandra em alvará de empresa de segurança privada. 
+
+Qual é o procedimento caso ocorra um alarme no sistema instalado?
 ----------------------------------------------------------------------
 
 Caso ocorra uma deteção no sistema instalado com sirene exterior, em que a PSP seja alertada o cliente poderá solicitar apoio à SEGMA para elaboração de um relatório técnico a enviar à PSP no prazo de 10 dias.
