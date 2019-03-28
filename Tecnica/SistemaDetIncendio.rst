@@ -131,5 +131,5 @@ Para descarregar o ficheiro PDF, clique em:
 Certificado de Instalação
 ---------------------------------------
 
-Para descarregar o ficheiro WORD, clique em:
+Para descarregar o ficheiro Word, clique em:
 :download:`Certificado de Instalação.doc <files/Certificado de Instalação.docx>`.
