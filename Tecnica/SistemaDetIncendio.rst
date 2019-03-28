@@ -5,7 +5,7 @@ Sistemas Deteção Intrusão/Videovigilância
 Objetivo
 =================================
 
-Esta seção têm como principal objetivo documentar o procedimento para instalação de sistemas de deteção de intrusão e/ou videovigiliância e uma seção de perguntas e respostas. 
+Esta seção têm como principal objetivo documentar e explicar o procedimento para instalação de sistemas de deteção de intrusão e/ou videovigiliância.
 
 
 Procedimento de Registo
