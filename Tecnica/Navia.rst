@@ -50,7 +50,7 @@ tarefa que pretendemos executar, e premir o botão importar.
 
 Após a importação da tarefa, seleciona-se a mesma para iniciar o registo das variáveis
 
-.. image:: img/navia/ttarefa_importar.PNG
+.. image:: img/navia/tarefa_importar.PNG
 
 Forçar atualização aplicação
 -------------------------------------
