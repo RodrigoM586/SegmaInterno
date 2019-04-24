@@ -54,8 +54,8 @@ Para criar um novo local deverá aceder à transação ``IL01``, devendo preench
 
 .. Note:: A categoria do local deverá ser sempre ``4``.
 .. Attention:: O código de estrutura deverá respeitar os níveis indicados na tabela anterior.
-.. Hint:: Depois de criado o primeiro registo, caso queira copiar automáticamente as informações (PEP, Ilha, Área Operacional, etc..) 
-basta inserir o último local criado no campo ``modelo``.
+.. Hint:: 	Depois de criado o primeiro registo, caso queira copiar automáticamente as informações (PEP, Ilha, Área Operacional, etc..) 
+			basta inserir o último local criado no campo ``modelo``.
 
 No separador :guilabel:`Localização` deverá ser preenchidos os seguintes campos: 
 
