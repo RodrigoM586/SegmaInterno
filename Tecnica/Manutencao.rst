@@ -35,9 +35,9 @@ Estrutura
 
 Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem: 
 
-.. Attention:: É fundamental que a criação do local esteja correto, seguindo as instruções indicadas nos seguintes tópicos. 
-
 .. image:: img/estruuta_PM.png
+
+.. Attention:: É fundamental que a criação do local esteja correta, seguindo as instruções indicadas nos seguintes tópicos e com o número de carácteres. 
 
 .. csv-table::
    :file: EstruturaPM.csv
@@ -52,19 +52,19 @@ Para criar um novo local deverá aceder à transação ``IL01``, devendo preench
  
 .. image:: img/local_instalacao.PNG
 
-.. Note:: A categoria do local deverá ser sempre ``4`` .
+.. Note:: A categoria do local deverá ser sempre ``4``.
 .. Attention:: O código de estrutura deverá respeitar os níveis indicados na tabela anterior.
 
-No separador :guilabel:`Localização:` deverá ser preenchidos os seguintes campos: 
+No separador :guilabel:`Localização` deverá ser preenchidos os seguintes campos: 
 
 .. image:: img/local_localizacao.PNG
 
-No separador :guilabel:`Organização:` deverá ser preenchidos os seguintes campos: 
+No separador :guilabel:`Organização` deverá ser preenchidos os seguintes campos: 
 
 .. image:: img/local_organizacao.PNG
 
-No separador :guilabel:`Estrutura:` deverá ser preenchidos os seguintes campos: 
+No separador :guilabel:`Estrutura` deverá ser preenchidos os seguintes campos: 
 
 .. image:: img/local_estrutura.PNG
 
-.. Attention:: Qualquer local, ou equipamento, deverão estar montados. Ou seja, o local de instalação superior deverá esta preenchido. 
+.. Attention:: Qualquer local, ou equipamento, deve estar montado. Ou seja, o local de instalação superior deverá esta preenchido. 
