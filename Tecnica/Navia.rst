@@ -52,6 +52,30 @@ Após a importação da tarefa, seleciona-se a mesma para iniciar o registo das 
 
 .. image:: img/navia/tarefa_importar.PNG
 
+Registo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Cada vez que é registada uma variável, o sistema avança automaticamente para a variável seguinte. Caso
+se pretenda corrigir/alterar um determinado registo/valor, apenas é necessário premir novamente a
+variável a corrigir. Feito isto, se não pretender alterar mais registos pode selecionar a opção “voltar”
+(disponível no equipamento) para fechar o formulário.
+
+.. image:: img/navia/tarefa_registo.PNG
+
+Em “Histórico” podem consultar-se os registos anteriores relativos a essa variável, nomeadamente os
+valores registados e as variáveis registadas na infraestrutura em questão.
+
+.. image:: img/navia/tarefa_historico.PNG
+
+Na interface de registo, através do ícone "i", é possível consultar alguns detalhes relativos à
+infraestrutura, nomeadamente, o nome completo da organização em árvore, os atributos definidos e os
+documentos.
+
+.. image:: img/navia/tarefa_caract.PNG
+
+Exportação
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Forçar atualização aplicação
 -------------------------------------
 
