@@ -39,22 +39,6 @@ Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem:
 
 .. image:: img/estruuta_PM.png
 
-teste
-
-:1º Nível: S - Corresponde a SEGMA;
-:2º Nível: S.INSCOXXX - Cliente 				(8 dígitos).
-:3º Nível: S.INSCOXXX.02 - Ilha  				(2 dígitos).
-		   01: SANTA MARIA
-		   02: SÃO MIGUEL
-		   03: TERCEIRA
-		   04: GRACIOSA
-	       05: SÃO JORGE
-		   06: PICO
-		   07: FAIAL
-		   08: FLORES
-		   09: CORVO
-:4º Nível: S.INSCOXXX.02.CAPELA - Local/Edíficio (5 dígitos).
-
 
 +---------------------------------------+----------------+-----------+
 | Estrutura                   			| Descrição      | Nº Dígitos|
