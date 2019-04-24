@@ -62,6 +62,28 @@ variável a corrigir. Feito isto, se não pretender alterar mais registos pode s
 
 .. image:: img/navia/tarefa_registo.PNG
 
+No registo de uma tarefa, é importante identificar todos os elementos da equipa presentes na execução
+da mesma. O utilizador que iniciou sessão no tablet fica, automaticamente, definido. Os restantes,
+devem ser adicionados através do tab “Utilizadores”.
+
+.. image:: img/navia/tarefa_registo2.PNG
+
+A associação de materiais a uma determinada tarefa é efetuada na Tab “Materiais”, da seguinte forma:
+
+.. image:: img/navia/tarefa_registo3.PNG
+
+.. image:: img/navia/tarefa_registo4.PNG
+
+Após registar a tarefa respetiva, o utilizador tem 3 opções distintas:
+	- Terminar: quando a tarefa se encontra concluída;
+	- Suspender: quando a tarefa ainda não está concluída, e pretende-se continuar mais tarde ou passar para outra equipa;
+	- Não executar: quando, por qualquer motivo, não é possível executar a tarefa.
+
+.. image:: img/navia/tarefa_registo5.PNG
+
+Consulta Histórico Instalação
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Em “Histórico” podem consultar-se os registos anteriores relativos a essa variável, nomeadamente os
 valores registados e as variáveis registadas na infraestrutura em questão.
 
