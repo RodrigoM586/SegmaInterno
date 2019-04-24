@@ -55,3 +55,16 @@ Para criar um novo local deverá aceder à transação ``IL01``, devendo preench
 .. Note:: A categoria do local deverá ser sempre ``4`` .
 .. Attention:: O código de estrutura deverá respeitar os níveis indicados na tabela anterior.
 
+No separador :guilabel:`Localização:` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/local_localizacao.PNG
+
+No separador :guilabel:`Organização:` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/local_organizacao.PNG
+
+No separador :guilabel:`Estrutura:` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/local_estrutura.PNG
+
+.. Attention:: Qualquer local, ou equipamento, deverão estar montados. Ou seja, o local de instalação superior deverá esta preenchido. 
