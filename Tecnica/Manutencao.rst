@@ -83,7 +83,7 @@ Criar equipamento
 
 Para criar um novo local deverá aceder à transação ``IE01``, devendo preencher os seguintes campos, conforme demonstrado infra: 
 
-.. image::  equipamento
+.. image::  img/equipamento.PNG
 
 .. Note:: A categoria do local deverá ser sempre ``4``.
 
