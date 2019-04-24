@@ -30,6 +30,28 @@ Para poder executar a aplicação no dispositivo móvel, é necessário a config
 
 .. image:: img/navia/definicoes.jpg
 
+Tarefas
+-------------------------------------
+
+O conceito de tarefas representa os trabalhos efetuados no terreno de modo preventivo pelas várias
+equipas de trabalho. 
+
+O processo de registo de uma tarefa é efetuado em 3 passos: importação, registo e exportação. Estes
+são descritos de seguida
+
+Importação
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: img/navia/tarefa_cloud.PNG
+
+O ícone nuvem indica que a tarefa ainda não foi importada e, desta forma, o registo não pode ser
+iniciado. Para importar uma tarefa, basta selecionar na caixa do lado esquerdo do ecrã na linha da
+tarefa que pretendemos executar, e premir o botão importar.
+
+Após a importação da tarefa, seleciona-se a mesma para iniciar o registo das variáveis
+
+.. image:: img/navia/ttarefa_importar.PNG
+
 Forçar atualização aplicação
 -------------------------------------
 
