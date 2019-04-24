@@ -78,11 +78,14 @@ Estrutura: ``Especialidade | Denominação do local``
 
 Exemplo: ``UPS | Continente da Horta``
 
+.. Attention: No caso do equipamento ser do tipo PT, o 4º nível deverá também contar a definição "PT |" antes da denominação do local de instalação. 
 
 Procedimento: P. Transformação
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No 
+No caso particular dos Postos de Transformação, o 4º nível deverá ser o local do posto de transformação, identificando a ilha e código do PT na estrutura do local, como por exemplo: 
+
+.. image::  estrutura_PT.PNG
 
 Procedimento: Especialidades 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
