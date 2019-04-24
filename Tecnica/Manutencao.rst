@@ -170,9 +170,3 @@ pelo cliente e depois pela pessoa de contato.
 
 Transações Frequentes
 -------------------------------------
-
-.. csv-table::
-   :file: Transacoes.csv
-   :header-rows: 1 
-   :class: longtable
-   :widths: 1 1
