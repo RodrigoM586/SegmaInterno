@@ -53,5 +53,5 @@ Para criar um novo local deverá aceder à transação ``IL01``, devendo preench
 .. image:: img/local_instalacao.PNG
 
 .. Note:: A categoria do local deverá ser sempre ``4`` .
-		  O código de estrutura deverá respeitar os níveis indicados na tabela anterior.
+.. Attention:: O código de estrutura deverá respeitar os níveis indicados na tabela anterior.
 
