@@ -1,0 +1,8 @@
+Transação,Descrição
+IE01,Criar Equipamento
+IE02,Modificar Equipamento
+IL01, Criar Local de Instalação
+IL02, Modificar Local de Instalação
+IH01, Estrutura Hierárquica
+IE06, Listagem de Equipamentos
+VAP1, Criar Contatos
