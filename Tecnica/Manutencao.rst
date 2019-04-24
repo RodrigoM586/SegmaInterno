@@ -85,7 +85,7 @@ Procedimento: P. Transformação
 
 No caso particular dos Postos de Transformação, o 4º nível deverá ser o local do posto de transformação, identificando a ilha e código do PT na estrutura do local, como por exemplo: 
 
-.. image::  estrutura_PT.PNG
+.. image:: img/estrutura_PT.PNG
 
 Procedimento: Especialidades 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
