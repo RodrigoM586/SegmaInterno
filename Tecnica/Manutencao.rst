@@ -8,7 +8,7 @@ também os respetivos procedimentos de criação e atualização de dados em SAP
 Procedimentos
 =====================================
 
-Pretende-se nesta secção identificar procedimentos gerais, consoante o departamento, para uma gestão mais eficiente. 
+Pretende-se nesta secção identificar procedimentos gerais, consoante o departamento.
 
 AVAC 
 -------------------------------------
