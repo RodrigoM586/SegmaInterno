@@ -41,12 +41,10 @@ Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem:
 
 teste
 
-1º Nível            command-line option "a"
-2º Nível       options can have arguments
-              and long descriptions
-3º Nível        options can be long also
-4º Nível  long options can also have
-5º Nível            command-line option "a"
-6º Nível            command-line option "a"
-7º Nível            command-line option "a"
+:1º Nível: David Goodger
+:2º Nível: 123 Example Street
+          Example, EX  Canada
+          A1B 2C3
+:3º Nível: docutils-develop@lists.sourceforge.net
+:4º Nível: Me; Myself; I
 
