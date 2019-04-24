@@ -69,6 +69,24 @@ No separador :guilabel:`Estrutura` deverá ser preenchidos os seguintes campos:
 
 .. Attention:: Qualquer local, ou equipamento, deve estar montado. Ou seja, o local de instalação superior deverá esta preenchido. 
 
+Procedimento: Desginações 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Todos os locais de instalação, após o 4º nível deverão ter a seguinte estrutura de desginação: 
+
+Estrutura: ``Especialidade | Denominação do local``
+
+Exemplo: ``UPS | Continente da Horta``
+
+
+Procedimento: P. Transformação
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+No 
+
+Procedimento: Especialidades 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Equipamentos
 -------------------------------------
 
