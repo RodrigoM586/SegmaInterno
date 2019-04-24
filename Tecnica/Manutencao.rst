@@ -135,6 +135,17 @@ Para inativar um equipamento deverão ser feitos os seguintes passos, através d
 	
 .. image:: img/equip_inativar.PNG
 
+Adicionar Dados Técnicos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sempre que for necessário adicionar dados técnicos (modelo, marca, etc.) a um equipamento, deverá ser à :guilabel:`Síntese de classes` e adicionar a classe específica: 
+
+.. image:: img/classe.PNG 
+
+As classes disponíveis para os equipamentos SEGMA, são as seguintes: 
+
+.. image:: img/classes_disponiveis.PNG 
+
 Adicionar Contatos
 -------------------------------------
 
