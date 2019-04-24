@@ -41,23 +41,12 @@ Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem:
 
 teste
 
--a            command-line option "a"
--b file       options can have arguments
+1º Nível            command-line option "a"
+2º Nível       options can have arguments
               and long descriptions
---long        options can be long also
---input=file  long options can also have
-              arguments
-
---very-long-option
-              The description can also start on the next line.
-
-              The description may contain multiple body elements,
-              regardless of where it starts.
-
--x, -y, -z    Multiple options are an "option group".
--v, --verbose  Commonly-seen: short & long options.
--1 file, --one=file, --two file
-              Multiple options with arguments.
-/V            DOS/VMS-style options too
-
+3º Nível        options can be long also
+4º Nível  long options can also have
+5º Nível            command-line option "a"
+6º Nível            command-line option "a"
+7º Nível            command-line option "a"
 
