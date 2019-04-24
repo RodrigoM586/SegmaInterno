@@ -81,5 +81,41 @@ sempre um registo histórico dos dados.
 Criar equipamento
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Para criar um novo local deverá aceder à transação ``IE01``, devendo preencher os seguintes campos, conforme demonstrado infra: 
+
+.. image::  equipamento
+
+.. Note:: A categoria do local deverá ser sempre ``4``.
+
+No separador :guilabel:`Geral` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/equip_geral.PNG
+
+.. Attention:: Deverá selecionar o tipo de objeto correto, é através desta informação que os modelos em NAVIA estão associados (i.e.: S.PT-200 = Manutenção Posto de Transformação).
+
+No separador :guilabel:`Localização` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/equip_localizacao.PNG
+
+No separador :guilabel:`Organização` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/equip_organizacao.PNG
+
+No separador :guilabel:`Estrutura` deverá ser preenchidos os seguintes campos: 
+
+.. image:: img/equip_estrutura.PNG
+
+.. Attention:: Qualquer local, ou equipamento, deve estar montado. Ou seja, o local de instalação superior deverá esta preenchido. 
+
+Desativar/Eliminar equipamento 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para inativar um equipamento deverão ser feitos os seguintes passos, através da transação ``IE02``:
+	- 'Equipamento' > 'Funções' > 'Ativo<->Inativo' > 'Desativar'
+	- 'Equipamento' > 'Funções' > 'Marcação para eliminação' > 'Definir'
+	- Guardar
+	
+.. image:: img/equip_inativar.PNG
+
 Transações Frequentes
 -------------------------------------
