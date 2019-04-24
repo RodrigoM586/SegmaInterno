@@ -87,9 +87,6 @@ No caso particular dos Postos de Transformação, o 4º nível deverá ser o loc
 
 .. image:: img/estrutura_PT.PNG
 
-Procedimento: Especialidades 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Equipamentos
 -------------------------------------
 
@@ -140,6 +137,25 @@ Para inativar um equipamento deverão ser feitos os seguintes passos, através d
 
 Adicionar Contatos
 -------------------------------------
+
+Criar novo Contacto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para adicionar um novo contato é necessário aceder à transação ``VAP1`` e selecionar o cliente ao qual o contato estará associado. 
+
+.. image:: img/contato.PNG
+
+No separador :guilabel:`Endereço Comercial` deverá ser preenchida a restante informação, conforme infra: 
+
+.. image:: img/contatocomercial.PNG
+
+Associar Contacto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para associar um contato a um Local de Instalação ou Equipamento, deverá aceder ao respetivo objeto e adicionar o contato no formulário ``Parceiro``, procurando primeiro 
+pelo cliente e depois pela pessoa de contato.
+
+.. image:: img/parceiro.PNG 
 
 Transações Frequentes
 -------------------------------------
