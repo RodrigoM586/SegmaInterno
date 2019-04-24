@@ -98,6 +98,13 @@ documentos.
 Exportação
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Terminado o registo, é necessário realizar a exportação da(s) tarefa(s) registada(s), sendo estas
+novamente enviadas para o servidor e disponibilizadas para consulta.
+No final de cada turno, devem certificar-se de que todas as tarefas registadas foram efetivamente
+exportadas.
+
+.. image:: img/navia/tarefa_exportar.PNG
+
 Forçar atualização aplicação
 -------------------------------------
 
