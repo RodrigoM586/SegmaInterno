@@ -68,3 +68,18 @@ No separador :guilabel:`Estrutura` deverá ser preenchidos os seguintes campos:
 .. image:: img/local_estrutura.PNG
 
 .. Attention:: Qualquer local, ou equipamento, deve estar montado. Ou seja, o local de instalação superior deverá esta preenchido. 
+
+Equipamentos
+-------------------------------------
+
+Um equipamento é um objecto técnico de manutenção, físico e individual cuja manutenção é gerida no sistema SAP. 
+Um equipamento representa uma máquina passível de efectuar manutenção de forma independente. 
+
+Os equipamentos poderão ser montados e desmontados nos locais de instalação sempre haja uma alteração da localização do equipamento havendo 
+sempre um registo histórico dos dados.
+
+Criar equipamento
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Transações Frequentes
+-------------------------------------
