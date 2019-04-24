@@ -138,5 +138,8 @@ Para inativar um equipamento deverão ser feitos os seguintes passos, através d
 	
 .. image:: img/equip_inativar.PNG
 
+Adicionar Contatos
+-------------------------------------
+
 Transações Frequentes
 -------------------------------------
