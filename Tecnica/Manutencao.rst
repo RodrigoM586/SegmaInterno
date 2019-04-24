@@ -41,10 +41,17 @@ Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem:
 
 teste
 
-:1º Nível: David Goodger
-:2º Nível: 123 Example Street
-          Example, EX  Canada
-          A1B 2C3
-:3º Nível: docutils-develop@lists.sourceforge.net
+:1º Nível: S - Corresponde a SEGMA;
+:2º Nível: S.INSCOXXX - Corresponde ao Cliente;
+:3º Nível: S.INSCOXXX.02 - Corresponde à Ilha;
+		   01: SANTA MARIA
+		   02: SÃO MIGUEL
+		   03: TERCEIRA
+		   04: GRACIOSA
+	       05: SÃO JORGE
+		   06: PICO
+		   07: FAIAL
+		   08: FLORES
+		   09: CORVO
 :4º Nível: Me; Myself; I
 
