@@ -14,6 +14,11 @@ Base de Dados
 Procedimentos
 =====================================
 
+No início de cada mês (entre dia 1 - 5) deverá ser  enviado o mapa de assistências, por validar, através da base de dados, 
+juntamento com a digitalização assinada pelo respetivo responsável.
+
+.. image:: img/BD_ANA_Aeroportos/BD_ANA_ValidarAssist.PNG
+
 Assistências
 =====================================
 
