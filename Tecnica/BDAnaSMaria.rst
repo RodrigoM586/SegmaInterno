@@ -1,5 +1,5 @@
 ***************************************************
-Base de Dados: Ana Aeroporto Santa Maria
+BD: ANA Santa Maria
 ***************************************************
 
 .. contents:: Tabela de Conteudos
