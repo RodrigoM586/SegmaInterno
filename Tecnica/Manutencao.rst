@@ -17,14 +17,8 @@ AVAC
 
 :download:`Lista Equipamentos.xls <files/Lista_Equipamentos.xlsx>`.
 
-
-SAP: Manual
-=====================================
-
-Este tópico pretende explicar e documentar os procedimentos referente ao módulo de SAP:PM. 
-
 Locais de Instalação
--------------------------------------
+=====================================
 
 Um local de instalação representa uma estrutura organizacional hierárquica dentro da empresa, serve basicamente para estruturar os 
 objectos de manutenção de uma empresa de acordo com critérios funcionais, relacionados com os diversos processos de manutenção. 
@@ -90,7 +84,7 @@ No caso particular dos Postos de Transformação, o 4º nível deverá ser o loc
 .. image:: img/estrutura_PT.PNG
 
 Equipamentos
--------------------------------------
+=====================================
 
 Um equipamento é um objecto técnico de manutenção, físico e individual cuja manutenção é gerida no sistema SAP. 
 Um equipamento representa uma máquina passível de efectuar manutenção de forma independente. 
@@ -160,7 +154,7 @@ Todo o equipamento têm obrigatóriamente um objeto técnico, sendo necessário 
    :widths: 1 1 1
 
 Adicionar Contatos
--------------------------------------
+=====================================
 
 Criar novo Contacto
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -182,7 +176,7 @@ pelo cliente e depois pela pessoa de contato.
 .. image:: img/parceiro.PNG 
 
 Transações Frequentes
--------------------------------------
+=====================================
 
 .. csv-table::
    :file: files/ETransat.csv
