@@ -147,11 +147,6 @@ Objeto Técnico / Família
 
 Todo o equipamento têm obrigatóriamente um objeto técnico, sendo necessário a seleção de umas das seguintes opções, consoante o tipo de equipamento.
 
-.. csv-table::
-   :file: files/Familias.csv
-   :header-rows: 1 
-   :class: longtable
-   :widths: 1 1
 
 Adicionar Contatos
 =====================================
