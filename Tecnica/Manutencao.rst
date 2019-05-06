@@ -151,7 +151,7 @@ Todo o equipamento têm obrigatóriamente um objeto técnico, sendo necessário 
    :file: files/Familias.csv
    :header-rows: 1 
    :class: longtable
-   :widths: 1 1 1
+   :widths: 1 1
 
 Adicionar Contatos
 =====================================
