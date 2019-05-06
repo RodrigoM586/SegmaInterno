@@ -1,82 +1,82 @@
-Família,Descrição
-AVAC - 001,Geradores de calor com combustíveis líquidos P>=100kW
-AVAC - 002,Armazenamento e trasfega de combustíveis líquidos (gasóleo) 
-AVAC - 003,Gerador calor p/ água quente ou p/ vapor c/ combustí. gasosos 
-AVAC - 004,Unidade de produção água arrefecida / aquecida (comp. mecânica) 
-AVAC - 005,Unidade de produção de água arrefecida / aquecida (absorção) 
-AVAC - 006,Sistema de Captação Solar Térmica
-AVAC - 007,Torres de Arrefecimento e Condensadores Evaporativos
-AVAC - 008,Unidades autónomas de condicionamento de ar (SPLIT)
-AVAC - 009,Sistemas autónomos de condicionamento de ar (Multisplit)
-AVAC - 010,Sistemas autónomos de caudal de refrigerante variável (VRV) 
-AVAC - 011,Unidades de Tratamento de Ar / Novo (UTA/UTAN) 
-AVAC - 012,Recuperadores de energia (calor ar-ar)
-AVAC - 013,Humidificadores de vapor 
-AVAC - 014,Humidificadores e lavadores de ar
-AVAC - 015,Baterias de tratamento de ar
-AVAC - 016,Unidades de ventilação e extração (incl.desenfumagem)
-AVAC - 017,Permutadores de calor água-água 
-AVAC - 018,Desumidificadores
-AVAC - 019,Unidades terminais de climatiz. – Ventiloconvector e cortinas de Ar
-AVAC - 020,Unidades terminais de climatiz. – indutores e vigas arrefecidas ativas 
-AVAC - 021,Unidades terminais de climatiz.- Caixas de expansão e mistura – caudal constante  e Caixas de regulação de caudal – caudal de ar variável
-AVAC - 022,Unidades terminais de climatiz.- radiadores e conectores 
-AVAC - 023,Unidades terminais de climatiz.- pavimentos e tetos radiantes 
-AVAC - 024,Unidades terminais de climatiz.- vigas arrefecidas passivas
-AVAC - 025,Unidades Terminais de Climatização - VRV ou Multisplit
-AVAC - 026,Caldeira a Gás P<100kW
-AVAC - 027,Caldeira Eléctrica
-AVAC - 028,Caldeira a Gasóleo P<100kW
-AVAC - 029,Close Control
-AVAC - 030,Gestão Técnica Centralizada
-AVAC - 031,Filtro de carvão 
-AVAC - 032,Condutas de ar, Isol
-AVAC - 033,Filtros de ar
-HIDR - 100,Filtros de água
-HIDR - 101,Válvulas,
-HIDR - 102,Tanque/Reservatório
-HIDR - 103,Bombas de circulação/esgoto/hidropressoras
-HIDR - 104,Redes hidráulicas, tubagens, válvulas, retenções, componentes e acessórios
-HIDR - 105,Filtros de ar 
-HIDR - 106,Estação Elevatória
-HIDR - 107,Vasos de Expansão,
-HIDR - 108,Reservatórios de Inércia
-HIDR - 109,Meios de intervenção de extinção incêndios (meios portáteis e móveis, BIAs, bocas-de-incêndio)
-HIDR - 110,ETAR
-HIDR - 111,Condutas de ar, Isolamentos, elementos de difusão e acessórios 
-HIDR - 112,Bomba Doseadora
-HIDR - 113,Permutadores de calor 
-HIDR - 114,Termoacumulador Eléc
-PT - 200,Posto de Transformação de Cabine 
-PT - 201,Posto de Transformação Aéreo
-PT - 202,Outros
-GG - 300,Grupo Gerador
-GG - 301,
-UPS - 400,Unidade de Alimentação ininterrupta – UPS / Retificadores
-UPS - 401,Outros
-SSI - 500,Deteção intrusão – componentes e acessórios,
-SSI - 501,CCTV,
-SSI - 502,Sistema Automático de Extinção de Incêndio por Agentes Gasosos
-SSI - 503,Outros
-SCIE - 600,Sistema de extinção incêndios/rede de água/Bombas/sprinkleres
-SCIE - 601,Deteção Gás – componentes e acessórios,
-SCIE - 602,Deteção monóxido de carbono – componentes e acessórios,
-SCIE - 603,Meios de intervenção de extinção incêndios (meios portáteis e móveis, BIAs, bocas-de-incêndio)
-SCIE - 604,SADI - Deteção incêndio – componentes e acessórios,
-SCIE - 605,Sinalização acústica e luminosa
-SCIE - 606,Motores Térmicos
-SCIE - 607,Grupo Gerador para S
-SCIE - 608,Central de Bombagem
-SCIE - 609,Sistema Automático d
-IE - 700,Baterias de condensadores
-IE - 701,Rede elétrica – componentes e acessórios
-IE - 702,Sistemas de Iluminação (interior e exterior),
-IE - 703,Quadros elétricos
-IE - 704,Sistema Proteção (Terra de Proteção/Catódica/Anel)
-IE - 705,Alternador
-IE - 706,Sistemas de Contagem
-IE - 707,Bastidor
-IE - 708,Secador de Mão 
-IE - 709,Termografia 
-IE - 710,Central Hídrica 
-IE - 711,Aerogerador
+Familia,Descrição
+AVAC - 001, 'Geradores de calor com combustíveis líquidos P>=100kW'
+AVAC - 002, 'Armazenamento e trasfega de combustíveis líquidos (gasóleo) '
+AVAC - 003, 'Gerador calor p/ água quente ou p/ vapor c/ combustí. gasosos '
+AVAC - 004, 'Unidade de produção água arrefecida / aquecida (comp. mecânica) '
+AVAC - 005, 'Unidade de produção de água arrefecida / aquecida (absorção) '
+AVAC - 006, 'Sistema de Captação Solar Térmica'
+AVAC - 007, 'Torres de Arrefecimento e Condensadores Evaporativos'
+AVAC - 008, 'Unidades autónomas de condicionamento de ar (SPLIT)'
+AVAC - 009, 'Sistemas autónomos de condicionamento de ar (Multisplit)'
+AVAC - 010, 'Sistemas autónomos de caudal de refrigerante variável (VRV) '
+AVAC - 011, 'Unidades de Tratamento de Ar / Novo (UTA/UTAN) '
+AVAC - 012, 'Recuperadores de energia (calor ar-ar)'
+AVAC - 013, 'Humidificadores de vapor '
+AVAC - 014, 'Humidificadores e lavadores de ar'
+AVAC - 015, 'Baterias de tratamento de ar'
+AVAC - 016, 'Unidades de ventilação e extração (incl.desenfumagem)'
+AVAC - 017, 'Permutadores de calor água-água '
+AVAC - 018, 'Desumidificadores'
+AVAC - 019, 'Unidades terminais de climatiz. – Ventiloconvector e cortinas de Ar'
+AVAC - 020, 'Unidades terminais de climatiz. – indutores e vigas arrefecidas ativas '
+AVAC - 021, 'Unidades terminais de climatiz.- Caixas de expansão e mistura – caudal constante  e Caixas de regulação de caudal – caudal de ar variável'
+AVAC - 022, 'Unidades terminais de climatiz.- radiadores e conectores '
+AVAC - 023, 'Unidades terminais de climatiz.- pavimentos e tetos radiantes '
+AVAC - 024, 'Unidades terminais de climatiz.- vigas arrefecidas passivas'
+AVAC - 025, 'Unidades Terminais de Climatização - VRV ou Multisplit'
+AVAC - 026, 'Caldeira a Gás P<100kW'
+AVAC - 027, 'Caldeira Eléctrica'
+AVAC - 028, 'Caldeira a Gasóleo P<100kW'
+AVAC - 029, 'Close Control'
+AVAC - 030, 'Gestão Técnica Centralizada'
+AVAC - 031, 'Filtro de carvão '
+AVAC - 032, 'Condutas de ar, Isol'
+AVAC - 033, 'Filtros de ar'
+HIDR - 100, 'Filtros de água'
+"HIDR - 101, 'Válvulas;'"
+HIDR - 102, 'Tanque/Reservatório'
+HIDR - 103, 'Bombas de circulação/esgoto/hidropressoras'
+HIDR - 104, 'Redes hidráulicas, tubagens, válvulas, retenções, componentes e acessórios'
+HIDR - 105, 'Filtros de ar '
+HIDR - 106, 'Estação Elevatória'
+"HIDR - 107, 'Vasos de Expansão;'"
+HIDR - 108, 'Reservatórios de Inércia'
+HIDR - 109, 'Meios de intervenção de extinção incêndios (meios portáteis e móveis, BIAs, bocas-de-incêndio)'
+HIDR - 110, 'ETAR'
+HIDR - 111, 'Condutas de ar, Isolamentos, elementos de difusão e acessórios '
+HIDR - 112, 'Bomba Doseadora'
+HIDR - 113, 'Permutadores de calor '
+HIDR - 114, 'Termoacumulador Eléc'
+PT - 200, 'Posto de Transformação de Cabine '
+PT - 201, 'Posto de Transformação Aéreo'
+PT - 202, 'Outros'
+GG - 300, 'Grupo Gerador'
+GG - 301, ''
+UPS - 400, 'Unidade de Alimentação ininterrupta – UPS / Retificadores'
+UPS - 401, 'Outros'
+"SSI - 500, 'Deteção intrusão – componentes e acessórios;'"
+"SSI - 501, 'CCTV;'"
+SSI - 502, 'Sistema Automático de Extinção de Incêndio por Agentes Gasosos'
+SSI - 503, 'Outros'
+SCIE - 600, 'Sistema de extinção incêndios/rede de água/Bombas/sprinkleres'
+"SCIE - 601, 'Deteção Gás – componentes e acessórios;'"
+"SCIE - 602, 'Deteção monóxido de carbono – componentes e acessórios;'"
+SCIE - 603, 'Meios de intervenção de extinção incêndios (meios portáteis e móveis, BIAs, bocas-de-incêndio)'
+"SCIE - 604, 'SADI - Deteção incêndio – componentes e acessórios;'"
+SCIE - 605, 'Sinalização acústica e luminosa'
+SCIE - 606, 'Motores Térmicos'
+SCIE - 607, 'Grupo Gerador para S'
+SCIE - 608, 'Central de Bombagem'
+SCIE - 609, 'Sistema Automático d'
+IE - 700, 'Baterias de condensadores'
+IE - 701, 'Rede elétrica – componentes e acessórios'
+"IE - 702, 'Sistemas de Iluminação (interior e exterior);'"
+IE - 703, 'Quadros elétricos'
+IE - 704, 'Sistema Proteção (Terra de Proteção/Catódica/Anel)'
+IE - 705, 'Alternador'
+IE - 706, 'Sistemas de Contagem'
+IE - 707, 'Bastidor'
+IE - 708, 'Secador de Mão '
+IE - 709, 'Termografia '
+IE - 710, 'Central Hídrica '
+IE - 711, 'Aerogerador'
