@@ -40,7 +40,7 @@ Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem:
 .. Attention:: É fundamental que a criação do local esteja correta, seguindo as instruções indicadas nos seguintes tópicos e com o número de carácteres. 
 
 .. csv-table::
-   :file: EstruturaPM.csv
+   :file: files/EstruturaPM.csv
    :header-rows: 1 
    :class: longtable
    :widths: 1 1 1
@@ -148,6 +148,17 @@ As classes disponíveis para os equipamentos SEGMA, são as seguintes:
 
 .. image:: img/classes_disponiveis.PNG 
 
+Objeto Técnico / Família
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Todo o equipamento têm obrigatóriamente um objeto técnico, sendo necessário a seleção de umas das seguintes opções, consoante o tipo de equipamento.
+
+.. csv-table::
+   :file: files/Familias.csv
+   :header-rows: 1 
+   :class: longtable
+   :widths: 1 1 1
+
 Adicionar Contatos
 -------------------------------------
 
@@ -174,7 +185,7 @@ Transações Frequentes
 -------------------------------------
 
 .. csv-table::
-   :file: Transat.csv
+   :file: files/ETransat.csv
    :header-rows: 1 
    :class: longtable
    :widths: 1 1
