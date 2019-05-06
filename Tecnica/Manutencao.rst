@@ -25,7 +25,7 @@ objectos de manutenção de uma empresa de acordo com critérios funcionais, rel
 Um local de instalação representa o lugar em que trabalhos de manutenção são realizados.
 
 Estrutura
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem: 
 
@@ -40,7 +40,7 @@ Gráficamente a estrutura implementada em SAP:PM é mostrada na seguinte imagem:
    :widths: 1 1 1
 
 Criar Local de Instalação
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Para criar um novo local deverá aceder à transação ``IL01``, devendo preencher os seguintes campos, conforme demonstrado infra: 
  
@@ -66,7 +66,7 @@ No separador :guilabel:`Estrutura` deverá ser preenchidos os seguintes campos:
 .. Attention:: Qualquer local, ou equipamento, deve estar montado. Ou seja, o local de instalação superior deverá esta preenchido. 
 
 Procedimento: Desginações 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Todos os locais de instalação, após o 4º nível deverão ter a seguinte estrutura de desginação: 
 
@@ -77,7 +77,7 @@ Exemplo: ``UPS | Continente da Horta``
 .. Attention: No caso do equipamento ser do tipo PT, o 4º nível deverá também contar a definição "PT |" antes da denominação do local de instalação. 
 
 Procedimento: PT's
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 No caso particular dos Postos de Transformação, o 4º nível deverá ser o local do posto de transformação, identificando a ilha e código do PT na estrutura do local, como por exemplo: 
 
@@ -93,7 +93,7 @@ Os equipamentos poderão ser montados e desmontados nos locais de instalação s
 sempre um registo histórico dos dados.
 
 Criar equipamento
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Para criar um novo local deverá aceder à transação ``IE01``, devendo preencher os seguintes campos, conforme demonstrado infra: 
 
@@ -122,7 +122,7 @@ No separador :guilabel:`Estrutura` deverá ser preenchidos os seguintes campos:
 .. Attention:: Qualquer local, ou equipamento, deve estar montado. Ou seja, o local de instalação superior deverá esta preenchido. 
 
 Desativar/Eliminar equipamento 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Para inativar um equipamento deverão ser feitos os seguintes passos, através da transação ``IE02``:
 	- 'Equipamento' > 'Funções' > 'Ativo<->Inativo' > 'Desativar'
@@ -132,7 +132,7 @@ Para inativar um equipamento deverão ser feitos os seguintes passos, através d
 .. image:: img/equip_inativar.PNG
 
 Adicionar Dados Técnicos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Sempre que for necessário adicionar dados técnicos (modelo, marca, etc.) a um equipamento, deverá ser à :guilabel:`Síntese de classes` e adicionar a classe específica: 
 
@@ -143,7 +143,7 @@ As classes disponíveis para os equipamentos SEGMA, são as seguintes:
 .. image:: img/classes_disponiveis.PNG 
 
 Objeto Técnico / Família
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Todo o equipamento têm obrigatóriamente um objeto técnico, sendo necessário a seleção de umas das seguintes opções, consoante o tipo de equipamento.
 
@@ -157,7 +157,7 @@ Adicionar Contatos
 =====================================
 
 Criar novo Contacto
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Para adicionar um novo contato é necessário aceder à transação ``VAP1`` e selecionar o cliente ao qual o contato estará associado. 
 
@@ -168,7 +168,7 @@ No separador :guilabel:`Endereço Comercial` deverá ser preenchida a restante i
 .. image:: img/contatocomercial.PNG
 
 Associar Contacto
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Para associar um contato a um Local de Instalação ou Equipamento, deverá aceder ao respetivo objeto e adicionar o contato no formulário ``Parceiro``, procurando primeiro 
 pelo cliente e depois pela pessoa de contato.
