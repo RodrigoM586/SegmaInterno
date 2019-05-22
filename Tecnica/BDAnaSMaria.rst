@@ -17,13 +17,17 @@ Neste painel inicial têm a visualização geral de todas os Relatórios, relati
 Procedimentos
 =====================================
 
-No início de cada mês (entre dia 1 - 5) deverá ser  enviado o mapa de assistências, por validar, através da base de dados, 
-juntamento com a digitalização assinada pelo respetivo responsável.
+No fím de cada mês (entre dia 29 -30) deverá ser  enviado o mapa de assistências (registos por validar), através da base de dados.
 
-.. image:: img/BD_ANA_Aeroportos/BD_ANA_ValidarAssist.PNG
+.. Important: O registo apenas deverá ser validado na base de dados após assinatura pelo responsável da ANA. 
 
 Assistências
 =====================================
+
+Workflow
+-------------------------------------
+
+.. image:: img/BD_ANA_Aeroportos/workflow.png
 
 Registar 
 -------------------------------------
