@@ -47,7 +47,7 @@ Aprovar
 
 No fím do mês, e após total registos de assistências, deverá ser impresso o documento para validação do responsável da ANA. 
 
-O utilizador deverá selecionar o relatório ´´Assistências por validar´´ : 
+O utilizador deverá selecionar o relatório ``Assistências por validar`` : 
 
 .. image:: img/BD_ANA_Aeroportos/validar.PNG
 
