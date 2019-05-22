@@ -72,8 +72,20 @@ Ordens de Serviço
 Registar 
 -------------------------------------
 
+As Ordens de Serviço deverão ser utilizadas para todos os trabalhos fora do aeroporto e quando não exista uma OS. 
+
+Deverá ser preenchido a descrição da avaria e o cliente.
+
+.. image:: img/BD_ANA_Aeroportos/ordemServico.PNG
+
+Após o trabalho efetuado deverá ser enviado o documento ao responsável, para faturação.
+
 Concluír 
 -------------------------------------
 
+Após concluído o trabalho, a ordem deverá ser fechada alterando o estado para "concluído". 
 
+.. image:: img/BD_ANA_Aeroportos/fecho.PNG
+
+A digitalização da ordem de serviço deverá ser enviada manualmente por email.
 
