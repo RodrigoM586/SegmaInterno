@@ -8,7 +8,7 @@ utilizada para registo de ``Assistência ao voo`` e ``Ordens de Servoço`` no Ae
 Base de Dados
 =====================================
 
-.. image:: img/BD_ANA_Aeroportos/Inicio.PNG
+.. image:: img/BD_ANA_Aeroportos/explica.PNG
 
 Neste painel inicial têm a visualização geral de todas os Relatórios, relativos a Assistências, ativos. 
 
