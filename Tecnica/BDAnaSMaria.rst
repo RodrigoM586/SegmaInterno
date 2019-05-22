@@ -10,6 +10,9 @@ Base de Dados
 
 .. image:: img/BD_ANA_Aeroportos/BD_ANA_Aeroportos.PNG
 
+Neste painel inicial têm a visualização geral de todas os Relatórios, relativos a Assistências, ativos. 
+
+.. Note: Todos os registos que ainda não foram validados (pela ANA) e enviados para faturação, aparecem neste 1º ecrã. 
 
 Procedimentos
 =====================================
