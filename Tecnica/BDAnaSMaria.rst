@@ -40,9 +40,20 @@ Para registar uma assistência de voo deverá clicar no botão ``Assistência Vo
 
 		- 1º Voo: das 01:00 até às 02:00;
 		- 2º Voo: das 02:00 até às 03:00;
+				Apesar do período temporal do voo ser entre as 01:00 e as 03:00.
 
 Aprovar
 -------------------------------------
+
+No fím do mês, e após total registos de assistências, deverá ser impresso o documento para validação do responsável da ANA. 
+
+O utilizador deverá selecionar o relatório ´´Assistências por validar´´ : 
+
+.. image:: img/BD_ANA_Aeroportos/validar.PNG
+
+Impresso o seguinte relatório e entregue ao responsável para validação/assinatura:
+
+.. image:: img/BD_ANA_Aeroportos/relatorio.PNG
 
 Enviar p/ faturar
 -------------------------------------
