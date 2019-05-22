@@ -37,8 +37,9 @@ Para registar uma assistência de voo deverá clicar no botão ``Assistência Vo
 .. image::  img/BD_ANA_Aeroportos/assistencia.PNG
 
 .. important:: Os horários dos voos não se devem sobrepor! Isto é, se existirem 2 assistências entre as 01:00 e as 03:00, o registo deverá ser:
-		- 1º Voo: das 01:00 até às 02:00
-		- 2º Voo: das 02:00 até às 03:00
+
+		- 1º Voo: das 01:00 até às 02:00;
+		- 2º Voo: das 02:00 até às 03:00;
 
 Aprovar
 -------------------------------------
