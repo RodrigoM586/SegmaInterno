@@ -8,7 +8,7 @@ utilizada para registo de ``Assistência ao voo`` e ``Ordens de Servoço`` no Ae
 Base de Dados
 =====================================
 
-.. image:: img/BD_ANA_Aeroportos/BD_ANA_Aeroportos.PNG
+.. image:: img/BD_ANA_Aeroportos/Inicio.PNG
 
 Neste painel inicial têm a visualização geral de todas os Relatórios, relativos a Assistências, ativos. 
 
@@ -29,8 +29,13 @@ Workflow
 
 .. image:: img/BD_ANA_Aeroportos/workflow.png
 
-Registar 
+Registo de assistência 
 -------------------------------------
+
+Para registar uma assistência de voo deverá clicar no botão ``Assistência Voo`` e preencher o seguinte formulário:
+
+
+.. Note: 
 
 Aprovar
 -------------------------------------
