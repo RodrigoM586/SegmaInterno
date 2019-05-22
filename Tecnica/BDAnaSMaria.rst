@@ -51,11 +51,11 @@ O utilizador deverá selecionar o relatório ``Assistências por validar`` :
 
 .. image:: img/BD_ANA_Aeroportos/validar.PNG
 
-Impresso o seguinte relatório e entregue ao responsável para validação/assinatura:
+Deverá ser impresso o seguinte relatório e entregue ao responsável, para validação/assinatura:
 
 .. image:: img/BD_ANA_Aeroportos/relatorio.PNG
 
-Após receção da folha validada pelo responsável, deverá validar manualmente na base de daos todos os relatórios.
+Após receção da folha validada pelo responsável, deverá validar manualmente na base de dados todos os relatórios.
 
 .. image:: img/BD_ANA_Aeroportos/pisco.PNG
 
@@ -65,8 +65,6 @@ Enviar p/ faturar
 Após validação na base de dados basta selecionar o botão ``Enviar dados por correio eletrónico`` para a faturação da SEGMA: 
 
 .. image:: img/BD_ANA_Aeroportos/envio.PNG
-
-
 
 Ordens de Serviço
 =====================================
