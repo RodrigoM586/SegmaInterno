@@ -12,14 +12,14 @@ Base de Dados
 
 Neste painel inicial têm a visualização geral de todas os Relatórios, relativos a Assistências, ativos. 
 
-.. Note: Todos os registos que ainda não foram validados (pela ANA) e enviados para faturação, aparecem neste 1º ecrã. 
+.. note:: Todos os registos que ainda não foram validados (pela ANA) e enviados para faturação, aparecem neste 1º ecrã. 
 
 Procedimentos
 =====================================
 
 No fím de cada mês (entre dia 29 -30) deverá ser  enviado o mapa de assistências (registos por validar), através da base de dados.
 
-.. Important: O registo apenas deverá ser validado na base de dados após assinatura pelo responsável da ANA. 
+.. important:: O registo apenas deverá ser validado na base de dados após assinatura pelo responsável da ANA. 
 
 Assistências
 =====================================
@@ -35,7 +35,7 @@ Registo de assistência
 Para registar uma assistência de voo deverá clicar no botão ``Assistência Voo`` e preencher o seguinte formulário:
 
 
-.. Note: 
+.. note::
 
 Aprovar
 -------------------------------------
