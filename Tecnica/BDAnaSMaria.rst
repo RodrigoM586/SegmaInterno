@@ -64,12 +64,6 @@ Enviar p/ faturar
 
 Após validação na base de dados basta selecionar o botão ´´Enviar dados por correio eletrónico´´ para a faturação da SEGMA: 
 
-.. image:: img/BD_ANA_Aeroportos/envio.PNG
-
-teste
-
-novo teste e outro 
-
 Ordens de Serviço
 =====================================
 
