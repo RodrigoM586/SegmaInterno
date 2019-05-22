@@ -55,8 +55,16 @@ Impresso o seguinte relatório e entregue ao responsável para validação/assin
 
 .. image:: img/BD_ANA_Aeroportos/relatorio.PNG
 
+Após receção da folha validada pelo responsável, deverá validar manualmente na base de daos todos os relatórios.
+
+.. image:: img/BD_ANA_Aeroportos/pisco.PNG
+
 Enviar p/ faturar
 -------------------------------------
+
+Após validação na base de dados basta selecionar o botão ´´Enviar dados por correio eletrónico´´ para a faturação da SEGMA: 
+
+.. image:: img/BD_ANA_Aeroportos/envio.PNG
 
 Ordens de Serviço
 =====================================
