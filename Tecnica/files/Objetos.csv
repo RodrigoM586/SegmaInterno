@@ -1,82 +1,82 @@
-ï»¿Objeto TÃ©cnico,DescriÃ§Ã£o
-AVAC - 001,Geradores de calor com combustÃ­veis lÃ­quidos P>=100kW
-AVAC - 002,Armazenamento e trasfega de combustÃ­veis lÃ­quidos (gasÃ³leo) 
-AVAC - 003,Gerador calor p/ Ã¡gua quente ou p/ vapor c/ combustÃ­. gasosos 
-AVAC - 004,Unidade de produÃ§Ã£o Ã¡gua arrefecida / aquecida (comp. mecÃ¢nica) 
-AVAC - 005,Unidade de produÃ§Ã£o de Ã¡gua arrefecida / aquecida (absorÃ§Ã£o) 
-AVAC - 006,Sistema de CaptaÃ§Ã£o Solar TÃ©rmica
+Objeto Técnico,Descrição
+AVAC - 001,Geradores de calor com combustíveis líquidos P>=100kW
+AVAC - 002,Armazenamento e trasfega de combustíveis líquidos (gasóleo) 
+AVAC - 003,Gerador calor p/ água quente ou p/ vapor c/ combustí. gasosos 
+AVAC - 004,Chiller/ Bomba de Calor (comp. mecânica) 
+AVAC - 005,Unidade de produção de água arrefecida / aquecida (absorção) 
+AVAC - 006,Sistema de Captação Solar Térmica
 AVAC - 007,Torres de Arrefecimento e Condensadores Evaporativos
-AVAC - 008,Unidades autÃ³nomas de condicionamento de ar (SPLIT)
-AVAC - 009,Sistemas autÃ³nomos de condicionamento de ar (Multisplit)
-AVAC - 010,Sistemas autÃ³nomos de caudal de refrigerante variÃ¡vel (VRV) 
+AVAC - 008,Unidades autónomas de condicionamento de ar (SPLIT)
+AVAC - 009,Sistemas autónomos de condicionamento de ar (Multisplit)
+AVAC - 010,Sistemas autónomos de caudal de refrigerante variável (VRV) 
 AVAC - 011,Unidades de Tratamento de Ar / Novo (UTA/UTAN) 
 AVAC - 012,Recuperadores de energia (calor ar-ar)
 AVAC - 013,Humidificadores de vapor 
 AVAC - 014,Humidificadores e lavadores de ar
 AVAC - 015,Baterias de tratamento de ar
-AVAC - 016,Unidades de ventilaÃ§Ã£o e extraÃ§Ã£o (incl.desenfumagem)
-AVAC - 017,Permutadores de calor Ã¡gua-Ã¡gua 
+AVAC - 016,Unidades de ventilação e extração (incl.desenfumagem)
+AVAC - 017,Permutadores de calor água-água 
 AVAC - 018,Desumidificadores
-AVAC - 019,Unidades terminais de climatiz. â€“ Ventiloconvector e cortinas de Ar
-AVAC - 020,Unidades terminais de climatiz. â€“ indutores e vigas arrefecidas ativas 
-AVAC - 021,Unidades terminais de climatiz.- Caixas de expansÃ£o e mistura â€“ caudal constante  e Caixas de regulaÃ§Ã£o de caudal â€“ caudal de ar variÃ¡vel
+AVAC - 019,Unidades terminais de climatiz. – Ventiloconvector e cortinas de Ar
+AVAC - 020,Unidades terminais de climatiz. – indutores e vigas arrefecidas ativas 
+AVAC - 021,Unidades terminais de climatiz.- Caixas de expansão e mistura – caudal constante  e Caixas de regulação de caudal – caudal de ar variável
 AVAC - 022,Unidades terminais de climatiz.- radiadores e conectores 
 AVAC - 023,Unidades terminais de climatiz.- pavimentos e tetos radiantes 
 AVAC - 024,Unidades terminais de climatiz.- vigas arrefecidas passivas
-AVAC - 025,Unidades Terminais de ClimatizaÃ§Ã£o - VRV ou Multisplit
-AVAC - 026,Caldeira a GÃ¡s P<100kW
-AVAC - 027,Caldeira ElÃ©ctrica
-AVAC - 028,Caldeira a GasÃ³leo P<100kW
+AVAC - 025,Unidades Terminais de Climatização - VRV ou Multisplit
+AVAC - 026,Caldeira a Gás P<100kW
+AVAC - 027,Caldeira Eléctrica
+AVAC - 028,Caldeira a Gasóleo P<100kW
 AVAC - 029,Close Control
-AVAC - 030,GestÃ£o TÃ©cnica Centralizada
-AVAC - 031,Filtro de carvÃ£o 
+AVAC - 030,Gestão Técnica Centralizada
+AVAC - 031,Filtro de carvão 
 AVAC - 032,Condutas de ar Isol
 AVAC - 033,Filtros de ar
-HIDR - 100,Filtros de Ã¡gua
-HIDR - 101,VÃ¡lvulas
-HIDR - 102,Tanque/ReservatÃ³rio
-HIDR - 103,Bombas de circulaÃ§Ã£o/esgoto/hidropressoras
-HIDR - 104,Redes hidrÃ¡ulicas tubagens vÃ¡lvulas retenÃ§Ãµes componentes e acessÃ³rios
+HIDR - 100,Filtros de água
+HIDR - 101,Válvulas
+HIDR - 102,Tanque/Reservatório
+HIDR - 103,Bombas de circulação/esgoto/hidropressoras
+HIDR - 104,Redes hidráulicas tubagens válvulas retenções componentes e acessórios
 HIDR - 105,Filtros de ar 
-HIDR - 106,EstaÃ§Ã£o ElevatÃ³ria
-HIDR - 107,Vasos de ExpansÃ£o
-HIDR - 108,ReservatÃ³rios de InÃ©rcia
-HIDR - 109,Meios de intervenÃ§Ã£o de extinÃ§Ã£o incÃªndios (meios portÃ¡teis e mÃ³veis BIAs bocas-de-incÃªndio)
+HIDR - 106,Estação Elevatória
+HIDR - 107,Vasos de Expansão
+HIDR - 108,Reservatórios de Inércia
+HIDR - 109,Meios de intervenção de extinção incêndios (meios portáteis e móveis BIAs bocas-de-incêndio)
 HIDR - 110,ETAR
-HIDR - 111,Condutas de ar Isolamentos elementos de difusÃ£o e acessÃ³rios 
+HIDR - 111,Condutas de ar Isolamentos elementos de difusão e acessórios 
 HIDR - 112,Bomba Doseadora
 HIDR - 113,Permutadores de calor 
-HIDR - 114,Termoacumulador ElÃ©c
-PT - 200,Posto de TransformaÃ§Ã£o de Cabine 
-PT - 201,Posto de TransformaÃ§Ã£o AÃ©reo
+HIDR - 114,Termoacumulador Eléc
+PT - 200,Posto de Transformação de Cabine 
+PT - 201,Posto de Transformação Aéreo
 PT - 202,Outros
 GG - 300,Grupo Gerador
-GG - 301,Grupo Gerador EmergÃªncia
-UPS - 400,Unidade de AlimentaÃ§Ã£o ininterrupta â€“ UPS / Retificadores
+GG - 301,Grupo Gerador Emergência
+UPS - 400,Unidade de Alimentação ininterrupta – UPS / Retificadores
 UPS - 401,Outros
-SSI - 500,DeteÃ§Ã£o intrusÃ£o â€“ componentes e acessÃ³rios
+SSI - 500,Deteção intrusão – componentes e acessórios
 SSI - 501,CCTV
-SSI - 502,Sistema AutomÃ¡tico de ExtinÃ§Ã£o de IncÃªndio por Agentes Gasosos
+SSI - 502,Sistema Automático de Extinção de Incêndio por Agentes Gasosos
 SSI - 503,Outros
-SCIE - 600,Sistema de extinÃ§Ã£o incÃªndios/rede de Ã¡gua/Bombas/sprinkleres
-SCIE - 601,DeteÃ§Ã£o GÃ¡s â€“ componentes e acessÃ³rios
-SCIE - 602,DeteÃ§Ã£o monÃ³xido de carbono â€“ componentes e acessÃ³rios
-SCIE - 603,Meios de intervenÃ§Ã£o de extinÃ§Ã£o incÃªndios (meios portÃ¡teis e mÃ³veis BIAs bocas-de-incÃªndio)
-SCIE - 604,SADI - DeteÃ§Ã£o incÃªndio â€“ componentes e acessÃ³rios
-SCIE - 605,SinalizaÃ§Ã£o acÃºstica e luminosa
-SCIE - 606,Motores TÃ©rmicos
+SCIE - 600,Sistema de extinção incêndios/rede de água/Bombas/sprinkleres
+SCIE - 601,Deteção Gás – componentes e acessórios
+SCIE - 602,Deteção monóxido de carbono – componentes e acessórios
+SCIE - 603,Meios de intervenção de extinção incêndios (meios portáteis e móveis BIAs bocas-de-incêndio)
+SCIE - 604,SADI - Deteção incêndio – componentes e acessórios
+SCIE - 605,Sinalização acústica e luminosa
+SCIE - 606,Motores Térmicos
 SCIE - 607,Grupo Gerador para S
 SCIE - 608,Central de Bombagem
-SCIE - 609,Sistema AutomÃ¡tico d
+SCIE - 609,Sistema Automático d
 IE - 700,Baterias de condensadores
-IE - 701,Rede elÃ©trica â€“ componentes e acessÃ³rios
-IE - 702,Sistemas de IluminaÃ§Ã£o (interior e exterior)
-IE - 703,Quadros elÃ©tricos
-IE - 704,Sistema ProteÃ§Ã£o (Terra de ProteÃ§Ã£o/CatÃ³dica/Anel)
+IE - 701,Rede elétrica – componentes e acessórios
+IE - 702,Sistemas de Iluminação (interior e exterior)
+IE - 703,Quadros elétricos
+IE - 704,Sistema Proteção (Terra de Proteção/Catódica/Anel)
 IE - 705,Alternador
 IE - 706,Sistemas de Contagem
 IE - 707,Bastidor
-IE - 708,Secador de MÃ£o 
+IE - 708,Secador de Mão 
 IE - 709,Termografia 
-IE - 710,Central HÃ­drica 
+IE - 710,Central Hídrica 
 IE - 711,Aerogerador
