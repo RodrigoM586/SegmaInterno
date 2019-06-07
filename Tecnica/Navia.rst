@@ -4,8 +4,14 @@ NAVIA
 
 Esta secção pretende documentar, de uma forma geral, todos os passos documentados na aplicação NAVIA, de apoio à gestão operacional.
 
+Visão Geral
+===================================
+
+Lista de Clientes / Equipamentos
+===================================
+
 Mobilidade
-============================
+===================================
 
 Login
 -------------------------------------
