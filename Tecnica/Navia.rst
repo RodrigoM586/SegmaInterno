@@ -7,8 +7,24 @@ Esta secção pretende documentar, de uma forma geral, todos os passos documenta
 Visão Geral
 ===================================
 
+Meu Paínel
+-------------------------------------
+
+Configurações
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Calendário
+-------------------------------------
+
 Lista de Clientes / Equipamentos
 ===================================
+
+Consulta Relatórios
+===================================
+
+Consulta Planeamento 
+===================================
+
 
 Mobilidade
 ===================================
