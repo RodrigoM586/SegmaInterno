@@ -19,11 +19,14 @@ Calendário
 Lista de Clientes / Equipamentos
 ===================================
 
-Consulta Relatórios
+Consultas
 ===================================
 
+Consulta Relatórios
+-------------------------------------
+
 Consulta Planeamento 
-===================================
+-------------------------------------
 
 
 Mobilidade
