@@ -42,7 +42,7 @@ Como a SEGMA não realiza tratamento de dados, o cliente é que é responsável 
 Onde se encontra o alvará? 
 ----------------------------------------------------------------------
 
-Apenas é obrigatório o registo prévio na PSP. (número a ser disponibilizado brevemente..)
+Apenas é obrigatório o registo prévio na PSP. Número registado: **3058**
 
 Legislação
 ============================
@@ -121,6 +121,14 @@ Na seguinte pasta da rede estão também disponíveis todos os documentos adicio
 ::
 
 	\\smgctpdfs\areas\SEGMA\SEGMA - SUPORTE\10 - REG. ASSOCIAÇÕES E CERTIFICAÇÕES\SIGESP - PSP - INTRUSÃO\ 
+
+
+Declaração de conformidade
+---------------------------------------
+
+Sempre que procedam à instalação de um sistema de alarme ou videovigilância terão de entregar ao proprietário do espaço a proteger, uma declaração de conformidade com os requisitos técnicos, cfr. previsto legalmente.
+
+:download:`Declaração de conformidade.pdf <files/Declaração de conformidade.pdf>`.
 
 Comunicação de Instalação de Alarme
 ---------------------------------------
