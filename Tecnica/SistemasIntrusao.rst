@@ -128,7 +128,8 @@ Declaração de conformidade
 
 Sempre que procedam à instalação de um sistema de alarme ou videovigilância terão de entregar ao proprietário do espaço a proteger, uma declaração de conformidade com os requisitos técnicos, cfr. previsto legalmente.
 
-:download:`Declaração de conformidade.pdf <files/Declaração de conformidade.pdf>`.
+Para descarregar o ficheiro PDF, clique em:
+:download:`Declaração de conformidade.doc <files/Declaração de conformidade.docx>`.
 
 Comunicação de Instalação de Alarme
 ---------------------------------------
