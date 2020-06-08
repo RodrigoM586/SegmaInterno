@@ -6,9 +6,7 @@ Legislação
 Eficiência Energética
 ===========
 Diploma: Resolução do Conselho de Ministros n.º 80/2008, de 2008-05-20 Presidência	do	Conselho	de	Ministros
-
 Sumário: Aprova o Plano Nacional de Acção para a Eficiência Energética (2008- 2015)	
-
 Ver Diploma http://www.dre.pt/pdf1sdip/2008/05/09700/0282402865.PDF
 
 
