@@ -1,7 +1,14 @@
 
 ********************************************
-Legislação
+Resumo
 ********************************************
+
+O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
+
+  .. tip:: Através do painel lateral esquerdo é possível procurar, 
+			consoante o departamento e tópico, um assunto específico. 
+		
+.. _readthedocs.org: http://www.readthedocs.org
 
 Estrutura
 ==========
