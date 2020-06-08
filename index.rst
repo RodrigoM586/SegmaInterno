@@ -8,6 +8,7 @@ SEGMA | Documentação de Processos
    :caption: Geral
 
    Readme.rst
+   Legislacao.rst
 
 .. toctree::
    :maxdepth: 1
