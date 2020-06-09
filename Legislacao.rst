@@ -6,8 +6,6 @@ Legislação
 Eficiência Energética
 ===========
 
-teste   
-
 .. csv-table::
    :file: EficienciaEnergetica.csv
    :header-rows: 1 
