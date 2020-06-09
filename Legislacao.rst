@@ -11,7 +11,7 @@ Listagem de Contas do Razão utilizadas:
    :file: EficienciaEnergetica.csv
    :header: "Diplomas", "Link" 
    :class: longtable
-   :widths: 10 5
+   :widths: 1 1
    
 teste
  
