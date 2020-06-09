@@ -6,13 +6,8 @@ Legislação
 Eficiência Energética
 ===========
 
- teste 
- 
-.. csv-table::
-   :file: LegislacaoTables/EficienciaEnergetica.csv
-   :header-rows: 1 
-   :class: longtable
-   :widths: 1 1
+ teste   
+   
    
 Eficiência Energética na Indústria 
 ===========
