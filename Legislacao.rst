@@ -11,8 +11,12 @@ Diploma: Resolução do Conselho de Ministros n.º 80/2008, de 2008-05-20 Presid
 
 		Diploma: Despacho n.º 9722/2004, de 2004-05-18 Ministério da Economia Direcção-Geral de Energia Sumário: Valor que deve ser adoptado a partir da presente data para o cálculo da meta de redução dos consumos específicos de energia no subsector da industria cerâmica, «Fabrico de artigos cerâmicos para usos sanitários».
 
+.. compound::
 
-Diploma: Despacho n.º 2384/2004, de 2004-02-04 Ministério da Economia Direcção-Geral de Energia Sumário: Valor que deve ser adoptado a partir da presente data para o cálculo da meta de redução do consumo específico de energia no subsector da tecelagem de fio do tipo algodão.
+   This paragraph contains a literal block::
+
+       Diploma: Despacho n.º 2384/2004, de 2004-02-04 Ministério da Economia Direcção-Geral de Energia Sumário: Valor que deve ser adoptado a partir da presente data para o cálculo da meta de redução do consumo específico de energia no subsector da tecelagem de fio do tipo algodão.
+	   
 Diploma: Despacho n.º 14868/2003, de 2003-07-31 Ministério da Economia Direcção-Geral de Energia Sumário: Valores que devem ser adoptados a partir da presente data para cálculo da meta de redução do consumo específico de energia no subsector da fabricação de vidro — cristalaria (vidro comum).
 Diploma: Despacho n.º 7562/2002, de 2002-04-11 Ministério da Economia Direcção-Geral de Energia Sumário: Valor que deve ser adoptado, a partir da presente data, para o cálculo da meta de redução dos consumos específicos de energia no subsector da fabricação de vidro de embalagem.
 Diploma: Despacho n.º 3157/2002, de 2002-02-09 Ministério da Economia Direcção-Geral de Energia Sumário: Deverá ser adoptado o valor de 0,91 tep/103m3 para o coeficiente de redução a tonelada equivalente de petróleo do gás natural.
