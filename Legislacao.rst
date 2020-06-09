@@ -5,7 +5,7 @@ Legislação
 Eficiência Energética
 ===========
 
-- **Diploma**: Resolução do Conselho de Ministros n.º 80/2008, de 2008-05-20 Presidência do Conselho de Ministros **Sumário**: Aprova o Plano Nacional de Acção para a Eficiência Energética (2008- 2015) http://www.dre.pt/pdf1sdip/2008/05/09700/0282402865.PDF
+- **Diploma**: Resolução do Conselho de Ministros n.º 80/2008, de 2008-05-20 Presidência do Conselho de Ministros **Sumário**: Aprova o Plano Nacional de Acção para a Eficiência Energética (2008- 2015) <p> http://www.dre.pt/pdf1sdip/2008/05/09700/0282402865.PDF </p>
 	
 - **Diploma:** Despacho n.º 9722/2004, de 2004-05-18 Ministério da Economia Direcção-Geral de Energia  **Sumário:** Valor que deve ser adoptado a partir da presente data para o cálculo da meta de redução dos consumos específicos de energia no subsector da industria cerâmica, «Fabrico de artigos cerâmicos para usos sanitários». http://www.dre.pt/pdf2sdip/2004/05/116000000/0751007510.pdf
 	
