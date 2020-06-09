@@ -8,7 +8,7 @@ Eficiência Energética
 .. csv-table::
    :file: EficienciaEnergetica.csv
    :header: "Diplomas", "Link" 
-   :widths: 1 1
+   :widths: 15 5
  
 Eficiência Energética na Indústria 
 ===========
