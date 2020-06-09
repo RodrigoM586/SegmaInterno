@@ -9,8 +9,9 @@ Listagem de Contas do Razão utilizadas:
 
 .. csv-table::
    :file: EficienciaEnergetica.csv
-   :header: "Treat", "Quantity" 
-   :widths: 15 5
+   :header: "Diplomas", "Link" 
+   :class: longtable
+   :widths: 10 5
    
 teste
  
