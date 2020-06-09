@@ -6,9 +6,10 @@ Eficiência Energética
 ===========
 
 .. csv-table::
-   :file: EficienciaEnergetica.csv
-   :header: "Diplomas", "Link" 
-   :widths: 15 5
+   :file: ContasRazao.csv
+   :header-rows: 1 
+   :class: longtable
+   :widths: 1 1
  
 Eficiência Energética na Indústria 
 ===========
