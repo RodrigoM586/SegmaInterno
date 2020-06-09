@@ -5,17 +5,11 @@ Legislação
 Eficiência Energética
 ===========
 
-Listagem de Contas do Razão utilizadas:
-
 .. csv-table::
    :file: EficienciaEnergetica.csv
    :header: "Diplomas", "Link" 
-   :class: longtable
    :widths: 1 1
-   
-teste
  
-  
 Eficiência Energética na Indústria 
 ===========
 
