@@ -7,17 +7,14 @@ Eficiência Energética
 
 - 	**Diploma:** Resolução do Conselho de Ministros n.º 80/2008, de 2008-05-20 Presidência do Conselho de Ministros 
 	**Sumário:** Aprova o Plano Nacional de Acção para a Eficiência Energética (2008- 2015)
-
 http://www.dre.pt/pdf1sdip/2008/05/09700/0282402865.PDF
 
 - 	**Diploma:** Despacho n.º 9722/2004, de 2004-05-18 Ministério da Economia Direcção-Geral de Energia 
 	**Sumário:** Valor que deve ser adoptado a partir da presente data para o cálculo da meta de redução dos consumos específicos de energia no subsector da industria cerâmica, «Fabrico de artigos cerâmicos para usos sanitários».
-
 http://www.dre.pt/pdf2sdip/2004/05/116000000/0751007510.pdf
 
 - 	**Diploma:** Despacho n.º 2384/2004, de 2004-02-04 Ministério da Economia Direcção-Geral de Energia 
 	**Sumário:** Valor que deve ser adoptado a partir da presente data para o cálculo da meta de redução do consumo específico de energia no subsector da tecelagem de fio do tipo algodão.
-
 http://www.dre.pt/pdf2sdip/2004/02/029000000/0198401984.pdf
 
 Diploma: Despacho n.º 14868/2003, de 2003-07-31 Ministério da Economia Direcção-Geral de Energia 
