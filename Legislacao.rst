@@ -1095,3 +1095,25 @@ O Decreto-Lei n.º 130/2013, de 10 de setembro que executa na ordem jurídica in
 https://dre.pt/application/dir/pdf1sdip/2013/09/17400/0566405668.pdf
 
 
+Segurança de máquinas
+-------------------------------------
+ 
+- A **Diretiva 2006/42/CE**, relativa a máquinas e que altera a Diretiva 95/16/CE respeitante aos ascensores, revogou a Diretiva 98/37/CE, a partir de 29 de dezembro de 2009.
+	https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:157:0024:0086:PT:PDF
+	https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1995L0016:20031120:PT:PDF
+
+Instrumentos de medição
+-------------------------------------
+
+- A **Diretiva 2014/32/UE**, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização no mercado de instrumentos de medição, revogou a Diretiva 2004/22/CE, de 31 de março de 2004, e estabelece os requisitos essenciais a que os seguintes instrumentos e sistemas devem obedecer, tendo em vista a sua comercialização e/ou colocação no mercado.
+	https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0032&from=PT
+	
+	
+Instrumentos de pesagem não automáticos
+-------------------------------------
+
+- A **Diretiva nº 2014/31/UE** de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante a instrumentos de pesagem de funcionamento não automático, revogando a Diretiva nº 2009/23/CE.
+	Esta Diretiva foi transposta para a ordem jurídica interna pelo **Decreto-lei n.º 43/2017** de 18 de abril, que  estabelece as regras aplicáveis à disponibilização no mercado e colocação em serviço de instrumentos de pesagem não automáticos.
+	https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0031&from=PT
+
+
