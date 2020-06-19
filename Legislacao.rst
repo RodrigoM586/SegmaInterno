@@ -1077,14 +1077,16 @@ Geral
 ITED/ITUR
 ===========
 
-- **Decreto-Lei n.º 92/2017, de 31 de julho:*  Decreto-Lei n.º 92/2017, publicado a 31 de julho, reforça medidas de redução do custo de implantação de redes de comunicações eletrónicas de elevado débito, transpondo para a ordem jurídica interna a Diretiva n.º 2014/61/UE. Decreto-Lei n.º 92/2017, de 31 de julho
+- **Decreto-Lei n.º 92/2017, de 31 de julho:**  Decreto-Lei n.º 92/2017, publicado a 31 de julho, reforça medidas de redução do custo de implantação de redes de comunicações eletrónicas de elevado débito, transpondo para a ordem jurídica interna a Diretiva n.º 2014/61/UE. Decreto-Lei n.º 92/2017, de 31 de julho
  https://dre.pt/application/file/a/107784638
-- ** Decreto-Lei n.º 123/2009** Define o regime jurídico da construção, do acesso e da instalação de redes e infra-estruturas de comunicações electrónicas. 
+- **Decreto-Lei n.º 123/2009** Define o regime jurídico da construção, do acesso e da instalação de redes e infra-estruturas de comunicações electrónicas. 
  https://dre.pt/application/dir/pdf1sdip/2009/05/09800/0325303279.pdf
 - **Lei n.º 47/2013, de 10 de julho** Procede à segunda alteração ao Decreto-Lei n.º 123/2009, de 21 de maio, que define o regime jurídico da construção, do acesso e da instalação de redes e infraestruturas de comunicações eletrónicas. 
  https://dre.pt/application/dir/pdf1s/2013/07/13100/0397304004.pdf
 - **Portaria n.º 377/2015** Aprova os requisitos específicos para certificação de entidades formadoras de projetistas e de instaladores de infraestruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios (ITUR) e de infraestruturas de telecomunicações em edifícios (ITED)
  https://dre.pt/application/conteudo/70762384
+- **Lei n.º 32/2009:** Autoriza o Governo a legislar sobre o regime de acesso aberto às infra-estruturas aptas ao alojamento de redes de comunicações electrónicas e a estabelecer o regime de impugnação dos actos do ICP-ANACOM aplicáveis no âmbito do regime de construção, acesso e instalação de redes e infra-estruturas de comunicações electrónicas
+ https://dre.pt/application/conteudo/492403
  
 Equipamentos
 ===========
