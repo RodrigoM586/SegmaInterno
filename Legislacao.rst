@@ -1083,6 +1083,8 @@ ITED/ITUR
  https://dre.pt/application/dir/pdf1sdip/2009/05/09800/0325303279.pdf
 - **Lei n.º 47/2013, de 10 de julho** Procede à segunda alteração ao Decreto-Lei n.º 123/2009, de 21 de maio, que define o regime jurídico da construção, do acesso e da instalação de redes e infraestruturas de comunicações eletrónicas. 
  https://dre.pt/application/dir/pdf1s/2013/07/13100/0397304004.pdf
+- **Portaria n.º 377/2015** Aprova os requisitos específicos para certificação de entidades formadoras de projetistas e de instaladores de infraestruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios (ITUR) e de infraestruturas de telecomunicações em edifícios (ITED)
+ https://dre.pt/application/conteudo/70762384
  
 Equipamentos
 ===========
