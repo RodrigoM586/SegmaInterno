@@ -1070,9 +1070,7 @@ Equipamentos
 Compatibilidade eletromagnética
 -------------------------------------
 
-A Diretiva n.º 2014/30/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à compatibilidade eletromagnética, entrou em vigor em 20 de abril de 2016 e revogou a Diretiva n.º 2004/108/CE. 
-	
-https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0030&from=PT
+A :ref:`Diretiva n.º 2014/30/UE  <https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0030&from=PT>`, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à compatibilidade eletromagnética, entrou em vigor em 20 de abril de 2016 e revogou a Diretiva n.º 2004/108/CE. 
 	
 Ao nível nacional o Decreto-Lei n.º 31/2017, de 22 de março, procedeu à  transposição para a ordem jurídica interna da Diretiva n.º 2014/30/UE.
 	
