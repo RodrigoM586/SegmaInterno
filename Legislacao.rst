@@ -1064,3 +1064,14 @@ Geral
 - **Diploma**:  Resolução do Conselho de Ministros n.º 63/2003, de 2003-04-28 Presidência do Conselho de Ministros  **Sumário:** Aprova as orientações da política energética portuguesa e revoga a Resolução do Conselho de Ministros n.º 154/2001, de 19 de Outubro.	.
  http://www.dre.pt/pdf1sdip/2003/04/098B00/27222731.PDF
 
+Equipamentos
+===========
+
+Compatibilidade eletromagnética
+-------------------------------------
+
+-  A **Diretiva n.º 2014/30/UE**, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à compatibilidade eletromagnética, entrou em vigor em 20 de abril de 2016 e revogou a Diretiva n.º 2004/108/CE. 
+	https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0030&from=PT
+	Ao nível nacional o Decreto-Lei n.º 31/2017, de 22 de março, procedeu à  transposição para a ordem jurídica interna da Diretiva n.º 2014/30/UE.
+	https://dre.pt/application/file/a/106645984
+	
