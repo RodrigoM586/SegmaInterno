@@ -1074,6 +1074,16 @@ Geral
 - **Diploma**:  Resolução do Conselho de Ministros n.º 63/2003, de 2003-04-28 Presidência do Conselho de Ministros  **Sumário:** Aprova as orientações da política energética portuguesa e revoga a Resolução do Conselho de Ministros n.º 154/2001, de 19 de Outubro.	.
  http://www.dre.pt/pdf1sdip/2003/04/098B00/27222731.PDF
 
+ITED/ITUR
+===========
+
+- **Decreto-Lei n.º 92/2017, de 31 de julho:*  Decreto-Lei n.º 92/2017, publicado a 31 de julho, reforça medidas de redução do custo de implantação de redes de comunicações eletrónicas de elevado débito, transpondo para a ordem jurídica interna a Diretiva n.º 2014/61/UE. Decreto-Lei n.º 92/2017, de 31 de julho
+ https://dre.pt/application/file/a/107784638
+- ** Decreto-Lei n.º 123/2009** Define o regime jurídico da construção, do acesso e da instalação de redes e infra-estruturas de comunicações electrónicas. 
+ https://dre.pt/application/dir/pdf1sdip/2009/05/09800/0325303279.pdf
+- **Lei n.º 47/2013, de 10 de julho** Procede à segunda alteração ao Decreto-Lei n.º 123/2009, de 21 de maio, que define o regime jurídico da construção, do acesso e da instalação de redes e infraestruturas de comunicações eletrónicas. 
+ https://dre.pt/application/dir/pdf1s/2013/07/13100/0397304004.pdf
+ 
 Equipamentos
 ===========
 
