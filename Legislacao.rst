@@ -249,6 +249,8 @@ Cogeração
 Comercialização
 ===========
 
+- **Regulamento n.º 610/2019:** Aprova o Regulamento dos Serviços das Redes Inteligentes de Distribuição de Energia Elétrica.
+ https://dre.pt/application/conteudo/123675698
 - **Diploma**:  Portaria n.º 278-B/2014, de 2014-12-29 Ministério da Solidariedade, Emprego e Segurança Social, Ministério das Finanças, Ministério do Ambiente, Ordenamento do Território e Energia  **Sumário:** Primeira alteração à Portaria n.º 275-A/2011, de 30 de setembro que fixa a percentagem do apoio social extraordinário ao consumidor de energia a aplicar nas faturas de eletricidade e de gás natural aos clientes finais elegíveis e primeira alteração à Portaria n.º 275-B/2011, de 30 de setembro que estabelece os procedimentos, os modelos e as demais condições necessárias à atribuição, aplicação e manutenção do apoio social extraordinário ao consumidor de energia.	https://dre.pt/application/file/65985959
 - **Diploma**:  Portaria n.º 278-C/2014, de 2014-12-29 Ministério da Solidariedade, Emprego e Segurança Social, Ministério das Finanças, Ministério do Ambiente, Ordenamento do Território e Energia  **Sumário:** Estabelece os procedimentos e as demais condições necessários à atribuição, aplicação e manutenção da tarifa social estabelecida no Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e revoga a Portaria n.º 1334/2010, de 31 de dezembro.	https://dre.pt/application/file/65985960
 - **Diploma**:  Decreto-Lei n.º 172/2014, de 2014-11-14 Ministério   do   Ambiente,   Ordenamento   do   Território   e   Energia  **Sumário:** Procede à primeira alteração ao Decreto-Lei n.º 138-A/2010, de 28 de dezembro, que cria a tarifa social de fornecimento de energia elétrica, e à primeira alteração ao Decreto-Lei n.º 102/2011, de 30 de setembro, que cria o apoio social extraordinário ao consumidor de energia.	https://dre.pt/application/file/58895411
@@ -464,6 +466,8 @@ Geral
 Instalações de Utilização
 ===========
 
+- Procede à alteração da Portaria n.º 949-A/2006, de 11 de setembro, que aprovou as Regras Técnicas das Instalações Elétricas de Baixa Tensão (RTIEBT), nos termos previstos no artigo 2.º do Decreto-Lei n.º 226/2005, de 28 de dezembro, por aditamento da secção 722 à parte 7 das RTIEBT - Regras Técnicas das Instalações Elétricas de Baixa Tensão
+ https://dre.pt/application/conteudo/70055493
 - **Diploma**:  Portaria n.º 949-A/2006, de 2006-09-11 Ministério da Economia e da Inovação  **Sumário:** Aprova as Regras Técnicas das Instalações Eléctricas de Baixa Tensão	.
  http://www.dre.pt/pdfgratis/2006/09/17501.pdf
 - **Diploma**:  Portaria n.º 1081/91, de 1991-10-24 Ministério da Administração Interna, Ministério da Indústria e Energia, Ministério das Obras Públicas, Transportes e Comunicações, Ministério do Ambiente e Recursos Naturais  **Sumário:** Estabelece regras uniformes de fabrico e de montagem de termoacumuladores eléctricos.	
@@ -494,6 +498,10 @@ Licenciamento
  http://www.dre.pt/pdf1sdip/1972/12/28200/18201822.PDF
 - **Diploma**:  Decreto-Lei n.º 30349/40, de 1940-04-02 Ministério da Indústria e Energia  **Sumário:** Determina que o licenciamento das linhas de energia eléctrica em alta tensão abrangidas pelo artº 5.º do Regulamento de Licenças para Instalações Eléctricas seja feita nos termos do mesmo Regulamento.	
 - **Diploma**:  Decreto-Lei n.º 26852/36, de 1936-07-30 Ministério das Obras Públicas e Comunicações  **Sumário:** Aprova o regulamento de licenças para instalações eléctricas (RLIE).	
+- **Lei n.º 61/2018:** Primeira alteração, por apreciação parlamentar, ao Decreto-Lei n.º 96/2017, de 10 de agosto, que estabelece o regime das instalações elétricas particulares.
+ https://dre.pt/pesquisa/-/search/116130015/details/maximized
+- **Decreto-Lei n.º 96/2017:** Estabelece o regime das instalações elétricas particulares.
+ https://dre.pt/application/conteudo/107987277
 
 Linhas Elétricas de Alta Tensão
 ===========
@@ -1072,13 +1080,22 @@ Compatibilidade eletromagnética
 
 A `Diretiva n.º 2014/30/UE <https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0030&from=PT/>`_, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à compatibilidade eletromagnética, entrou em vigor em 20 de abril de 2016 e revogou a Diretiva n.º 2004/108/CE. 
 Ao nível nacional o Decreto-Lei n.º 31/2017, de 22 de março, procedeu à  transposição para a ordem jurídica interna da `Diretiva n.º 2014/30/UE <https://dre.pt/application/file/a/106645984/>`_.
-		
+
+**Decreto-Lei n.º 31/2017:**  Estabelece as regras aplicáveis à compatibilidade eletromagnética dos equipamentos, transpondo a Diretiva n.º 2014/30/UE
+ https://dre.pt/application/conteudo/106642830
+	
 Material elétrico de baixa tensão
 -------------------------------------
 
 A `Diretiva n.º 2014/35/UE <https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0035&from=PT/>`_, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, visa a harmonização da legislação dos Estados-Membros respeitante à disponibilização no mercado de material elétrico destinado a ser utilizado dentro de certos limites de tensão. Entrou em vigor em 20 de abril e revoga a Diretiva n.º 2006/95/CE.
 Esta Diretiva encontra-se alinhada com o novo quadro legislativo (NQL) constituído pela `Decisão nº 768/2008/CE <https://dre.pt/application/file/a/106496845/>`_ de 9 de Julho de 2008, relativa a um quadro comum para a comercialização de produtos, e o Regulamento 765/2008 que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos. Ao nível nacional, o Decreto-Lei 21/2017, de 21 de fevereiro, procedeu à sua transposição para a ordem jurídica interna.
 	
+**Decreto-Lei n.º 21/2017:** Estabelece as regras aplicáveis à disponibilização no mercado de material elétrico destinado a ser utilizado dentro de certos limites de tensão, transpondo a Diretiva n.º 2014/35/UE
+ https://dre.pt/application/conteudo/106499601
+
+
+**Diretiva 2014/35/UE:** https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014L0035&from=EN
+
 Produtos de construção
 -------------------------------------
 
