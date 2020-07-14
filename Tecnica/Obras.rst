@@ -36,7 +36,7 @@ Após criação do ``Registo`` deverá ser criada uma ``Distribuição`` associa
 .. Note:: Preenchimento do descritivo da distribuição (despacho/informação):
 
 		- :strong:`Pasta Fisica`: "Endereço/caminho da pasta"
-		- :strong:`Proposta`: (referência da proposta)
+		- :strong:`Proposta`: "Referência da proposta"
 		
 		Informação Técnica: 
 		
