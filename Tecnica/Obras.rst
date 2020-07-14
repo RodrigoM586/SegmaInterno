@@ -42,16 +42,16 @@ Após criação do ``Registo`` deverá ser criada uma ``Distribuição`` associa
 		
 		- :strong:`Tipo de instalações`: "Exploração do Posto de Transformação de.... "
 		- :strong:`Periodicidade de execução`: "Semestral..."
-		- :strong:`Gestor do Contrato SEGMA`: "Identificar gestor, apoio/adjunto do gestor. Se vários gestores indicar"
-		- :strong:`Gestor do Contrato Cliente`: "Identificar gestor e contactos telf. e email - Se forem vários indicar"
-		- :strong:`Outros Dados/Observações`: "Todas as informações adicionais. Exemplo: Os trabalhos xxx devem ser realizados ao Sábado entre as xx e as xxx”
+		- :strong:`Gestor do Contrato SEGMA`: "Identificar gestor, apoio/adjunto do gestor."
+		- :strong:`Gestor do Contrato Cliente`: "Identificar gestor e contactos telf."
+		- :strong:`Outros Dados/Observações`: 
 		
 		Informação Financeira: 
 		
 		- :strong:`Nota de Encomenda`: 
 		- :strong:`Valor Anual do Contrato`: "Exemplo: 2000€/ANO”
-		- :strong:`Periodicidade de faturação`: “Exemplo 1: Semestral- 1000 €/Semestre  /// Exemplo 2:   Março/2020: 1500€, Setembro/2020: ...”
-		- :strong:`Responsável pelo pedido de Faturação`: "Exemplos: Dep. Suporte / Gestor de contrato após execução"
+		- :strong:`Periodicidade de faturação`: 
+		- :strong:`Responsável pelo pedido de Faturação`: 
 		- :strong:`Duração`: "De: DD/MM/AAAA A DD/MM/AAAA"
 		- :strong:`Renovação automática`: SIM/NÃO
 		- :strong:`Alerta renovação`: "Indicar Data" 
