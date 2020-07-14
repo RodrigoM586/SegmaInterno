@@ -33,35 +33,37 @@ Após criação do ``Registo`` deverá ser criada uma ``Distribuição`` associa
 
 .. image:: img/distribuicao_descricao.PNG 
 
-:strong:`Modelo:`  	CONTRATO: (referência do contrato, gerado pela base de dados)
-					PASTA DE CONTRATO: (pasta do contrato na rede)
-					PROPOSTA: (referência da proposta)
-					PEP: (se existir) 
+:strong:`Despacho/Informação :`   	
 
-					• Tipo de instalações: 
-					• Periodicidade de execução: 
-					• Duração dos trabalhos campo (estimativa): 
-					• Nº de Ordem: 
-					• Responsável Operacional: RESPONSÁVEL PELO PLANEAMENTO E VISTORIAS: 
-					• Duração: 
-					• Periodicidade de faturação: 
-					• Responsável pelo pedido de faturação: 
-					• Renovação automática: 
+ - CONTRATO: (referência do contrato, gerado pela base de dados)
+ - PASTA DE CONTRATO: (pasta do contrato na rede)
+ - PROPOSTA: (referência da proposta)
+ - PEP: (se existir) 
+ 
+ - Tipo de instalações: 
+ - Periodicidade de execução: 
+ - Duração dos trabalhos campo (estimativa): 
+ - Nº de Ordem: 
+ - Responsável Operacional: RESPONSÁVEL PELO PLANEAMENTO E VISTORIAS: 
+ - Duração: 
+ - Periodicidade de faturação: 
+ - Responsável pelo pedido de faturação: 
+ - Renovação automática: 
 					
 Divulgação
 ----------------------------
 			
 Esta é a lista paralela em que a ``Distribuição`` deverá ser divulgada. 
 			
-ETAPA FINAL DEVERÁ SER O HEFE DEPARTAMENTO SUPORTE
-ETAPAS INTERMÉDIAS EM PARALELO, SENDO INTERVENIVENTES:
-- GESTOR DE CONTRATO E APOIOS;
-- CHEFE DO DEPARTAMENTO A QUE SE REFERE;
-- COORDENADOR CONFORME ÁREA A QUE SE REFERE;
-- CHEFE DEPARTAMENTO SUPORTE;
-- COORDENADOR DEP. SUPORTE;
-- APOIO DEP.SUPORTE;
-- DIRETOR TÉCNICO ;
+ - Etapa final deverá ser o Chefe Departamento Suporte; 
+ - Etapas intermédias, em paralelo:
+	 - GESTOR DE CONTRATO E APOIOS;
+	 - CHEFE DO DEPARTAMENTO A QUE SE REFERE;
+	 - COORDENADOR CONFORME ÁREA A QUE SE REFERE;
+	 - CHEFE DEPARTAMENTO SUPORTE;
+	 - COORDENADOR DEP. SUPORTE;
+	 - APOIO DEP.SUPORTE;
+	 - DIRETOR TÉCNICO 
 
 Documentação
 ----------------------------
