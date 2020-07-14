@@ -6,18 +6,26 @@ Obras/Contratos
 
 Esta secção têm como objetivo explicar o formulário de Obras/Contratos da base de dados, bem como informar acerca das suas funcionalidades.
 
-Abertura de Contrato
+Contratos
 ===========================
 
 Aquando da adjudicação de Contratos, deverá ser seguido o seguinte Workflow. Cada um dos subcapítulos explica detalhadamente, cada uma das fases necessárias para a abertura completa do Contrato.  
 
-.. image:: img/Diagrama_AberturaContrato.PNG
+.. image:: img/Diagrama_AberturaContrato.png
 
 Criação do Registo/RCDEE
 ----------------------------
 
+Após a adjudicação formal e o documento, do contrato, respetivamente assinado e digitalizado, deverá ser criado um Registo (RCDEE) para inicio do processo de criação do Contato. 
+
+.. image:: img/registo_descricao.PNG 
 
 
+:strong:`Modelo:` PEP - Designação do Cliente - Descrição do Serviço 
+
+:strong:`Exemplo:` S.SRAGRIFLO.CT.0003 - SECRETARIA REGIONAL DA AGRICULTURA E FLORESTAS - Manutenção Preventiva UPS 10kVA
+
+.. Note::  Deverá ser respeitado o seguinte modelo de preechimento, do assunto do registo. 
 
 Formulário Obra
 ===========================
