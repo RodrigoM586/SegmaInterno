@@ -16,16 +16,37 @@ Aquando da adjudicação de Contratos, deverá ser seguido o seguinte Workflow. 
 Criação do Registo/RCDEE
 ----------------------------
 
-Após a adjudicação formal e o documento, do contrato, respetivamente assinado e digitalizado, deverá ser criado um Registo (RCDEE) para inicio do processo de criação do Contato. 
+Após a adjudicação formal e o documento, do contrato, respetivamente assinado e digitalizado, deverá ser criado um ``Registo (RCDEE)`` para inicio do processo de criação do Contato. 
 
 .. image:: img/registo_descricao.PNG 
-
 
 :strong:`Modelo:` PEP - Designação do Cliente - Descrição do Serviço 
 
 :strong:`Exemplo:` S.SRAGRIFLO.CT.0003 - SECRETARIA REGIONAL DA AGRICULTURA E FLORESTAS - Manutenção Preventiva UPS 10kVA
 
-.. Note::  Deverá ser respeitado o seguinte modelo de preechimento, do assunto do registo. 
+.. Note::  Deverá ser respeitado o modelo de preechimento do assunto do registo. 
+
+Criação da Distribuição
+----------------------------
+
+Após criação do ``Registo`` deverá ser criada uma ``Distribuição`` associado ao registo anteriormente criado, respeitando o seguinte modelo: 
+
+.. image:: img/distribuicao_descricao.PNG 
+
+:strong:`Modelo:`  	CONTRATO: (referência do contrato, gerado pela base de dados)
+					PASTA DE CONTRATO: (pasta do contrato na rede)
+					PROPOSTA: (referência da proposta)
+					PEP: (se existir) 
+
+					• Tipo de instalações: 
+					• Periodicidade de execução: 
+					• Duração dos trabalhos campo (estimativa): 
+					• Nº de Ordem: 
+					• Responsável Operacional: RESPONSÁVEL PELO PLANEAMENTO E VISTORIAS: 
+					• Duração: 
+					• Periodicidade de faturação: 
+					• Responsável pelo pedido de faturação: 
+					• Renovação automática: 
 
 Formulário Obra
 ===========================
