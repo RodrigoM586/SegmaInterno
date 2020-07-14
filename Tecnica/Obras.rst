@@ -6,6 +6,19 @@ Obras/Contratos
 
 Esta secção têm como objetivo explicar o formulário de Obras/Contratos da base de dados, bem como informar acerca das suas funcionalidades.
 
+Abertura de Contrato
+===========================
+
+Aquando da adjudicação de Contratos, deverá ser seguido o seguinte Workflow. Cada um dos subcapítulos explica detalhadamente, cada uma das fases necessárias para a abertura completa do Contrato.  
+
+.. image:: img/Diagrama_AberturaContrato.PNG
+
+Criação do Registo/RCDEE
+----------------------------
+
+
+
+
 Formulário Obra
 ===========================
 
