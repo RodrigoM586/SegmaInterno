@@ -33,23 +33,29 @@ Após criação do ``Registo`` deverá ser criada uma ``Distribuição`` associa
 
 .. image:: img/distribuicao_descricao.PNG 
 
-:strong:`Despacho/Informação :`   	
+.. Note:: Preenchimento do descritivo da distribuição (despacho/informação):
 
- - CONTRATO: (referência do contrato, gerado pela base de dados)
- - PASTA DE CONTRATO: (pasta do contrato na rede)
- - PROPOSTA: (referência da proposta)
- - PEP: (se existir) 
- 
- - Tipo de instalações: 
- - Periodicidade de execução: 
- - Duração dos trabalhos campo (estimativa): 
- - Nº de Ordem: 
- - Responsável Operacional: RESPONSÁVEL PELO PLANEAMENTO E VISTORIAS: 
- - Duração: 
- - Periodicidade de faturação: 
- - Responsável pelo pedido de faturação: 
- - Renovação automática: 
-					
+		- :strong:`Pasta Fisica`: "Endereço/caminho da pasta"
+		- :strong:`Proposta`: (referência da proposta)
+		
+		Informação Técnica: 
+		
+		- :strong:`Tipo de instalações`: "Exploração do Posto de Transformação de.... "
+		- :strong:`Periodicidade de execução`: "Semestral..."
+		- :strong:`Gestor do Contrato SEGMA`: "Identificar gestor, apoio/adjunto do gestor. Se vários gestores indicar"
+		- :strong:`Gestor do Contrato Cliente`: "Identificar gestor e contactos telf. e email - Se forem vários indicar"
+		- :strong:`Outros Dados/Observações`: "Todas as informações adicionais. Exemplo: Os trabalhos xxx devem ser realizados ao Sábado entre as xx e as xxx”
+		
+		Informação Financeira: 
+		
+		- :strong:`Nota de Encomenda`: 
+		- :strong:`Valor Anual do Contrato`: "Exemplo: 2000€/ANO”
+		- :strong:`Periodicidade de faturação`: “Exemplo 1: Semestral- 1000 €/Semestre  /// Exemplo 2:   Março/2020: 1500€, Setembro/2020: ...”
+		- :strong:`Responsável pelo pedido de Faturação`: "Exemplos: Dep. Suporte / Gestor de contrato após execução"
+		- :strong:`Duração`: "De: DD/MM/AAAA A DD/MM/AAAA"
+		- :strong:`Renovação automática`: SIM/NÃO
+		- :strong:`Alerta renovação`: "Indicar Data" 
+				
 Divulgação
 ----------------------------
 			
@@ -69,11 +75,11 @@ Documentação
 ----------------------------
 
 Deverá ser anexado os seguintes documento na distribuição criada anteriormente. 
-- Contrato digitalizado;
-- Nota de Encomenda (se existir);
-- Proposta;
-- Outros documentos
 
+ - Contrato digitalizado;
+ - Nota de Encomenda (se existir);
+ - Proposta;
+ - Outros documentos
 
 Formulário Obra
 ===========================
