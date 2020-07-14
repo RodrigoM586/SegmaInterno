@@ -13,7 +13,7 @@ Aquando da adjudicação de Contratos, deverá ser seguido o seguinte Workflow. 
 
 .. image:: img/Diagrama_AberturaContrato.png
 
-Criação do Registo/RCDEE
+Criação do Registo
 ----------------------------
 
 Após a adjudicação formal e o documento, do contrato, respetivamente assinado e digitalizado, deverá ser criado um ``Registo (RCDEE)`` para inicio do processo de criação do Contato. 
@@ -47,6 +47,31 @@ Após criação do ``Registo`` deverá ser criada uma ``Distribuição`` associa
 					• Periodicidade de faturação: 
 					• Responsável pelo pedido de faturação: 
 					• Renovação automática: 
+					
+Divulgação
+----------------------------
+			
+Esta é a lista paralela em que a ``Distribuição`` deverá ser divulgada. 
+			
+ETAPA FINAL DEVERÁ SER O HEFE DEPARTAMENTO SUPORTE
+ETAPAS INTERMÉDIAS EM PARALELO, SENDO INTERVENIVENTES:
+- GESTOR DE CONTRATO E APOIOS;
+- CHEFE DO DEPARTAMENTO A QUE SE REFERE;
+- COORDENADOR CONFORME ÁREA A QUE SE REFERE;
+- CHEFE DEPARTAMENTO SUPORTE;
+- COORDENADOR DEP. SUPORTE;
+- APOIO DEP.SUPORTE;
+- DIRETOR TÉCNICO ;
+
+Documentação
+----------------------------
+
+Deverá ser anexado os seguintes documento na distribuição criada anteriormente. 
+- Contrato digitalizado;
+- Nota de Encomenda (se existir);
+- Proposta;
+- Outros documentos
+
 
 Formulário Obra
 ===========================
